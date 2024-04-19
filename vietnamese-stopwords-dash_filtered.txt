@@ -1,3 +1,4 @@
+kiểu
 a_lô
 a_ha
 ai
@@ -492,7 +493,6 @@ giống
 giống_người
 giống_nhau
 giống_như
-giờ
 giờ_lâu
 giờ_này
 giờ_đi
@@ -585,10 +585,8 @@ khác_xa
 khách
 khó_biết
 khó_chơi
-khó_khăn
 khó_làm
 khó_mở
-khó_nghe
 khó_nghĩ
 khó_nói
 khó_thấy
@@ -879,7 +877,6 @@ ngồi_không
 ngồi_sau
 ngồi_trệt
 ngộ_nhỡ
-nhanh
 nhanh_lên
 nhanh_tay
 nhau
@@ -956,7 +953,6 @@ nhằm_lúc
 nhằm_vào
 nhằm_để
 nhỉ
-nhỏ
 nhỏ_người
 nhớ
 nhớ_bập_bõm
@@ -993,7 +989,6 @@ nên_người
 nên_tránh
 nó
 nóc
-nói
 nói_bông
 nói_chung
 nói_khó
@@ -1111,7 +1106,6 @@ qua_thì
 qua_đi
 quan_trọng
 quan_trọng_vấn_đề
-quan_tâm
 quay
 quay_bước
 quay_lại
@@ -1794,7 +1788,6 @@ yêu_cầu
 đã_đủ
 đó
 đó_đây
-đúng
 đúng_ngày
 đúng_ra
 đúng_tuổi
