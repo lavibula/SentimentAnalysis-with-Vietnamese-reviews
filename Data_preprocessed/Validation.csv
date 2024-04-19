@@ -1,0 +1,1584 @@
+,sentence,sentiment,topic,sentence_dropped
+0,giáo trình chưa cụ thể .,0,1,giáo_trình NOT
+1,giảng buồn ngủ .,0,0,giảng buồn_ngủ
+2,"giáo viên vui tính , tận tâm .",2,0,giáo_viên vui_tính tận_tâm
+3,"giảng viên nên giao bài tập nhiều hơn , chia nhóm để làm bài tập , giảng kỹ những vấn đề trọng tâm của môn học , đưa ra phương pháp để học hiệu quả hơn .",0,0,giảng_viên giao bài_tập nhiều chia bài_tập giảng kỹ trọng_tâm môn_học phương_pháp học hiệu_quả
+4,"giảng viên cần giảng bài chi tiết hơn , đi sâu hơn code và chạy thử chương trình có trong bài giảng nếu được .",0,0,giảng_viên cần giảng chi_tiết đi_sâu code chạy thử chương_trình giảng
+5,nên có giảng viên nước ngoài dạy để sinh viên có cơ hội thực hành giao tiếp .,0,0,giảng_viên nước_ngoài dạy sinh_viên thực_hành giao_tiếp
+6,nên có bài tập lớn đồ án môn học .,0,1,bài_tập đồ_án môn_học
+7,"giảng viên đảm bảo nội dung học , phân tích giải nhiều bài tập .",2,0,giảng_viên nội_dung học phân_tích giải nhiều bài_tập
+8,"nêu rõ mục tiêu , mục đích môn học để sinh viên tiếp thu dễ dàng .",0,1,nêu mục_tiêu mục_đích môn_học sinh_viên tiếp_thu dễ_dàng
+9,có một số vấn đề nói chưa rõ .,0,1,nói NOT
+10,"giáo viên tận tình , chuẩn bị bài học chu đáo .",2,0,giáo_viên tận_tình bài_học chu_đáo
+11,giảng viên dạy hay và tâm huyết .,2,0,giảng_viên dạy hay tâm_huyết
+12,"cách tính học phí đối với môn thực hành không được rõ ràng và minh bạch , trong khi học thực hành sinh viên hầu như không sử dụng máy tính của trường và kiến thức học được từ giảng viên là rất ít so với học lý thuyết .",0,1, môn thực_hành NOT rõ_ràng  học thực_hành sinh_viên hầu_như NOT máy_tính trường kiến_thức học giảng_viên học lý_thuyết
+13,nói chuyện dễ nghe .,2,0,nói_chuyện
+14,"hiểu được mục tiêu của môn học , thầy nhiệt tình giúp đỡ sinh viên .",2,0,hiểu mục_tiêu môn_học thầy nhiệt_tình giúp_đỡ sinh_viên
+15,"cô dạy khó hiểu , phải về nhà học thêm nhiều mới hiểu những gì cần thiết cho môn học .",0,0,cô dạy khó hiểu học nhiều hiểu cần_thiết môn_học
+16,"truyền đạt tốt , bám sát đề thi , bài giảng cung cấp đầy đủ .",2,0,truyền_đạt bám sát đề thi giảng cung_cấp đầy_đủ
+17,thầy cô dạy rất nhiệt tình !,2,0,thầy cô dạy nhiệt_tình
+18,em không có bất cứ một lời phê bình nào .,1,3,NOT một phê_bình
+19,"nội dung học quá trừu tượng , thực hành chưa thực sự mang lại hiệu quả , đa phần sinh viên thực hành theo bài tập được giao , thực hành xong không biết mình đang làm gì , không thấy được ý nghĩa thực tiễn của môn học .",0,1,nội_dung học quá trừu_tượng thực_hành NOT hiệu_quả đa_phần sinh_viên thực_hành bài_tập giao thực_hành xong NOT biết NOT ý_nghĩa thực_tiễn môn_học
+20,cô nên thêm phần điểm đi học thực hành .,0,0,cô đi học thực_hành
+21,cách nói chuyện với sinh viên gây mất cảm tình của sinh viên đối với giảng viên .,0,0,nói_chuyện sinh_viên NOT  sinh_viên giảng_viên
+22,"đồng thời , bài giảng , theo em nhìn nhận , thực sự rất chi tiết .",2,1,giảng  chi_tiết
+23,truyền đạt kiến thức .,1,0,truyền_đạt kiến_thức
+24,rất ấn tượng với những bài tập thở giúp cho não bộ được nghĩ ngơi của cô .,2,0,ấn_tượng bài_tập thở giúp    cô
+25,"thầy rất nhiệt tình , giảng bài rất hay và dễ hiểu .",2,0,thầy nhiệt_tình giảng hay hiểu
+26,"nhưng em không mấy hài lòng về cách giải quyết vấn đề của giảng viên khi giảng viên đã đi trễ như vậy , thầy trực phòng thực hành lên tiếng bảo em ( và một số bạn khác ) ra về .",0,0,NOT mấy hài_lòng giải_quyết giảng_viên giảng_viên đi trễ thầy  phòng thực_hành  
+27,đôi khi giảng dạy quá nhiệt tình mà quên mất cả thời gian ( hết giờ học giảng viên vẫn dạy thêm 10 - 15 phút ) .,0,0,đôi_khi giảng_dạy quá nhiệt_tình quên NOT giờ học giảng_viên dạy mười mười lăm phút
+28,ôn tập kỹ trước khi thi hoặc trong lúc giảng dạy cập nhật đến những vấn đề có thể cho ra trong bài thi .,0,0,ôn_tập kỹ thi giảng_dạy cập_nhật thi
+29,"sự nhiệt tình , vui tính của giảng viên .",2,0,nhiệt_tình vui_tính giảng_viên
+30,"thầy cho tự tìm hiểu , và tự tìm hiểu khác với hiểu được vấn đề .",1,0,thầy hiểu
+31,"cô dạy đều , bao giờ cũng đến sớm và đúng giờ .",2,0,cô dạy đúng giờ
+32,"thầy dạy hay và có tâm , mặc dù môn học lịch sử khá khô khan nhưng chúng em hiểu được rất nhiều bài học qua bài giảng của thầy .",2,0,thầy dạy hay tâm mặc_dù môn_học  khô_khan hiểu nhiều bài_học giảng thầy
+33,mong thầy dạy tận tâm hơn !,0,0,mong thầy dạy tận_tâm
+34,thầy chưa có sự hướng dẫn cụ thể .,0,0,thầy NOT hướng_dẫn
+35,không đi đúng giờ .,0,0,NOT đi đúng giờ
+36,môn này khó .,0,1,môn khó
+37,tạm được .,1,3,tạm
+38,rât tốt .,2,3,
+39,"khi ra đề thi thầy nên kiểm tra kỹ nội dung đề , tránh để sót lỗi điển hình như doubledot tên cột của bảng trùng từ khóa của oracle .",0,0,đề thi thầy kiểm_tra kỹ nội_dung đề  lỗi  doubledot  bảng trùng khóa 
+40,giảng viên chưa cho sinh viên bài tập về nhà .,0,0,giảng_viên NOT sinh_viên bài_tập
+41,giảng viên chỉ lên lớp còn lại không hướng dẫn nội dung thực hành cho sinh viên .,0,0,giảng_viên lên_lớp NOT hướng_dẫn nội_dung thực_hành sinh_viên
+42,thầy giảng bài dễ hiểu .,2,0,thầy giảng hiểu
+43,giảng bài nghe rất dễ hiểu vui tính .,2,0,giảng hiểu vui_tính
+44,giảng viên thực hành chỉ gặp sinh viên rất ít .,0,0,giảng_viên thực_hành sinh_viên
+45,còn đi trễ .,0,0,đi trễ
+46,"thầy dạy hay , demo code trực tiếp cho sinh viên dễ hiểu .",2,0,thầy dạy hay demo code sinh_viên hiểu
+47,giáo trình nên có sự trình bày cụ thể hơn .,0,1,giáo_trình trình_bày
+48,"thầy vui tính , chuyên môn vững .",2,0,thầy vui_tính chuyên_môn vững
+49,"dạy đúng đề cương , ôn tập sát với đề thi .",2,0,dạy đúng đề_cương ôn_tập sát đề thi
+50,"cô dạy bài tập rất tận tình , dễ hiểu .",2,0,cô dạy bài_tập tận_tình hiểu
+51,cô rất nghiêm .,0,0,cô 
+52,"đề cập về tính thực tế , liên quan của hệ thống kiến thức .",2,1,đề_cập hệ_thống kiến_thức
+53,"mỗi khi cần giảng giải bài tập , kiến thức , vấn đề gì mà sử dụng đến mạng wifi thì rất tệ làm tốn thời gian của thầy và sinh viên .",0,2,cần giảng_giải bài_tập kiến_thức mạng  tệ  thầy sinh_viên
+54,"thầy rất nhiệt tình , sẵn sàng trả lời câu hỏi sinh viên .",2,0,thầy nhiệt_tình sẵn_sàng trả_lời câu sinh_viên
+55,nhà trường nên cập nhật visual studio lên phiên bản mới nhất để tụi em thực hành tốt hơn .,0,2,nhà_trường cập_nhật visual studio phiên_bản tụi thực_hành
+56,em hy vọng nhà trường cải thiện lại các máy trong phòng thực hành để tương ứng với số tiền đối với số chỉ thực hành .,0,1,hy_vọng nhà_trường cải_thiện máy phòng thực_hành   
+57,quá khó khăn trong việc báo cáo bài .,0,0,quá khó_khăn báo_cáo
+58,"cô dạy đến hơi thở cuối cùng , rất tận tâm với sinh viên , sinh viên không rõ vấn đề gì đề giải thích cặn kẽ , lâu lâu trong giờ học kể những vấn đề có liên quan tới môn học giúp cho sinh viên định hướng được học môn này để làm gì tạo hứng thú cho sinh viên học tập , đặc biệt cô có giờ tiếp sinh viên định kỳ để để hỗ trợ sinh viên em rất thích điều này .",2,0,cô dạy hơi thở tận_tâm sinh_viên sinh_viên NOT đề giải_thích cặn_kẽ giờ học môn_học giúp sinh_viên định_hướng học môn hứng_thú sinh_viên học_tập cô giờ tiếp sinh_viên  sinh_viên
+59,ngoài ra cung cấp một vài thông tin bổ sung về việc học công nghệ thông tin hiệu quả hơn .,2,1,cung_cấp thông_tin bổ_sung học công_nghệ thông_tin hiệu_quả
+60,cô dạy nhiệt tình và dễ hiểu .,2,0,cô dạy nhiệt_tình hiểu
+61,"giảng dễ hiểu , cho bài tập đầy đủ .",2,0,giảng hiểu bài_tập đầy_đủ
+62,"thầy vui tính , rất nhiệt tình với sinh viên .",2,0,thầy vui_tính nhiệt_tình sinh_viên
+63,sự nhiệt tình và liên hệ thực tế của giáo viên .,2,0,nhiệt_tình liên_hệ giáo_viên
+64,tận tình chỉ bảo .,2,0,tận_tình 
+65,"mong giảng viên có thể liên hệ bài học với thực tế , cho ví dụ nhiều hơn sinh viên có thể hiểu được bài .",0,0,mong giảng_viên liên_hệ bài_học ví_dụ nhiều sinh_viên hiểu
+66,giảng viên giảng nhiều bài tập và tăng cường ôn tập ngữ pháp và luyện nói .,2,0,giảng_viên giảng nhiều bài_tập tăng_cường ôn_tập ngữ_pháp luyện nói
+67,"tụi em tới để học chứ không phải để nghe cô chê bai người việt này nọ lọ chai , không phải để nghe việc cô đi dạy người nước ngoài nói tiếng việt , cô cũng đừng đánh giá người ta nói cái gì cho cả một tập thể .",0,0,tụi học NOT cô  việt   NOT cô đi dạy nước_ngoài nói tiếng việt cô đừng  nói một 
+68,đề thi khó .,0,1,đề thi khó
+69,không check mail mỗi khi hỏi bài .,0,0,NOT  mail
+70,nhiều tài liệu hữu ích .,2,1,nhiều tài_liệu hữu_ích
+71,"đồ án cuối kỳ trong vòng một tháng cuối , áp dụng được quy trình thực tế .",2,1,đồ_án kỳ vòng một áp_dụng quy_trình
+72,thúc đẩy sinh viên tự học đạt điểm cao trong các kỳ thi .,2,1, sinh_viên học điểm_cao kỳ thi
+73,"thì hiện nay khóa 5 đang học môn này có cảm nhận vẫn còn là con "" chuột bạch "" thử nghiệm cho môn học .",0,1,khóa học môn    môn_học
+74,"thầy rất nhiệt tình , vui tính , dạy dễ hiểu và cặn kẽ .",2,0,thầy nhiệt_tình vui_tính dạy hiểu cặn_kẽ
+75,giảng viên nói tiếng anh không hay .,0,0,giảng_viên nói tiếng NOT hay
+76,các công thức đã có sự đổi mới nên cô cần cập nhật thêm ( betweenness centrality và closeness centrality ) tránh áp đặt kiến thức lên sinh viên .,0,0,công_thức đổi_mới cô cần cập_nhật   centrality  centrality áp_đặt kiến_thức sinh_viên
+77,thầy không quan tâm đến học sinh .,0,0,thầy NOT quan_tâm học_sinh
+78,"mong nhà trường cần nâng cấp các phòng thực hành , và phong lab khoa .",0,2,mong nhà_trường cần nâng_cấp phòng thực_hành  
+79,"nhưng cách truyền đạt và cách dạy học rất buồn ngủ , không hiệu quả , rắc rối .",0,0,truyền_đạt dạy_học buồn_ngủ NOT hiệu_quả 
+80,"giảng viên vui vẻ , thoải mái trong giờ học , không gây áp lực .",2,0,giảng_viên vui_vẻ thoải_mái giờ học NOT áp_lực
+81,không dễ tính .,0,0,NOT dễ_tính
+82,"giảng rất hay và dễ hiểu , giúp cho sinh viên nắm vững kiến thức .",2,0,giảng hay hiểu giúp sinh_viên nắm vững kiến_thức
+83,"giảng viên giảng dạy nhiệt tình , có đầy đủ các hoạt động để sinh viên rèn luyện và học tập .",2,0,giảng_viên giảng_dạy nhiệt_tình đầy_đủ hoạt_động sinh_viên rèn_luyện học_tập
+84,"giảng viên không dạy phần trọng tâm của môn học , dạy quá dài dòng , và cần hạn chế viết bảng .",0,0,giảng_viên NOT dạy trọng_tâm môn_học dạy quá dài_dòng cần hạn_chế viết bảng
+85,"giảng viên chưa giải hết thắc mắc của sinh viên , còn một vài vấn đề chưa hiểu rõ .",0,0,giảng_viên NOT giải thắc_mắc sinh_viên NOT hiểu
+86,"cô dạy vui , dễ hiểu .",2,0,cô dạy vui hiểu
+87,được 200 điểm là đươc 1 điểm quá trình .,1,1,hai trăm  một
+88,chất lượng tốt .,2,3,chất_lượng
+89,tôi thấy rất bất mãn về việc giảng dạy của giảng viên mong nhà trường chấn chỉnh lại việt này .,0,0, giảng_dạy giảng_viên mong nhà_trường  việt
+90,"giảng viên giảng dạy dễ hiểu , nhanh tiếp thu bài , đưa ra các ví dụ và bài tập hay .",2,0,giảng_viên giảng_dạy hiểu nhanh tiếp_thu ví_dụ bài_tập hay
+91,thầy giảng bài quá buồn ngủ .,0,0,thầy giảng quá buồn_ngủ
+92,"thầy vui tính , dạy rất dễ hiểu và rất nhiệt tình .",2,0,thầy vui_tính dạy hiểu nhiệt_tình
+93,các bài thực hành cần bám sát theo chương trình lý thuyết .,0,1,thực_hành cần bám sát chương_trình lý_thuyết
+94,tài liệu được cấp thông qua lớp trưởng .,1,1,tài_liệu  lớp trưởng
+95,"nhiệt tình , tài liệu đầy đủ dễ đọc dễ hiểu .",2,0,nhiệt_tình tài_liệu đầy_đủ đọc hiểu
+96,thầy vui tính trong việc dạy .,2,0,thầy vui_tính dạy
+97,"thầy rất tân tâm , vui vẻ , và có khả năng truyền đạt kiến thức .",2,0,thầy  tâm vui_vẻ khả_năng truyền_đạt kiến_thức
+98,"slide bài giảng đầy đủ rõ ràng , giáo viên đúng giờ .",2,0,slide giảng đầy_đủ rõ_ràng giáo_viên đúng giờ
+99,cô vui vẻ trong giảng dạy .,2,0,cô vui_vẻ giảng_dạy
+100,"tận tình , chu đáo , hiểu tâm lý sinh viên .",2,0,tận_tình chu_đáo hiểu tâm_lý sinh_viên
+101,"giảng viên giảng dạy tận tâm , nhiệt huyết .",2,0,giảng_viên giảng_dạy tận_tâm nhiệt_huyết
+102,"giáo viên dễ gần , phương pháp dạy dể tiếp thu .",2,0,giáo_viên phương_pháp dạy  tiếp_thu
+103,"thầy mở máy lạnh lạnh quá ạ , mong thầy bật máy lạnh vừa phải thôi !",0,0,thầy máy_lạnh  quá mong thầy  máy_lạnh
+104,giảng viên nên trình bày mẫu các bài giải nhiều hơn .,0,0,giảng_viên trình_bày mẫu giải nhiều
+105,dành ra những tiết thực hành nghe nói riêng tạo sự tự nhiên cho sinh viên khi giao tiếp bằng tiếng anh .,2,1,tiết thực_hành  sinh_viên giao_tiếp tiếng
+106,cô giáo xinh .,2,0,cô_giáo xinh
+107,"giảng hay , dễ hiểu .",2,0,giảng hay hiểu
+108,thầy dạy cho nhiều dạng bài tập ví dụ hay giúp em hiểu rõ hơn môn mạng .,2,0,thầy dạy nhiều dạng bài_tập ví_dụ hay giúp hiểu môn mạng
+109,chia sẻ kiến thức thực tế cho sinh viên .,2,3,kiến_thức sinh_viên
+110,"thầy cũng vui tính , nói chuyện liên hệ thực tiễn cao .",2,0,thầy vui_tính nói_chuyện liên_hệ thực_tiễn
+111,"nội dung không sâu , sơ sài .",0,1,nội_dung NOT sâu sơ_sài
+112,"giáo viên nhiệt tình , thân thiện .",2,0,giáo_viên nhiệt_tình thân_thiện
+113,chủ yếu dựa vào năng lực tự học của sinh viên .,0,0,chủ_yếu dựa năng_lực học sinh_viên
+114,"đúng giờ , tận tình .",2,0,đúng giờ tận_tình
+115,thầy lên lớp đúng giờ .,2,0,thầy lên_lớp đúng giờ
+116,"giọng cô khó nghe , cô truyền đạt chưa hay , giảng nhanh .",0,0,giọng cô khó cô truyền_đạt NOT hay giảng nhanh
+117,sự nhiệt tình .,1,0,nhiệt_tình
+118,"thầy cho ít bài tập để làm , toàn bộ bài tập em làm đều là do các bạn ở lớp khác chia sẻ .",0,0,thầy bài_tập toàn_bộ bài_tập lớp
+119,thầy dạy rất truyền cảm .,2,0,thầy dạy 
+120,thầy rất đúng giờ .,2,0,thầy đúng giờ
+121,cô có tổ chức một hoạt động về anh văn nhưng em thấy chưa thực sự có hiệu quả ( đó là ý kiến cá nhân của em ) .,0,0,cô tổ_chức một hoạt_động văn NOT hiệu_quả ý_kiến
+122,"giảng khó hiểu , nhưng phần lớn là do môn giải tích khó .",0,0,giảng khó hiểu môn giải_tích khó
+123,"cô tạo được một môi trường học tập rất thân thiện , thoải mái và không kém phần bổ ích cho sinh viên , hy vọng cô sẽ dạy nhiều hơn .",2,0,cô một  thân_thiện thoải_mái NOT NOT bổ_ích sinh_viên hy_vọng cô dạy nhiều
+124,khi nào sinh viên chưa hiểu đều giảng nhiệt tình .,2,0,sinh_viên NOT hiểu giảng nhiệt_tình
+125,thầy dịch slide và giảng khó hiểu .,0,0,thầy dịch slide giảng khó hiểu
+126,không đăng slide bài giảng lên course .,0,0,NOT  slide giảng course
+127,cẩn thận .,1,0,
+128,thầy cần chủ động về thời gian .,0,0,thầy cần chủ_động
+129,"thầy giáo tích cực , tâm lý .",2,0,thầy_giáo tích_cực tâm_lý
+130,"thầy tận tâm , nhiệt tình với sinh viên .",2,0,thầy tận_tâm nhiệt_tình sinh_viên
+131,thầy dạy bám sát nội dung cần thiết nhiệt tình .,2,0,thầy dạy bám sát nội_dung cần_thiết nhiệt_tình
+132,em mong thầy sẽ cung cấp chúng em nhiều tài liệu chính thống hơn để chúng em có thể dễ dàng tìm hiểu kiến thức môn học .,0,0,mong thầy cung_cấp nhiều tài_liệu  dễ_dàng kiến_thức môn_học
+133,"cô dạy nhiệt tình , thường xuyên chia sẻ bài trên website môn học .",2,0,cô dạy nhiệt_tình thường_xuyên website môn_học
+134,đã là chủ nhật còn bắt đi học .,0,1, bắt đi học
+135,thầy nhiệt tình giảng bài !,2,0,thầy nhiệt_tình giảng
+136,quá nhiều nội dung không cần thiết .,0,1,quá nhiều nội_dung NOT cần_thiết
+137,thầy giảng kỹ bài .,2,0,thầy giảng kỹ
+138,"cô nhiệt tình với sinh viên , vui vẻ .",2,0,cô nhiệt_tình sinh_viên vui_vẻ
+139,"thầy dạy vui tính , không áp lực .",2,0,thầy dạy vui_tính NOT áp_lực
+140,"việc truyền đạt kiến thức theo lối bình dân , khiến sinh viên khó hình dung , nắm bắt được mình đang được truyền đạt điều gì .",0,0,truyền_đạt kiến_thức  bình_dân sinh_viên khó hình_dung nắm_bắt truyền_đạt
+141,và nội dung đó không giúp sinh viên sau này nhiều .,0,1,nội_dung NOT giúp sinh_viên nhiều
+142,"thầy giảng bài rất nhiệt tình , có các ví dụ minh họa để làm rõ vấn đề .",2,0,thầy giảng nhiệt_tình ví_dụ minh_họa
+143,các bài tập thực hành giúp nâng cao kiến thức đã học trên lớp .,2,1,bài_tập thực_hành giúp nâng cao_kiến_thức học lớp
+144,báo nghỉ không đại trà .,0,0,báo nghỉ NOT 
+145,"cô dạy hay tuyệt , rất dễ hiểu .",2,0,cô dạy hay tuyệt hiểu
+146,thầy giao đồ án cho sinh viên tự bơi .,0,0,thầy giao đồ_án sinh_viên 
+147,"dạy đúng giờ , thường xuyên đưa bài tập lên moodle , tạo cơ hội cho học sinh rèn luyện kỹ năng nghe và nói nhiều .",2,0,dạy đúng giờ thường_xuyên bài_tập m dle học_sinh rèn_luyện kỹ_năng nói nhiều
+148,giảng viên giảng chưa được thú vị .,0,0,giảng_viên giảng NOT thú_vị
+149,em muốn thầy dạy và sửa bài tập .,0,0,thầy dạy sửa bài_tập
+150,đừng có một chỗ tiếng anh một chỗ tiếng việt .,0,3,đừng một chỗ tiếng một chỗ tiếng việt
+151,giảng dạy hay dễ hiểu .,2,0,giảng_dạy hay hiểu
+152,cần sử dụng phòng elab và các thiết bị nghe nhìn cho lớp chất lượng cao .,0,2,cần phòng  thiết_bị lớp chất_lượng
+153,thầy nhiệt tình trong cách giảng dạy .,2,0,thầy nhiệt_tình giảng_dạy
+154,"theo như danh sách phòng đào tạo đưa xuống , lớp học có gần 140 sinh viên đăng kí .",1,3,danh_sách phòng đào_tạo lớp_học một trăm bốn mươi sinh_viên 
+155,môn này là môn quan trọng trong truyền thông nên cần thực hành trên phần mềm và thiết bị mô phỏng nhiều hơn .,0,1,môn môn truyền_thông cần thực_hành phần_mềm thiết_bị  nhiều
+156,giảng viên giảng dạy theo đúng quy trình .,1,0,giảng_viên giảng_dạy đúng quy_trình
+157,"hiện tại tương đối tốt , không cần điều chỉnh gì thêm .",2,3,tương_đối NOT cần điều_chỉnh
+158,"giảng dạy tận tâm , nhiệt tình , hay .",2,0,giảng_dạy tận_tâm nhiệt_tình hay
+159,vui tính hoà đồng .,2,0,vui_tính hoà_đồng
+160,"giảng viên thường cho một số bài tập nâng cao , hơi quá sức đối với tụi em .",0,0,giảng_viên bài_tập nâng hơi  tụi
+161,"thầy khá hiền , ít nói .",0,0,thầy hiền nói
+162,"cô dạy dễ hiểu , bài giảng sống động .",2,0,cô dạy hiểu giảng 
+163,"thầy cho bài tập về quá nhiều , thời gian cố định , ngắn nên không đủ thời gian để làm bài .",0,0,thầy bài_tập quá nhiều cố_định ngắn NOT
+164,"giáo viên dạy tận tình , dễ hiểu , hay giải đáp những thắc mắc của sinh viên về môn học .",2,0,giáo_viên dạy tận_tình hiểu hay giải_đáp thắc_mắc sinh_viên môn_học
+165,nhà trường nên có nhiều giáo trình bài tập và hướng dẫn giải bài tập nhiều hơn .,0,1,nhà_trường nhiều giáo_trình bài_tập hướng_dẫn_giải bài_tập nhiều
+166,"tận tâm , nhiệt tình giải đáp thắc mắc trong quá trình học .",2,0,tận_tâm nhiệt_tình giải_đáp thắc_mắc học
+167,"thầy dạy vui , không khô khan , liên tưởng tốt .",2,0,thầy dạy vui NOT khô_khan 
+168,tệ đến mức không tả được .,0,3,tệ NOT 
+169,"giảng viên diễn đạt quá nhanh , lớp thường rất đông , rất thiệt thòi cho sinh viên ngồi cuối lớp do không nhìn thấy nội dung bài giảng .",0,0,giảng_viên diễn_đạt quá nhanh lớp đông  sinh_viên lớp NOT nội_dung giảng
+170,thầy không cho slide bài giảng cũng không giới thiệu tài liệu đọc thêm .,0,0,thầy NOT slide giảng NOT giới_thiệu tài_liệu đọc
+171,nếu là điểm cố định thì thầy phải cho cơ hội cho tất cả các sinh viên đều nộp bài được và giải thích rõ ràng khung điểm này từ đầu .,0,0,cố_định thầy sinh_viên nộp giải_thích rõ_ràng  đầu
+172,thầy tiếp tục giảng bài .,1,0,thầy giảng
+173,"tài liệu thầy cung cấp đầy đủ , cụ thể .",2,0,tài_liệu thầy cung_cấp đầy_đủ
+174,cực kỳ nhiệt tình .,2,3,cực_kỳ nhiệt_tình
+175,"thầy ít có giảng về bài tập , chỉ cho sinh viên tự tìm hiểu .",2,0,thầy giảng bài_tập sinh_viên
+176,giáo viên có kiến thức tốt .,2,0,giáo_viên kiến_thức
+177,"nhờ thầy cho bài tập và sửa thầy không làm , và cũng giảng nhưng mà để làm được bài thì em muốn có được cách làm rõ ràng .",0,0,thầy bài_tập sửa thầy NOT giảng rõ_ràng
+178,"học thầy rất là vui , mà còn biết thêm nhiều cái hay nữa .",2,0,học thầy vui biết nhiều hay
+179,có thể tổ chức các buổi seminar nhằm kích thích sinh viên tìm hiểu thêm và ứng dụng tốt hơn môn học này vào thực tiễn .,2,1,tổ_chức seminar kích_thích sinh_viên ứng_dụng môn_học thực_tiễn
+180,"thầy giảng bài khá là dễ hiểu , chậm nhưng chắc .",2,0,thầy giảng hiểu chậm
+181,"dạy dễ hiểu , và cung cấp thêm những phương pháp học tập hiệu quả .",2,0,dạy hiểu cung_cấp phương_pháp học_tập hiệu_quả
+182,"cô dạy rất dễ thương , dễ hiểu , nắm chắc kiến thức .",2,0,cô dạy dễ_thương hiểu nắm kiến_thức
+183,"thầy giảng dạy nhiệt tình , hăng say !",2,0,thầy giảng_dạy nhiệt_tình 
+184,"thêm nữa , thầy cũng không muốn nhìn thấy một sinh viên ngủ gục trên bàn mà vẫn có tên trong danh sách điểm danh .",0,0,thầy NOT một sinh_viên ngủ  bàn danh_sách điểm_danh
+185,thầy dạy dễ hiểu tận tâm nhiệt tình với sinh viên .,2,0,thầy dạy hiểu tận_tâm nhiệt_tình sinh_viên
+186,giải bài tập cho sinh viên nhiều .,2,3,giải bài_tập sinh_viên nhiều
+187,môn mạng máy tính còn nặng nề lý thuyết rất nhiều .,0,1,môn mạng máy_tính  lý_thuyết nhiều
+188,thầy giảng bài rất hay !,2,0,thầy giảng hay
+189,không áp lực khi học tập .,1,0,NOT áp_lực học_tập
+190,"tiết học căng thẳng , phải thường xuyên đúng giờ .",0,0,tiết học căng_thẳng thường_xuyên đúng giờ
+191,"nhưng thầy rất ra dáng một doanh nhân thành đạt , một người diễn thuyết tạo cảm hứng nhiều hơn là kiến thức phù hợp với sinh viên .",2,0,thầy  một   một  cảm_hứng nhiều kiến_thức sinh_viên
+192,thầy lồng ghép ví dụ thực tiễn vào bài học .,2,0,thầy lồng_ghép ví_dụ thực_tiễn bài_học
+193,"cô dạy nhiệt tình và có tâm huyết , dễ hiểu , cô dạy rất hay và cung cấp cho em nhiều kiến thức , trình độ của cô rất giỏi .",2,0,cô dạy nhiệt_tình tâm_huyết hiểu cô dạy hay cung_cấp nhiều kiến_thức trình_độ cô giỏi
+194,nâng cấp hệ thống loa cho các phòng học .,0,2,nâng_cấp hệ_thống loa phòng học
+195,"giảng viên nhiệt tình , tâm huyết , giảng dạy tốt .",2,0,giảng_viên nhiệt_tình tâm_huyết giảng_dạy
+196,đề nghị trừ lương .,0,0,đề_nghị trừ 
+197,"thầy dạy hay nhưng không ôn tập thi giữa kỳ , cuối kỳ cho sinh viên .",0,0,thầy dạy hay NOT ôn_tập thi kỳ kỳ sinh_viên
+198,thầy dạy hay và tận tâm với em .,2,0,thầy dạy hay tận_tâm
+199,"nhiệt tình , tận tâm , giảng dễ hiểu .",2,0,nhiệt_tình tận_tâm giảng hiểu
+200,"em thích cách dạy của thầy , làm bài tập sau khi giảng xong lý thuyết cho sinh viên có thể nhớ ngay hôm ấy không cần về nhà coi lại bài .",2,3,dạy thầy bài_tập giảng xong lý_thuyết sinh_viên hôm NOT cần 
+201,giảng viên cần đảm bảo thời gian lên lớp .,0,0,giảng_viên cần lên_lớp
+202,giảng viên cho bài tập bám sát nội dung giảng dạy .,2,0,giảng_viên bài_tập bám sát nội_dung giảng_dạy
+203,giảng viên nhiệt tình !,2,0,giảng_viên nhiệt_tình
+204,máy chiếu tại phòng học còn mờ .,0,2,máy_chiếu phòng học mờ
+205,viết quá nhiều ví dụ trùng lặp ( dạng ) với nhau .,0,0,viết quá nhiều ví_dụ 
+206,tài liệu môn mạng máy tính được dịch từ computer networking a topdown aproach còn hơi khó hiểu để sinh viên học hay tự nghiên cứu .,0,1,tài_liệu môn mạng máy_tính dịch      hơi khó hiểu sinh_viên học hay nghiên_cứu
+207,thầy rất nhiệt tình giảng dạy .,2,0,thầy nhiệt_tình giảng_dạy
+208,"em mong muốn được nghe thầy kể nhiều câu chuyện về sự nghiệp và cuộc đời , gian nan từng trải của thầy trong các bài học nhiều hơn nữa , có lẻ sinh viên sẽ học được nhiều điều hơn .",0,0,mong_muốn thầy nhiều câu_chuyện    từng_trải thầy bài_học nhiều lẻ sinh_viên học nhiều
+209,"em thấy lúc giảng , thầy chỉ ngồi yên trên ghế và đọc slide dẫn đến sinh viên cảm thấy nhàm chán .",0,0,giảng thầy   đọc slide sinh_viên nhàm_chán
+210,thầy dạy rất dễ hiểu .,2,0,thầy dạy hiểu
+211,"dạy chắc chắn kiến thức , truyền đạt tốt .",2,0,dạy kiến_thức truyền_đạt
+212,"thầy dạy rất hay , quan tâm học sinh .",2,0,thầy dạy hay quan_tâm học_sinh
+213,giáo trình môn học được cập nhật .,2,1,giáo_trình môn_học cập_nhật
+214,thầy thường xuyên đặt ra những deadline không phù hợp với sinh viên .,0,0,thầy thường_xuyên deadline NOT sinh_viên
+215,phương pháp dạy thực hành rất hay .,2,0,phương_pháp dạy thực_hành hay
+216,"giảng viên tận tâm , nhiệt tình , dễ tính , lên lớp đúng giờ .",2,0,giảng_viên tận_tâm nhiệt_tình dễ_tính lên_lớp đúng giờ
+217,quá khắt khe colonsad .,0,3,quá khắt_khe 
+218,em mới gặp thầy buổi thực hành cũng là buổi thi .,1,1,thầy thực_hành thi
+219,"cô dạy hay , lại rất đúng giờ dạy học .",2,0,cô dạy hay đúng giờ dạy_học
+220,giải đáp rất tận tình mọi thắc mắc của sinh viên .,2,0,giải_đáp tận_tình thắc_mắc sinh_viên
+221,"cô dễ thương , tận tâm với sinh viên .",2,0,cô dễ_thương tận_tâm sinh_viên
+222,cách giảng của thầy hơi đều và chậm .,0,0,giảng thầy hơi chậm
+223,"giảng viên nhiệt tình , tạo nhiều hoạt động cho lớp .",2,0,giảng_viên nhiệt_tình nhiều hoạt_động lớp
+224,cần thể hiện chi tiết hơn nội dung của môn học và nhiều ví dụ minh hoạ hơn .,0,1,cần  chi_tiết nội_dung môn_học nhiều ví_dụ 
+225,không đảm bảo giờ lên lớp .,0,0,NOT giờ lên_lớp
+226,"mỗi khi báo cáo tiến độ đồ án trong năm học , giảng viên chỉ chỉ ra duy nhất một lỗi trong đồ án cho sinh viên , mà không xem toàn bộ đồ án để góp ý cho sinh viên mọi sai sót để sinh viên khắc phục trong lần báo cáo cuối kỳ .",0,0,báo_cáo tiến_độ đồ_án năm_học giảng_viên  một lỗi đồ_án sinh_viên NOT toàn_bộ đồ_án góp_ý sinh_viên sai_sót sinh_viên khắc_phục báo_cáo kỳ
+227,quá tệ .,0,3,quá tệ
+228,"giảng viên tận tâm , nhiệt tình , vui vẻ .",2,0,giảng_viên tận_tâm nhiệt_tình vui_vẻ
+229,tăng thêm thời lượng môn học .,0,1,thời_lượng môn_học
+230,giúp học sinh chủ động trong việc thực hiện đề tài và nhiệt tình giúp đỡ sinh viên tìm tài liệu .,2,1,giúp học_sinh chủ_động đề_tài nhiệt_tình giúp_đỡ sinh_viên tài_liệu
+231,cung cấp nhiều kiến thức bổ ích cho sinh viên .,2,0,cung_cấp nhiều kiến_thức bổ_ích sinh_viên
+232,"giảng viên nhiệt tình trong giảng dạy , hệ thống tài liệu học tập được update tốt .",2,0,giảng_viên nhiệt_tình giảng_dạy hệ_thống tài_liệu học_tập 
+233,giáo viên nhiệt tình giảng dạy .,2,0,giáo_viên nhiệt_tình giảng_dạy
+234,thầy dạy rất nhiều điều bổ ích từ học tập đến cuộc sống ngoài đời .,2,0,thầy dạy nhiều bổ_ích  cuộc_sống đời
+235,"cách diễn đạt dễ hiểu , vui vẻ , tận tình với học sinh .",2,0,diễn_đạt hiểu vui_vẻ tận_tình học_sinh
+236,"hay đi trễ , dạy lố thời gian .",0,0,hay đi trễ dạy lố
+237,tận tình chu đáo dễ hiểu .,2,0,tận_tình chu_đáo hiểu
+238,giải đáp thắc mắc sinh viên kỹ lưỡng .,2,0,giải_đáp thắc_mắc sinh_viên kỹ_lưỡng
+239,"phần đầu môn này nói về những chủ đề đại loại như "" làm thế nào để thành công "" , "" thói quen người thành công "" hay là bàn về tương lai vdotv .",1,3,đầu môn nói chủ_đề thành_công  thành_công bàn  
+240,"dạy nhiệt tình , vui vẻ trong giờ học .",2,0,dạy nhiệt_tình vui_vẻ giờ học
+241,như vậy là được .,2,3,
+242,thấy rất vui tính .,2,0,vui_tính
+243,"giảng dạy quoa loa , thiếu nhiệt tình , chương trình học hoàn toàn không ăn khớp với lý thuyết .",0,0,giảng_dạy  loa NOT nhiệt_tình chương_trình học NOT  lý_thuyết
+244,giảng viên nên dạy kỹ hơn các phần quan trọng của bài học .,0,0,giảng_viên dạy kỹ bài_học
+245,"giáo viên không nhiệt tình , tận tâm với sinh viên .",0,0,giáo_viên NOT nhiệt_tình tận_tâm sinh_viên
+246,"môn học này không có sắp xếp lịch học , phòng học .",0,1,môn_học NOT sắp_xếp lịch học phòng học
+247,"nhiều bạn phải học tiết 4 , 5 phải nghỉ giữa chừng để đi học môn khác như tư tưởng .",0,1,nhiều học tiết bốn nghỉ  đi học môn tư_tưởng
+248,khả năng tiếng anh .,1,3,khả_năng tiếng
+249,không công bố điểm giữa kỳ sớm .,0,1,NOT  kỳ
+250,nên giảng những phần cần chú trọng nhiều hơn .,0,0,giảng cần chú_trọng nhiều
+251,phương pháp giảng tốt .,2,0,phương_pháp giảng
+252,thầy dạy dễ hiểu !,2,0,thầy dạy hiểu
+253,"thầy lên lớp rất trễ , giờ học bắt đầu vào lúc 13h00 thì có hôm 13h30 hoặc 14h00 thầy mới vô .",0,0,thầy lên_lớp trễ giờ học   hôm   thầy vô
+254,"thầy dạy hay , cung cấp thông tin rất chi tiết , ví dụ dễ hiểu .",2,0,thầy dạy hay cung_cấp thông_tin chi_tiết ví_dụ hiểu
+255,"giảng viên vui vẻ , giảng dạy tận tâm , đến lớp đầy đủ đúng giờ .",2,0,giảng_viên vui_vẻ giảng_dạy tận_tâm lớp đầy_đủ đúng giờ
+256,giảng viên tận tâm nhiệt tình vui vẻ .,2,0,giảng_viên tận_tâm nhiệt_tình vui_vẻ
+257,giọng nói khó truyền đạt kiến thức một cách hiệu quả nhất .,0,0,giọng truyền_đạt kiến_thức hiệu_quả
+258,học còn khá tẻ nhạt .,0,3,học 
+259,"giọng nói hơi nhỏ , khó tiếp thu !",0,0,giọng nói hơi nhỏ khó tiếp_thu
+260,"dạy rất kỹ , rất nhiệt tình , thêm giờ để hoàn thành xong bài giảng , hỏi han sinh viên , nói chung là rất tuyệt .",2,0,dạy kỹ nhiệt_tình giờ hoàn_thành xong giảng  sinh_viên tuyệt
+261,thực hành nhiều hơn .,0,1,thực_hành nhiều
+262,"tiết học vui vẻ , thoải mái , thầy dạy nhiệt tình , dễ tiếp thu .",2,0,tiết học vui_vẻ thoải_mái thầy dạy nhiệt_tình tiếp_thu
+263,nhiều phần nâng cao thường bị giảng viên bỏ qua .,0,0,nhiều nâng giảng_viên bỏ_qua
+264,dời lịch hẹn gặp sinh viên nhưng không thông báo .,0,0, lịch  sinh_viên NOT thông_báo
+265,"phòng học , micro , máy chiếu cần nâng cấp và cải thiện và bảo trì thường xuyên hơn .",0,2,phòng học micro máy_chiếu cần nâng_cấp cải_thiện  thường_xuyên
+266,tận dụng hết thời gian .,2,0,
+267,"thầy dạy tận tâm , nhiệt tình , tạo nhiều điều kiện giúp đỡ , hỗ trợ sinh viên học tập tốt môn học .",2,0,thầy dạy tận_tâm nhiệt_tình nhiều giúp_đỡ sinh_viên học_tập môn_học
+268,đôi lúc giảng quá nhanh .,0,0,đôi giảng quá nhanh
+269,"thầy dạy với tư tưởng là sinh viên biết hết cả rồi , lên giảng dạy chỉ nói vài chỗ .",0,0,thầy dạy tư_tưởng sinh_viên biết giảng_dạy nói chỗ
+270,cần đổi mới tài liệu .,0,1,cần đổi_mới tài_liệu
+271,do đó làm hiệu quả học chưa đạt mức tốt nhất .,0,3,hiệu_quả học NOT
+272,"tận tâm , nhiệt tình giảng dạy , tiết học có lồng ghép nhiều chuyện đời vui vẻ , lý thú , không gây buồn ngủ .",2,0,tận_tâm nhiệt_tình giảng_dạy tiết học lồng_ghép nhiều chuyện đời vui_vẻ  NOT buồn_ngủ
+273,"hoạt động dạy và học rất sôi nổi , rất tận tâm và nhiệt huyết !",2,3,hoạt_động dạy học sôi_nổi tận_tâm nhiệt_huyết
+274,"nhiệt tình , tạo không khí học tập tốt .",2,0,nhiệt_tình không_khí học_tập
+275,thầy nên up các bài giải lên để em so sánh kết quả cho dễ .,0,0,thầy up giải  kết_quả
+276,"cơ sơ vật chất tốt , giảng hay .",2,0, vật_chất giảng hay
+277,"em nghĩ nhà trường nên nâng cấp phiên bản của sql vì sql 2005 mà nhà trường đang cho sinh viên thực hành còn thiếu sót nhiều chức năng , hỗ trợ .",0,2,nhà_trường nâng_cấp phiên_bản sql sql hai  lẻ nhà_trường sinh_viên thực_hành thiếu_sót nhiều 
+278,"giảng viên cũng hỗ trợ nhiều kiến thức cho sinh viên , giúp sinh viên hiểu bài tốt hơn .",2,0,giảng_viên nhiều kiến_thức sinh_viên giúp sinh_viên hiểu
+279,dạy nói hơi nhỏ .,0,0,dạy nói hơi nhỏ
+280,em thấy cô dạy rất hay .,2,0,cô dạy hay
+281,thầy dạy rất nhiệt tình .,2,0,thầy dạy nhiệt_tình
+282,"sinh viên lớp chất lượng cao nhưng lại xếp thi phòng thực hành của lớp thường , việc cấu hình máy mất hơn nửa tiếng cho cả lớp , chưa kể còn nhiều bất cập khi làm bài thi .",0,2,sinh_viên lớp chất_lượng xếp thi phòng thực_hành lớp  máy NOT nửa tiếng lớp NOT nhiều bất_cập thi
+283,"cách truyền đạt kiến thức dễ hiểu , sự hài hước vui vẻ .",2,0,truyền_đạt kiến_thức hiểu hài_hước vui_vẻ
+284,"phương pháp dạy của thầy rất hay , cho điểm rất rõ ràng .",2,0,phương_pháp dạy thầy hay rõ_ràng
+285,tận tình nhiệt huyết .,2,0,tận_tình nhiệt_huyết
+286,"giáo viên giảng bài dễ hiểu , nhiệt tình .",2,0,giáo_viên giảng hiểu nhiệt_tình
+287,"tận tâm , nhiệt tình , đúng giờ .",2,0,tận_tâm nhiệt_tình đúng giờ
+288,"cô nhiệt tình , tận tâm , dạy dễ hiểu , quan tâm học sinh , lớp hoạt động sôi nổi , phát âm dễ nghe , dễ hiểu .",2,0,cô nhiệt_tình tận_tâm dạy hiểu quan_tâm học_sinh lớp hoạt_động sôi_nổi phát_âm hiểu
+289,"giáo viên dạy nhiệt tình , dễ hiểu .",2,0,giáo_viên dạy nhiệt_tình hiểu
+290,cách thức diễn đạt chưa đạt hiệu quả tốt .,0,0, diễn_đạt NOT hiệu_quả
+291,nội dung bài giảng khó hiểu .,0,0,nội_dung giảng khó hiểu
+292,không hài lòng với sự cố gắng của bản thân mình .,0,3,NOT hài_lòng 
+293,lịch học bù không phù hợp với sinh viên .,0,0,lịch học  NOT sinh_viên
+294,một người thầy như vậy thì làm sao có thể dạy được học sinh tốt .,0,0,một thầy dạy học_sinh
+295,"đúng từng câu chữ thì ok , còn lại failse .",0,1,đúng câu  ok 
+296,good .,2,0,g 
+297,khó tính .,0,0,khó_tính
+298,do học khoa khác nên dạy không theo kịp tiếng độ của chương trình .,0,0,học khoa dạy NOT kịp tiếng  chương_trình
+299,"giảng viên dạy hay , tận tâm , dễ hiểu bài .",2,0,giảng_viên dạy hay tận_tâm hiểu
+300,giảng viên tận tâm và nhiệt tình .,2,0,giảng_viên tận_tâm nhiệt_tình
+301,quan tấm sinh viên nhiều hơn .,0,0, sinh_viên nhiều
+302,giáo viên nên làm nhiều bài tập mẫu cho sinh viên .,0,0,giáo_viên nhiều bài_tập mẫu sinh_viên
+303,không nên dừng lại chỉ ở mức khái niệm .,0,1,NOT  khái_niệm
+304,"mong muốn nhà trường , khoa cùng giảng viên có thể thay đổi nội dung sao cho hấp dẫn hơn .",0,1,mong_muốn nhà_trường khoa giảng_viên nội_dung hấp_dẫn
+305,nhiệt tình yêu nghề .,2,0, 
+306,"ít kinh nghiệm , dạy khó hiểu , kỹ năng giao tiếp kém , giảng bài cực khó hiểu .",0,0,kinh_nghiệm dạy khó hiểu kỹ_năng giao_tiếp NOT giảng  khó hiểu
+307,"dễ hiểu , tích cực trong việc giải đáp thông tin của học sinh .",2,0,hiểu tích_cực giải_đáp thông_tin học_sinh
+308,thầy thân thiện .,2,0,thầy thân_thiện
+309,hướng dẫn dạy học tận tình .,2,0,hướng_dẫn dạy_học tận_tình
+310,speaking vừa rồi cô không công bằng .,0,3,speaking cô NOT công_bằng
+311,"em không thể nghe được thầy nói gì do khác vùng miền , cách giảng dạy chưa có sức hấp dẫn .",0,0,thầy nói  giảng_dạy NOT sức hấp_dẫn
+312,"cần giảm bớt căng thẳng , dồn dập tiết học .",0,1,cần NOT căng_thẳng  tiết học
+313,cô hướng dẫn làm đồ án rất nhiệt tình .,2,0,cô hướng_dẫn đồ_án nhiệt_tình
+314,"thầy giảng hay , dễ hiểu , có nhiều ví dụ .",2,0,thầy giảng hay hiểu nhiều ví_dụ
+315,"thầy dạy nhiệt tình , kiến thức bộ môn chuyên sâu , cần phát huy .",2,0,thầy dạy nhiệt_tình kiến_thức bộ_môn chuyên_sâu cần 
+316,"giảng viên giảng dạy tốt , dễ hiểu .",2,0,giảng_viên giảng_dạy hiểu
+317,"giảng viên giảng bài khó hiểu , đặt nặng lý thuyết khiến sinh viên khó hiểu dễ gây chán nản .",0,0,giảng_viên giảng khó hiểu lý_thuyết sinh_viên khó hiểu 
+318,"nhiệt tình , nhưng đôi khi quá nhiệt tình , giảng bài một cách quá nhiều khiến em không thể nhớ hết được .",0,0,nhiệt_tình đôi_khi quá nhiệt_tình giảng quá nhiều
+319,ôn kiến thức bằng cách chơi trò chơi .,2,1, kiến_thức trò_chơi
+320,môn này thầy dạy rất mơ hồ .,0,0,môn thầy dạy mơ_hồ
+321,môn học cần phải gần gũi với thực tiễn ở việt nam .,0,1,môn_học cần gần_gũi thực_tiễn việt_nam
+322,"cô rất nhiệt tình , tận tâm và gần gũi .",2,0,cô nhiệt_tình tận_tâm gần_gũi
+323,giảng viên dạy rất dễ hiều .,2,0,giảng_viên dạy 
+324,"thầy có lòng giúp sinh viên , rất tốt .",2,0,thầy giúp sinh_viên
+325,cần tạo cảm hứng học hơn cho sinh viên .,0,0,cần cảm_hứng học sinh_viên
+326,sau môn học toàn kiến thức lý thuyết mà không biết vận dụng kiến thức đó như thế nào .,0,1,môn_học toàn kiến_thức lý_thuyết NOT biết vận_dụng kiến_thức
+327,mini test trong cả khóa học nhiều hơn .,0,2,  khóa học nhiều
+328,đồ án thầy phân tích rất chuyên sâu .,2,0,đồ_án thầy phân_tích chuyên_sâu
+329,thầy cần sử dụng máy chiếu khi giảng bài vì lớp khá đông !,0,0,thầy cần máy_chiếu giảng lớp đông
+330,"thầy giảng dạy những phần kiến thức có hơi cao , sinh viên không nắm bắt kịp .",2,0,thầy giảng_dạy kiến_thức hơi sinh_viên NOT nắm_bắt kịp
+331,cần lắp thêm quạt và màn che cửa sổ .,0,2,cần  quạt  che 
+332,"thầy ơi , giảng bài cho tụi em đi !",0,0,thầy giảng tụi đi
+333,mong cô giúp đỡ để cải thiện vốn tự vựng tiếng anh .,0,0,mong cô giúp_đỡ cải_thiện vốn  tiếng
+334,"cô luôn động viên và định hướng sinh viên trong việc tự rèn luyện , trau dồi kỹ năng ngoại ngữ .",2,0,cô  định_hướng sinh_viên rèn_luyện trau_dồi kỹ_năng ngoại_ngữ
+335,nên có giờ thực hành của môn học này .,0,1,giờ thực_hành môn_học
+336,giảng dạy tốt đạt hiểu quả cao .,2,0,giảng_dạy hiểu
+337,"truyền đạt tốt , dễ hiểu .",2,0,truyền_đạt hiểu
+338,"phòng đào tạo và khoa wzjwz84 nên thống nhất lại hình thức thi và nội dung thi cho hợp lý , tránh thay đổi hình thức thi vào gần sát cuối kỳ học .",0,1,phòng đào_tạo khoa thống_nhất hình_thức thi nội_dung thi hợp_lý hình_thức thi sát kỳ học
+339,"giảng viên luôn đến lớp đúng giờ , giảng dạy thân thiện , tận tâm .",2,0,giảng_viên lớp đúng giờ giảng_dạy thân_thiện tận_tâm
+340,"những bài thuyết trình chưa đủ để nâng cao kiến thức của cá nhân , chưa thực sự phù hợp với khả năng hiện tại của bản thân .",0,1,thuyết_trình NOT nâng cao_kiến_thức NOT khả_năng
+341,nhưng không sao .,1,1,NOT
+342,"giảng viên dạy dễ hiểu , hướng dẫn bài tập cụ thể .",2,0,giảng_viên dạy hiểu hướng_dẫn bài_tập
+343,"cho thêm bài tập về nhà , đề tài thuyết trình bằng tiếng anh , bài viết .",0,1,bài_tập đề_tài thuyết_trình tiếng viết
+344,"giảng viên dạy dễ hiểu , đi dạy đúng giờ .",2,0,giảng_viên dạy hiểu đi dạy đúng giờ
+345,giảng viên làm việc riêng khi sinh viên báo cáo .,0,0,giảng_viên làm_việc sinh_viên báo_cáo
+346,"nhiệt tình , quan tâm giúp đỡ học sinh .",2,0,nhiệt_tình quan_tâm giúp_đỡ học_sinh
+347,sức khỏe yếu .,0,0,
+348,giảng viên không sử dụng moodle để sinh viên nộp bài tập mà yêu cầu gửi qua mail cá nhân .,0,0,giảng_viên NOT m dle sinh_viên nộp bài_tập gửi mail
+349,giảng viên quá tệ .,0,0,giảng_viên quá tệ
+350,hài lòng hết !,2,3,hài_lòng
+351,thầy dạy rất đúng giờ .,2,0,thầy dạy đúng giờ
+352,thầy rất vui tính gần gũi .,2,0,thầy vui_tính gần_gũi
+353,lên lớp đầy đủ .,2,0,lên_lớp đầy_đủ
+354,giáo viên lên lớp đúng giờ .,2,0,giáo_viên lên_lớp đúng giờ
+355,hướng dẫn cách học tiếng anh hiệu quả cho sinh viên !,2,0,hướng_dẫn học tiếng hiệu_quả sinh_viên
+356,nhiệt tình với sinh viên .,2,0,nhiệt_tình sinh_viên
+357,"đề thi không có tính phân loại về kiến thức nhiều , mà hơn nhau ở chỗ ai tỉ mỉ hơn , ai nhanh hơn .",0,1,đề thi NOT  kiến_thức nhiều chỗ  nhanh
+358,khả năng sư phạm của cô theo em cần được cải thiện hơn .,0,0,khả_năng sư_phạm cô cần cải_thiện
+359,thầy đẹp trai colonlove .,2,0,thầy đẹp_trai colonlove
+360,giảng viên thường xuyên tương tác với sinh viên trong lúc dạy .,2,0,giảng_viên thường_xuyên tương_tác sinh_viên dạy
+361,cô nên yêu cầu sinh viên trả lời câu hỏi nhiều hơn .,0,0,cô sinh_viên trả_lời câu nhiều
+362,cung cấp lượng lớn thông tin .,2,3,cung_cấp thông_tin
+363,có nhiều thứ bổ ích .,2,1,nhiều bổ_ích
+364,thầy giảng rất kỹ từ lý thuyết cho đến bài tập .,2,0,thầy giảng kỹ lý_thuyết bài_tập
+365,nguyên kỳ này em thấy học được mỗi môn của thầy dạy là vô .,2,0, kỳ học môn thầy dạy vô
+366,"thầy siêu dễ thương , dạy có tâm .",2,0,thầy  dễ_thương dạy tâm
+367,điều chỉnh trang thiết bị giảng dạy .,0,2, thiết_bị giảng_dạy
+368,lo cho sinh viên .,2,0,lo sinh_viên
+369,đôi khi thầy hơi lan man .,0,0,đôi thầy hơi lan_man
+370,cô giáo tuyệt vời .,2,0,cô_giáo tuyệt_vời
+371,"đi dạy đúng giờ , truyền đạt kiến thức dễ nắm bắt .",2,0,đi dạy đúng giờ truyền_đạt kiến_thức nắm_bắt
+372,phần thực hành nếu có phải nộp bài nào để lấy điểm thì nên thông báo lên moodle và cho nộp online .,0,0,thực_hành nộp thông_báo m dle nộp 
+373,"sinh viên được chủ động trong giờ học , tự suy nghĩ , tham gia thảo luận về bài học và có liên hệ thực tế .",2,1,sinh_viên chủ_động giờ học suy_nghĩ tham_gia thảo_luận bài_học liên_hệ
+374,chưa từng gặp giảng viên wzjwz144 ở môn thực hành thiết bị mạng và truyền thông đa phương tiện .,0,3,NOT giảng_viên môn thực_hành thiết_bị mạng truyền_thông 
+375,hoạt động tham quan rất bổ ích .,2,0,hoạt_động  bổ_ích
+376,thầy rất nhiệt huyết trong khi giảng bài .,2,0,thầy nhiệt_huyết giảng
+377,"thầy dạy hay , dễ hiểu , cho bài tập nhiều nhưng thường quá giờ quy định .",2,0,thầy dạy hay hiểu bài_tập nhiều quá giờ quy_định
+378,"đôi khi thầy có đến trễ một chút nhưng các nội dung thầy giảng dạy đều đầy đủ , ngoài ra thầy còn tăng thêm các buổi tăng cường trước các ngày thi .",2,0,đôi thầy trễ một_chút nội_dung thầy giảng_dạy đầy_đủ thầy tăng_cường thi
+379,thầy không quan tâm tiến độ và bám sát hoạt động học của sinh viên .,0,0,thầy NOT quan_tâm tiến_độ bám sát hoạt_động_học sinh_viên
+380,quay video quá trình dạy .,2,0,video dạy
+381,trong quá trình dạy cô có liên hệ thực tế nhiều .,2,0,dạy cô liên_hệ nhiều
+382,thầy dạy rất nhiệt tình ví dụ và lý thuyết dễ hiểu slide bài giảng tốt .,2,0,thầy dạy nhiệt_tình ví_dụ lý_thuyết hiểu slide giảng
+383,thầy dạy khá hay và kỹ .,2,0,thầy dạy hay kỹ
+384,truyền đạt rất tốt .,2,0,truyền_đạt
+385,tận tâm và nhiệt tình trong giảng dạy .,2,0,tận_tâm nhiệt_tình giảng_dạy
+386,"rất dễ hiểu , bài tập phong phú , đa dạng .",2,0,hiểu bài_tập  
+387,"cô dạy rất tận tình , tạo không khí thoải mái trong lớp học cung cấp tốt mọi kiến thức cho sinh viên quan tâm đến sinh viên .",2,0,cô dạy tận_tình không_khí thoải_mái lớp_học cung_cấp kiến_thức sinh_viên quan_tâm sinh_viên
+388,vui nhiệt tình tận tâm .,2,0,vui nhiệt_tình tận_tâm
+389,yêu cầu bài lab chưa đủ rõ ràng .,0,1,lab NOT rõ_ràng
+390,"một vấn đề nữa , em mong quý thầy cô tạo một không khí hưng thú cho sinh viên , có thể kể thêm chuyện ngoài lề , bao giờ vui vẻ thì sinh viên cũng học tốt hơn , gò bó ép buộc mình vào một điều gì đó đôi khi lại phản tác dụng , em tin nếu làm được thế sinh viên sẽ tự giác đi học nhiều hơn , còn việc điểm danh thì thủ tục quá gây cho học sinh tâm lý trói buộc .",0,0,một mong  thầy cô một không_khí   sinh_viên chuyện  vui_vẻ sinh_viên học gò_bó  một đôi_khi  sinh_viên  đi học nhiều điểm_danh thủ_tục quá học_sinh tâm_lý 
+391,có chuẩn bị slide bài giảng chi tiết với nhiệt tình .,2,0,slide giảng chi_tiết nhiệt_tình
+392,"thầy dạy nhiệt tình , cập nhật được kiến thức mới .",2,0,thầy dạy nhiệt_tình cập_nhật kiến_thức
+393,"giảng viên nhiệt huyết , rất có tâm colonhihi .",2,0,giảng_viên nhiệt_huyết tâm 
+394,"dạy sai kiến thức về fork , sai giải thuật round - robin , sai kiến thức về bộ nhớ .",0,0,dạy sai kiến_thức  sai giải_thuật   sai kiến_thức 
+395,giảng viên thiếu trách nhiệm .,0,0,giảng_viên NOT trách_nhiệm
+396,"rất thích cách dạy của thầy , dễ hiểu , thầy rất tận tình .",2,0,dạy thầy hiểu thầy tận_tình
+397,"cô vui tính , truyền đạt được ý kiến cho học sinh , tạo môi trường làm việc nhóm hiệu quả .",2,0,cô vui_tính truyền_đạt ý_kiến học_sinh môi_trường làm_việc hiệu_quả
+398,"cô dạy rất kỹ , nhiệt tình , cô luôn giám sát thái độ và chất lượng học tập của sinh viên , và luôn cóc những bào tập về nhà để sinh viên luyện tập thêm ở nhà .",2,0,cô dạy kỹ nhiệt_tình cô giám_sát thái_độ chất_lượng học_tập sinh_viên    sinh_viên 
+399,"giảng viên theo dõi , giám sát quá trình thực hành .",2,0,giảng_viên  giám_sát thực_hành
+400,"thầy cho cả lớp tranh luận về các quy luật , các cặp phạm trù , các nguyên lý của chủ nghĩa mác - lênin .",1,0,thầy lớp        
+401,thầy dạy tâm huyết và nhiệt tình .,2,0,thầy dạy tâm_huyết nhiệt_tình
+402,"trình bày vấn đề đơn giản , dễ tiếp thu .",2,0,trình_bày đơn_giản tiếp_thu
+403,"giảng viên nên có bài sửa cho những bài thực hành được cho làm , hoặc giảng lại cách làm sau đó .",0,0,giảng_viên sửa thực_hành giảng
+404,cần đảm bảo thời gian lên lớp .,0,1,cần lên_lớp
+405,kiến thức truyền đạt .,1,3,kiến_thức truyền_đạt
+406,"giảng viên nói to rõ , nhiệt tình , tận tâm .",2,0,giảng_viên nói to nhiệt_tình tận_tâm
+407,cần tăng thêm bài tập thực tế .,0,1,cần bài_tập
+408,cô tạo không khí vui vẻ và tạo được tinh thần học cho sinh viên .,2,0,cô không_khí vui_vẻ tinh_thần_học sinh_viên
+409,"nhiệt tình , quan tâm sinh viên .",2,0,nhiệt_tình quan_tâm sinh_viên
+410,"thầy dạy nhiệt tình , cho nhiều ví dụ .",2,0,thầy dạy nhiệt_tình nhiều ví_dụ
+411,không giới thiệu khái quát về nội dung .,0,1,NOT giới_thiệu  nội_dung
+412,tâm huyết giảng dạy của giáo viên .,2,0,tâm_huyết giảng_dạy giáo_viên
+413,"những bài giảng thiết thực , kèm theo những hình thức học tập mới lạ làm cho sinh viên cảm thấy bớt căng thắng khi học .",2,0,giảng thiết_thực kèm hình_thức học_tập mới_lạ sinh_viên NOT  thắng học
+414,tài liệu ôn tập thi không được cung cấp .,0,1,tài_liệu ôn_tập thi NOT cung_cấp
+415,không thông báo rõ ràng lịch học .,0,1,NOT thông_báo rõ_ràng lịch học
+416,"thầy tận tâm nhiệt tình , dạy sát nội dung môn học .",2,0,thầy tận_tâm nhiệt_tình dạy sát nội_dung môn_học
+417,giảng viên khuyến khích sinh viên tự tìm hiểu .,2,0,giảng_viên khuyến_khích sinh_viên
+418,nâng cấp phiên bản của các phần mềm .,0,2,nâng_cấp phiên_bản phần_mềm
+419,"thầy dạy hay , dễ hiểu bài , em thích điều đó .",2,0,thầy dạy hay hiểu
+420,"giảng viên vui vẻ , hoạt bát , lun tiếp cận tìm hiểu sinh viên , giúp sinh viên hiểu bài tốt hơn .",2,0,giảng_viên vui_vẻ hoạt_bát  tiếp_cận sinh_viên giúp sinh_viên hiểu
+421,mọi mặt đều tốt .,2,3,mặt
+422,đó là ý kiến cá nhân của em .,1,3,ý_kiến
+423,cô đẩy nhanh quá nên chậm lại xíu .,0,0,cô  nhanh quá chậm xíu
+424,"hướng dẫn và giảng dạy chi tiết , dễ hiểu .",2,0,hướng_dẫn giảng_dạy chi_tiết hiểu
+425,"thầy nhiệt tình , giải đáp thắc mắc kịp thời .",2,0,thầy nhiệt_tình giải_đáp thắc_mắc kịp_thời
+426,thầy giải thích rất chi tiết nội dung bài .,2,0,thầy giải_thích chi_tiết nội_dung
+427,"thầy cho các nhóm seminar dịch sách tiếng anh nhưng nhiều nhóm làm quá qua loa nên em không hiểu nội dung sách cho lắm , mặc dù thầy có giảng lại .",0,0,thầy seminar dịch sách tiếng nhiều quá qua_loa NOT hiểu nội_dung sách lắm mặc_dù thầy giảng
+428,"thầy dạy nhiệt tình , vui tính , tận tâm !",2,0,thầy dạy nhiệt_tình vui_tính tận_tâm
+429,tạm tạm .,1,3,tạm tạm
+430,"nên tăng thời lượng thực hành để đủ thời gian cho giảng viên hướng dẫn thực hành hướng dẫn đầy đủ cho sinh viên , môn này là môn quan trọng trước khi vào chuyên ngành .",0,1,thời_lượng thực_hành giảng_viên hướng_dẫn thực_hành hướng_dẫn đầy_đủ sinh_viên môn môn chuyên_ngành
+431,buổi học nào thầy cũng có mặt đầy đủ .,2,0,học thầy  đầy_đủ
+432,"cách dạy không hay , dễ gây nhàm chán .",0,0,dạy NOT hay nhàm_chán
+433,có đầy nhiệt tình và quan tâm việc học .,2,0,nhiệt_tình quan_tâm học
+434,nên có các bài tập trên lớp và bài tập hàng tuần để rèn luyện kỹ năng và vận dụng kiến thức học được vào thực tế .,0,1,bài_tập lớp bài_tập hàng tuần rèn_luyện kỹ_năng vận_dụng kiến_thức học
+435,cần tài liệu point word để dễ tiếp thu .,0,1,cần tài_liệu   tiếp_thu
+436,cần phân bố thời gian thực hành và lý thuyết hợp lý hơn .,0,1,cần phân_bố thực_hành lý_thuyết hợp_lý
+437,"giáo viên thân thiện , tận tâm , nhiệt tình .",2,0,giáo_viên thân_thiện tận_tâm nhiệt_tình
+438,thầy nên cho sinh viên làm nhiều loại bài tập .,0,0,thầy sinh_viên nhiều bài_tập
+439,"giáo viên dạy sát chương trình , lượng kiến thức truyền đạt đầy đủ .",2,0,giáo_viên dạy sát chương_trình kiến_thức truyền_đạt đầy_đủ
+440,"cô dạy hay , rất nhiệt tình với sinh viên .",2,0,cô dạy hay nhiệt_tình sinh_viên
+441,"phương pháp truyền đạt thú vị , tiết học sôi động không gò bó .",2,0,phương_pháp truyền_đạt thú_vị tiết học  NOT gò_bó
+442,"thầy wzjwz288 nhiệt tình , nghiêm túc .",2,0,thầy nhiệt_tình nghiêm_túc
+443,mong thầy lên lớp đừng muộn quá .,0,0,mong thầy lên_lớp đừng muộn quá
+444,cách học theo nhóm rất hay .,2,0,học hay
+445,"hướng dẫn tốt , nhiệt tình giải đáp khi sinh viên có thắc mắc .",2,0,hướng_dẫn nhiệt_tình giải_đáp sinh_viên thắc_mắc
+446,"giảng viên nhiệt tình dạy tốt , nhưng cô cập nhật điểm lâu , không up bài lên course .",0,0,giảng_viên nhiệt_tình dạy cô cập_nhật NOT up course
+447,"thầy không chủ động hướng dẫn , gây khó khăn trong việc áp dụng kiến thức .",0,0,thầy NOT chủ_động hướng_dẫn khó_khăn áp_dụng kiến_thức
+448,cuối cùng em không biết môn học làm gì .,0,1,NOT biết môn_học
+449,"giảng dạy đúng giờ , hiệu quả .",2,0,giảng_dạy đúng giờ hiệu_quả
+450,ít bài tập làm thêm .,0,1,bài_tập
+451,chưa tạo được nhiều hoạt động trên lớp .,0,0,NOT nhiều hoạt_động lớp
+452,"giải tích là một môn học khó , thầy cần thêm thời gian giảng dạy và cho sinh viên một bài thi phù hợp trình độ đồng đều hơn .",0,0,giải_tích một môn_học khó thầy cần giảng_dạy sinh_viên một thi trình_độ đồng_đều
+453,"giảng viên nhiệt tình , vui tính , giảng hay và dễ hiểu .",2,0,giảng_viên nhiệt_tình vui_tính giảng hay hiểu
+454,"em thấy có vài vấn đề ở môn học này , thay vì nó là một môn học có thể thay bằng một đồ án chuyên ngành .",0,1,môn_học thay_vì một môn_học thay một đồ_án chuyên_ngành
+455,"ngoài ra , các bài hướng dẫn thực hành nên chú trọng vào các vấn đề của môn để sinh viên có thể vừa tiếp cận thực hành và tiếp cận với đồ án cuối kỳ .",0,1,hướng_dẫn thực_hành chú_trọng môn sinh_viên tiếp_cận thực_hành tiếp_cận đồ_án kỳ
+456,quá nghiêm khắc .,0,0,quá nghiêm_khắc
+457,một số chỗ nên giảng kỹ hơn .,0,0,chỗ giảng kỹ
+458,"điểm thi còn nhiều bất cập , rất nhiều bạn còn phúc kháo .",0,1,thi nhiều bất_cập nhiều  
+459,"giáo viên giảng dễ hiểu , bài tập thầy cho có tính ứng dụng cao , và cần nhiều kiến thức để giải quyết .",2,0,giáo_viên giảng hiểu bài_tập thầy ứng_dụng cần nhiều kiến_thức giải_quyết
+460,"thầy rất nhiệt tình , giảng bài dễ hiểu và tận tâm .",2,0,thầy nhiệt_tình giảng hiểu tận_tâm
+461,"thầy giảng rõ ràng , dễ hiểu .",2,0,thầy giảng rõ_ràng hiểu
+462,bài tập chưa đủ để sinh viên thấu hiểu .,0,1,bài_tập NOT sinh_viên 
+463,"giảng dạy hay , nhiệt tình , vui tính .",2,0,giảng_dạy hay nhiệt_tình vui_tính
+464,"không hiểu thầy có phải là giảng viên không nữa , nói tiếng anh không thể nào nghe được , còn có thái độ không nghe góp ý của sinh viên nữa chứ , giải bài gì mà toàn "" this is .",0,0,NOT hiểu thầy giảng_viên NOT nói tiếng không_thể_nào thái_độ NOT góp_ý sinh_viên giải toàn  
+465,"giảng viên nhiệt tinh , tận tâm .",2,0,giảng_viên nhiệt tinh tận_tâm
+466,giảng viên cần tập trung đi sâu vào kiến thức ngữ pháp và nhiều bài tập hơn .,0,0,giảng_viên cần đi_sâu kiến_thức ngữ_pháp nhiều bài_tập
+467,"cô rất vui vẻ , nhiệt huyết .",2,0,cô vui_vẻ nhiệt_huyết
+468,"cô wzjwz306 cực kỳ nhiệt tình , luôn biết cách tạo cơ hội cho sinh viên , khuyến khích cự chủ động và sáng tạo trên lớp , thẳng thắng phê bình dù là cả lớp một cách hết sức xây dựng và thức tỉnh .",2,3,cô cực_kỳ nhiệt_tình biết sinh_viên khuyến_khích  chủ_động sáng_tạo lớp thẳng thắng phê_bình lớp hết_sức xây_dựng 
+469,mỗi người giảng viên đều có một phương pháp dạy khác nhau và trình bày bài tập cũng khác nhau .,1,0,giảng_viên một phương_pháp dạy trình_bày bài_tập
+470,"đề thi nằm ngoài mục tiêu giảng dạy quá nhiều , đề trắc nghiệm khách quan mà cho tới 5 đáp án là không hợp lý .",0,1,đề thi  mục_tiêu giảng_dạy quá nhiều đề trắc_nghiệm   NOT hợp_lý
+471,"thoải mái , lắng nghe ý kiến sinh viên .",2,0,thoải_mái lắng_nghe ý_kiến sinh_viên
+472,"sinh viên được chia nhóm và thực hành trên thiết bị thật 2 buổi , 1 buổi làm quen và một buổi hoàn tất là hơi thiếu .",0,1,sinh_viên chia thực_hành thiết_bị hai một  một  hơi NOT
+473,cô cho nhiều bài tập để rèn luyện .,2,0,cô nhiều bài_tập rèn_luyện
+474,kiến thức môn học có ích .,2,1,kiến_thức môn_học có_ích
+475,"thầy khá nhiệt tình , các nội dung giảng dạy của thầy là những câu chuyện thực tế mà thầy trải qua vì vậy tụi em thích thú hơn .",2,0,thầy nhiệt_tình nội_dung giảng_dạy thầy câu_chuyện thầy trải tụi 
+476,cần có nhiều tài liệu được cung cấp ngay từ buổi học đầu tiên thuận lợi và tạo điều kiện cho sinh viên tìm hiểu và nghiên cứu .,0,1,cần nhiều tài_liệu cung_cấp học  sinh_viên nghiên_cứu
+477,"thầy wzjwz298 , dạy rất hay và dễ hiểu môn xác suất thống kê , cực kỳ thích cách giảng dạy của thầy , bài tập và slide bài giảng thầy đều gửi đầy đủ giúp sinh viên nắm bắt được bài giảng hiệu quả .",2,0,thầy dạy hay hiểu môn   cực_kỳ giảng_dạy thầy bài_tập slide giảng thầy gửi đầy_đủ giúp sinh_viên nắm_bắt giảng hiệu_quả
+478,tốt .,2,3,
+479,"giảng viên tận tình , tâm huyết .",2,0,giảng_viên tận_tình tâm_huyết
+480,giúp nâng cao kiến thức .,2,3,giúp nâng cao_kiến_thức
+481,nghỉ học nhưng không thông báo cho sinh viên biết trước .,0,0,nghỉ học NOT thông_báo sinh_viên biết
+482,đảm bảo giờ giấc lên lớp .,2,0,giờ_giấc lên_lớp
+483,giảng viên giảng dạy nhiệt tình và hiệu quả .,2,0,giảng_viên giảng_dạy nhiệt_tình hiệu_quả
+484,"phương pháp giảng của thầy hơi trừu tượng , đề thi có lý thuyết mà thầy quên nhắc .",0,0,phương_pháp giảng thầy hơi trừu_tượng đề thi  thầy quên 
+485,"sự nhiệt tình của giảng viên , tạo động lực cho sinh viên học tập tốt .",2,0,nhiệt_tình giảng_viên  sinh_viên học_tập
+486,cần có nhiều thời gian hơn nữa để sinh viên có thể tiếp thu và vận dụng vào trong thực tế .,0,1,cần nhiều sinh_viên tiếp_thu vận_dụng
+487,"thầy nhiệt tình , giảng hay .",2,0,thầy nhiệt_tình giảng hay
+488,"chấm điểm rộng rãi , không công bằng .",0,0,chấm  NOT công_bằng
+489,"đôi lúc thầy "" chia sẻ "" hơi nhiều thời gian và việc học vào chương trình thì bị bớt lại nhưng điều này cũng không mấy ảnh hưởng gì .",1,0,đôi thầy hơi nhiều học chương_trình NOT NOT mấy ảnh_hưởng
+490,điều em hài lòng nhất đó là thầy rất là vui vẻ khi mà hỏi bài thầy và thầy rất nhiệt tình trong lúc giảng dạy .,2,0,hài_lòng thầy vui_vẻ thầy thầy nhiệt_tình giảng_dạy
+491,nhiều trang thiết bị thực hành trong phòng thực hành điện tử cơ bản đa số hư hỏng nhiều cần phải thay mới .,0,2,nhiều trang thiết_bị thực_hành phòng thực_hành  cơ_bản đa_số hư_hỏng nhiều cần thay
+492,môn game là môn khó mà lượng thời gian thực hành quá ít .,0,1,môn  môn khó thực_hành quá
+493,"slide bài giảng đầy đủ rõ ràng , giáo viên đúng giờ , tạo nhiều điều kiện cho sinh viên .",2,0,slide giảng đầy_đủ rõ_ràng giáo_viên đúng giờ nhiều sinh_viên
+494,thầy rất nghiêm khắc .,0,0,thầy nghiêm_khắc
+495,cần chú ý khắc phục .,0,3,cần  khắc_phục
+496,"vui vẻ , tận tình giải đáp thắc mắc .",2,0,vui_vẻ tận_tình giải_đáp thắc_mắc
+497,"giảng viên giảng dạy quá áp lực , gây áp lực về điểm số cho sinh viên .",0,0,giảng_viên giảng_dạy quá áp_lực áp_lực sinh_viên
+498,"thiết bị thực hành không đáp ứng yêu cầu môn học , như router , switch .",0,2,thiết_bị thực_hành NOT đáp_ứng yêu_cầu_môn_học  
+499,"thầy giảng hay , dễ hiểu , bài tập cho về nhà vừa sức với em .",2,0,thầy giảng hay hiểu bài_tập sức
+500,nên có tiết thực hành hỗ trợ phần đồ án .,0,1,tiết thực_hành đồ_án
+501,"giảng viên giảng dạy nhiệt tình , tận tâm , dễ hiểu .",2,0,giảng_viên giảng_dạy nhiệt_tình tận_tâm hiểu
+502,nói chuyện điện thoại nhiều hơn giảng dạy .,0,0,nói_chuyện điện_thoại nhiều giảng_dạy
+503,giảng viên rất hòa đồng với học sinh .,2,0,giảng_viên hòa đồng học_sinh
+504,khi dùng micro em nghe được hai giọng của thầy và của loa rất đau đầu .,0,2,micro hai giọng thầy loa 
+505,điều này như lướt qua đầu tụi em và nó chả để lại ấn tượng gì nên trong bài thi giữa kỳ đa số là sai phần bài tập .,0,3,lướt đầu tụi NOT ấn_tượng thi kỳ đa_số sai bài_tập
+506,còn nghỉ .,0,0,nghỉ
+507,"quản lý lớp tốt , truyền đạt hay .",2,0, lớp truyền_đạt hay
+508,"gần gũi , phương pháp dạy phù hợp .",2,0,gần_gũi phương_pháp dạy
+509,"trong quá trình giải bài tập , giảng viên đưa ra nhiều nhận xét khác nhau , mỗi buổi lại giải một cách khác nhau khiến sinh khiên không xác định được cách làm , hoang mang .",0,0,giải bài_tập giảng_viên nhiều nhận_xét giải   NOT xác_định hoang_mang
+510,giao viên dạy rất nhiệt tình .,2,0,giao viên dạy nhiệt_tình
+511,"có bài thì một tuần deadline , có bài thì cả tháng mới deadline , có tuần thì deadline ba bài cùng lúc .",0,1,một tuần deadline deadline tuần deadline ba
+512,"cô wzjwz82 dạy rất khó hiểu , nhiều bạn trong lớp không nắm được .",0,0,cô dạy khó hiểu nhiều lớp NOT nắm
+513,"hy vọng cô thay đổi cấu trúc đề thi thực hành , thực ra khó thì không khó lắm , nhưng đánh máy không kịp .",0,0,hy_vọng cô cấu_trúc đề thi thực_hành khó NOT khó lắm  NOT kịp
+514,"thầy tận tâm , nhiệt tình , giảng bài trên lớp kỹ .",2,0,thầy tận_tâm nhiệt_tình giảng lớp kỹ
+515,giảng viên luôn nhiệt tình với sinh viên trong quá trình giảng dạy .,2,0,giảng_viên nhiệt_tình sinh_viên giảng_dạy
+516,"cô dạy vui vẻ , thân thiện với sinh viên .",2,0,cô dạy vui_vẻ thân_thiện sinh_viên
+517,môn học giúp hiểu rõ về từng ngành .,2,1,môn_học giúp hiểu ngành
+518,"nhiệt huyết , vui tính .",2,0,nhiệt_huyết vui_tính
+519,nên thường xuyên điểm danh hơn .,0,0,thường_xuyên điểm_danh
+520,cần phòng thực hành môn học .,0,2,cần phòng thực_hành môn_học
+521,đây là một giảng viên có số lượng fan đông nhất trường .,2,0,một giảng_viên số_lượng  đông trường
+522,"thầy dạy và hướng dẫn sinh viên làm đồ án rất tốt và rất nhiệt tình , luôn giải đáp các câu hỏi của sinh viên rất nhanh .",2,0,thầy dạy hướng_dẫn sinh_viên đồ_án nhiệt_tình giải_đáp câu sinh_viên nhanh
+523,nên mất tiết khá nhiều .,0,1,NOT tiết nhiều
+524,"sự nhiệt tình tận tâm , nếu có thể tăng tiết cho môn học này thì rất tốt ạ !",2,0,nhiệt_tình tận_tâm tiết môn_học
+525,cô chấm bài tập còn khắt khe .,0,0,cô chấm bài_tập khắt_khe
+526,cô nên sử dụng micro .,0,0,cô micro
+527,chỗ thực hành rất nắng và nóng và dụng cụ thực hành rất có hạn .,0,2,chỗ thực_hành  nóng dụng_cụ thực_hành 
+528,chưa có diễn đàn trên courses .,0,1,NOT  courses
+529,giải bài tập nhiều hơn .,0,0,giải bài_tập nhiều
+530,nên nhanh chóng đưa thiết bị thật vào thực hành .,0,2,nhanh_chóng thiết_bị thực_hành
+531,"có nhiều trò chơi mới lạ , vui tươi .",2,1,nhiều trò_chơi mới_lạ 
+532,mở rộng hệ thống bài giảng .,1,1,mở_rộng hệ_thống giảng
+533,đề thi ra không hợp lý .,0,0,đề thi NOT hợp_lý
+534,"nội dung thi , kiểm tra quá rộng .",0,1,nội_dung thi kiểm_tra quá rộng
+535,"thân thiện , tận tình hướng dẫn .",2,0,thân_thiện tận_tình hướng_dẫn
+536,"cô rất nhiệt tình , dạy kỹ .",2,0,cô nhiệt_tình dạy kỹ
+537,giảng viên nên hướng dẫn sinh viên sử dụng myelt trong việc tự học ở nhà .,0,0,giảng_viên hướng_dẫn sinh_viên  học
+538,"cô giảng hay , truyền đạt được kiến thức đầy đủ .",2,0,cô giảng hay truyền_đạt kiến_thức đầy_đủ
+539,luôn vui vẻ và rất nghiêm túc trong chuyện giảng dạy .,2,0,vui_vẻ nghiêm_túc chuyện giảng_dạy
+540,"do năm nay chường trình av nâng lên một bậc , nên cũng giống như em vừa học xong av1 , lại nhảy lên thẳng av3 của năm ngoái .",0,0,   nâng một  học xong   thẳng  năm_ngoái
+541,trong một khoảng thời gian ngắn không thể vừa tìm hiểu vừa làm được .,1,1,một ngắn
+542,"cách dạy thầy rất tốt , nâng cao khả năng , kiến thức của sinh viên .",2,0,dạy thầy nâng khả_năng kiến_thức sinh_viên
+543,tài liệu .,1,1,tài_liệu
+544,đưa ra nhiều ví dụ cụ thể minh họa cho bài giảng giúp cho sinh viên phân biệt rõ các khái niệm và nắm bắt bài học .,2,0,nhiều ví_dụ minh_họa giảng giúp sinh_viên  khái_niệm nắm_bắt bài_học
+545,"thầy dạy hay , thầy có kiến thức sâu rộng nhưng lại không lên lớp đủ giờ học , thường xuyên nghỉ học không được báo trước làm sinh viên rất hoang mang , thiếu kiến thức .",0,0,thầy dạy hay thầy kiến_thức sâu_rộng NOT lên_lớp giờ học thường_xuyên nghỉ học NOT báo sinh_viên hoang_mang NOT kiến_thức
+546,giọng rõ dễ nghe .,2,0,giọng
+547,"đúng giờ , dễ hiểu .",2,0,đúng giờ hiểu
+548,em chưa bao giờ gặp giáo viên như vậy trong suốt 3 năm năm đại học .,1,0,NOT giáo_viên suốt ba đại_học
+549,thiếu kinh nghiệm .,0,0,NOT kinh_nghiệm
+550,giảng viên khá tích cực trong việc trao đổi các vấn đề về đồ án với sinh viên .,2,0,giảng_viên tích_cực trao_đổi đồ_án sinh_viên
+551,thời gian làm bài tập còn hơi dài .,0,1,bài_tập hơi
+552,"giảng viên rất tâm huyết , nhiệt tình .",2,0,giảng_viên tâm_huyết nhiệt_tình
+553,"lý thuyết quá nhiều , không nhiệt tình với sinh viên .",0,0,lý_thuyết quá nhiều NOT nhiệt_tình sinh_viên
+554,hướng dẫn giải bài tập rất hay và chi tiết .,2,0,hướng_dẫn_giải bài_tập hay chi_tiết
+555,thầy giảng bài dễ hiểu và tận tâm .,2,0,thầy giảng hiểu tận_tâm
+556,"thưa , thầy luôn nhiệt tâm và rất gần gũi với sinh viên .",2,0, thầy nhiệt_tâm gần_gũi sinh_viên
+557,"cô dạy rất nhiệt tình , hiểu tâm lý sinh viên , rất vui tính .",2,0,cô dạy nhiệt_tình hiểu tâm_lý sinh_viên vui_tính
+558,"môn học khá nặng và có nhiều phần rất khó hiểu , thời gian phân bố các chương cần có sự thay đổi cho phù hợp , một số phần khá khó nhưng chỉ học trong vòng vài tiết làm sinh viên rất khó hiểu .",0,1,môn_học nhiều khó hiểu phân_bố chương cần khó học vòng tiết sinh_viên khó hiểu
+559,"học lý thuyết khác hẳn với thực hành , học nhiều buổi thực hành nhưng thầy chỉ cho 2 bài thực hành về sân bóng mà đa số sinh viên không hiểu đề .",0,1,học lý_thuyết  thực_hành học nhiều thực_hành thầy hai thực_hành   đa_số sinh_viên NOT hiểu đề
+560,phương pháp dạy dễ hiểu .,2,0,phương_pháp dạy hiểu
+561,chất lượng đào tạo quá tốt .,2,1,chất_lượng đào_tạo quá
+562,"em có ý kiến là thầy nên ra thêm nhiều bài tập , chia sẻ thêm nhiều tài liệu hơn .",0,0,ý_kiến thầy nhiều bài_tập nhiều tài_liệu
+563,thầy giảng bài rất nhiệt tình và đầy đủ kiến thức của môn học .,2,0,thầy giảng nhiệt_tình đầy_đủ kiến_thức môn_học
+564,"giảng viên đảm bảo đủ các buổi học , nhưng rất thường xuyên đến lớp trễ .",0,0,giảng_viên học thường_xuyên lớp trễ
+565,giọng thầy hơi nhỏ và đều đều làm sinh viên buồn ngủ .,0,0,giọng thầy hơi nhỏ sinh_viên buồn_ngủ
+566,"giảng viên dạy nhiệt tình , dễ hiểu , kỹ càng , chu đáo .",2,0,giảng_viên dạy nhiệt_tình hiểu kỹ_càng chu_đáo
+567,thầy vui vẻ tận tâm .,2,0,thầy vui_vẻ tận_tâm
+568,"thầy dạy chi tiết , dễ hiểu bài , luôn đi vào các phần trọng tâm của bài .",2,0,thầy dạy chi_tiết hiểu đi trọng_tâm
+569,"hiện nay theo em nhận thấy , trong khi lúc học thì sinh viên chỉ được học về doubledot kỹ năng ghi chép , kỹ tổ chức cuộc họp .",1,3,học sinh_viên học doubledot kỹ_năng  kỹ tổ_chức họp
+570,"giảng dạy hay , dễ hiểu .",2,0,giảng_dạy hay hiểu
+571,thầy truyền đạt nhiều kiến thức hay .,2,0,thầy truyền_đạt nhiều kiến_thức hay
+572,"điểm thực hành nên chia ra nhiều mục doubledot chuyên cần , bài tập , kiểm tra , kiểm tra cuối kỳ .",0,1,thực_hành chia nhiều mục doubledot  bài_tập kiểm_tra kiểm_tra kỳ
+573,"giảng viên nhiệt tình , đưa ra nhiều bài tập .",2,0,giảng_viên nhiệt_tình nhiều bài_tập
+574,"thầy dạy rất hay , rất dễ hiểu .",2,0,thầy dạy hay hiểu
+575,cô dạy có tâm nhất luôn colonlove .,2,0,cô dạy tâm colonlove
+576,"cô vui tính , hướng dẫn rất tận tình .",2,0,cô  tận_tình
+577,"khả năng truyền đạt tốt , tận tâm , chu đáo .",2,0,khả_năng truyền_đạt tận_tâm chu_đáo
+578,"mong cô thay đổi một chút về phương pháp như sau , có lẽ sẽ giúp sinh viên tiếp cận dễ dàng với bài học hơn .",0,0,mong cô một_chút phương_pháp có_lẽ giúp sinh_viên tiếp_cận dễ_dàng bài_học
+579,nên cho làm bài tập trên lớp sau mỗi chương .,0,0,bài_tập lớp chương
+580,cô dạy hay nhiệt tình nhất trong những giáo viên anh văn em đã học !,2,0,cô dạy hay nhiệt_tình giáo_viên văn học
+581,đi dạy luôn trễ từ 10 - 20 phút .,0,0,đi dạy trễ mười hai mươi phút
+582,hoạt động giảng dạy logic và dễ hiểu không có gì để ý kiến .,2,0,hoạt_động giảng_dạy logic hiểu NOT ý_kiến
+583,"thầy nhiệt tình , chỉ dạy dễ hiểu .",2,0,thầy nhiệt_tình dạy hiểu
+584,buồn ngủ .,0,3,buồn_ngủ
+585,"thầy dạy hay , tận tình .",2,0,thầy dạy hay tận_tình
+586,thầy đẹp trai nhưng trông có pha chút nữ tính .,0,0,thầy đẹp_trai    
+587,"giáo viên chưa được tận tâm cho lắm , nhiều buổi thực hành giáo viên chỉ đến đưa thiết bị rồi đi họp .",0,0,giáo_viên NOT tận_tâm lắm nhiều thực_hành giáo_viên thiết_bị đi họp
+588,cách dạy của cô rất thoải mái không gò bó sinh viên .,2,0,dạy cô thoải_mái NOT gò_bó sinh_viên
+589,"tận tình , truyền đạt dễ hiểu .",2,0,tận_tình truyền_đạt hiểu
+590,có nhiều trò chơi nhỏ .,2,3,nhiều trò_chơi nhỏ
+591,"trong giờ học thì không tập trung vào các nội dung chính của bài mà hỏi sinh viên những câu không liên quan , liên quan về vấn đề riêng tư , và em không thấy được sự áp dụng vô bài học .",0,0,giờ học NOT nội_dung sinh_viên câu NOT  NOT áp_dụng vô bài_học
+592,"phòng học còn rất là bụi , phấn viết bảng thì thiếu trầm trọng , khăn lau bảng thì rách tả tơi .",0,2,phòng học   viết bảng NOT    bảng  
+593,nếu nghỉ học thì mong thầy báo sớm cho tụi em và mong thầy giải hoặc hướng tụi em cách làm một bài tập cũ hoặc mới một cách cụ thể hơn .,0,0,nghỉ học mong thầy báo tụi mong thầy giải hướng tụi một bài_tập cũ
+594,cho nhiều bài tập về nhà để luyện các kỹ năng nghe và đọc .,2,0,nhiều bài_tập luyện kỹ_năng đọc
+595,slide môn học có đôi chỗ bị sai .,0,1,slide môn_học đôi chỗ sai
+596,"phòng học được sắp xếp gần nơi thi công wzjwz125 ồn ào , không học được .",0,2,phòng học sắp_xếp thi_công ồn_ào NOT học
+597,"giảng viên hòa đồng , nhiệt huyết , tận tâm .",2,0,giảng_viên hòa đồng nhiệt_huyết tận_tâm
+598,chất lượng giảng dạy .,1,3,chất_lượng giảng_dạy
+599,"nếu được thì mong nhà trường hoặc giảng viên giới thiệu rõ hơn về môn học , tầm ảnh hưởng tiên quyết của nó đối với các môn học chuyên ngành về sau .",0,1,mong nhà_trường giảng_viên giới_thiệu môn_học tầm ảnh_hưởng  môn_học chuyên_ngành
+600,do bản thân .,1,3,
+601,"giảng viên hơi gầy , cần bồi bổ thể chất colonsmile .",0,0,giảng_viên hơi  cần   
+602,"giáo viên vui tính , nhiệt huyết .",2,0,giáo_viên vui_tính nhiệt_huyết
+603,"kiến thức sát với thực tế , được cập nhật .",2,1,kiến_thức sát cập_nhật
+604,"thầy rất vui và dạy rất nhiệt tình , kiến thức rất rộng .",2,0,thầy vui dạy nhiệt_tình kiến_thức rộng
+605,thiết bị còn quá cũ kỹ .,0,2,thiết_bị quá 
+606,"cô đọc slides nhanh quá , ít giảng cụ thể và nêu ví dụ lên bảng .",0,0,cô đọc  nhanh quá giảng nêu ví_dụ bảng
+607,"nhiệt tình , vui vẻ , tận tâm .",2,0,nhiệt_tình vui_vẻ tận_tâm
+608,thầy dạy rất có tâm và giúp chúng em hiểu rất sâu .,2,0,thầy dạy tâm giúp hiểu sâu
+609,giáo viên giảng dạy hay .,2,0,giáo_viên giảng_dạy hay
+610,môn học rất khó hiểu .,1,1,môn_học khó hiểu
+611,giáo viên giảng khó hiểu .,0,0,giáo_viên giảng khó hiểu
+612,giảng dạy vui vẻ nhiệt tình gần gũi với sinh viên .,2,0,giảng_dạy vui_vẻ nhiệt_tình gần_gũi sinh_viên
+613,một số máy còn không được cài đặt phần mềm thực hành .,0,2,máy NOT cài_đặt phần_mềm thực_hành
+614,thầy cực kỳ nhiệt tình !,2,0,thầy cực_kỳ nhiệt_tình
+615,bài tập mang tính ứng dụng thực tế .,2,1,bài_tập ứng_dụng
+616,đây là góp ý nhỏ của em để cô đỡ mệt thêm thôi ạ !,1,0,góp_ý nhỏ cô  mệt
+617,"còn ít tạo cơ hội cho sinh viên rèn luyện các kỹ năng quan trọng như nghe , nói nhiều .",0,0,sinh_viên rèn_luyện kỹ_năng nói nhiều
+618,có hài lòng .,1,0,hài_lòng
+619,thời gian quá ngắn .,0,3,quá ngắn
+620,thầy nhiệt tình giảng dạy dù có lúc không ai thèm nghe thầy nói .,2,0,thầy nhiệt_tình giảng_dạy NOT  thầy nói
+621,thầy chỉ đến hỗ trợ khi sinh viên cần giúp .,0,0,thầy sinh_viên cần giúp
+622,thực hành .,1,1,thực_hành
+623,thầy liên hệ thực tiễn rất tốt .,2,0,thầy liên_hệ thực_tiễn
+624,có .,1,0,
+625,môn mạng máy tính nên tăng cường thêm thời gian thực hành thay vì dạy nội dung môn học dạy quá nhiều lý thuyết dẫn đến gây khó hiểu cho sinh viên .,0,1,môn mạng máy_tính tăng_cường thực_hành thay_vì dạy nội_dung môn_học dạy quá nhiều lý_thuyết khó hiểu sinh_viên
+626,"thầy hướng dẫn tận tâm , nhiệt tình !",2,0,thầy hướng_dẫn tận_tâm nhiệt_tình
+627,"khả năng truyền đạt tốt , thân thiện với sinh viên .",2,0,khả_năng truyền_đạt thân_thiện sinh_viên
+628,nên sắp xếp lịch thực hành phù hợp với tiến độ giảng dạy lý thuyết .,0,1,sắp_xếp lịch thực_hành tiến_độ giảng_dạy lý_thuyết
+629,mong khoa đổi giảng viên cho môn này vào năm học sau .,0,0, đổi giảng_viên môn năm_học
+630,"thầy rất nhiệt tình giảng dạy , cho dù ít sinh viên .",2,0,thầy nhiệt_tình giảng_dạy  sinh_viên
+631,trang thiết bị nên được trang bị thường xuyên .,0,2,trang thiết_bị trang_bị thường_xuyên
+632,thầy lên lớp rất đúng giờ .,2,0,thầy lên_lớp đúng giờ
+633,thường xuyên đi trễ và áp đặt sinh viên .,0,0,thường_xuyên đi trễ áp_đặt sinh_viên
+634,khó gần .,0,0,khó
+635,để thay đổi không khí và vừa nghỉ giải lao .,2,3,không_khí nghỉ 
+636,cuối buổi học thầy chia sẻ kinh nghiệm để tụi em có thể học tốt hơn .,2,1,học thầy kinh_nghiệm tụi học
+637,"nhiệt tình với sinh viên , luôn đáp ứng và trả lời câu hỏi khi sinh viên thắc mắc .",2,0,nhiệt_tình sinh_viên đáp_ứng trả_lời câu sinh_viên thắc_mắc
+638,"thầy chơi đểu em nhé , gọi em 2 lần làm em 1 con dấu nợ đấy !",0,0,thầy  gọi hai một   
+639,sinh viên có nhiều môn học nên khó mà chỉ đầu tư quá nhiều cho một môn .,0,1,sinh_viên nhiều môn_học khó đầu_tư quá nhiều một môn
+640,đa số các kiến thức của môn sinh viên phải tự học hoặc học hỏi lẫn nhau mà không có hướng dẫn .,0,1,đa_số kiến_thức môn sinh_viên học học_hỏi lẫn NOT hướng_dẫn
+641,"chương trình quá nặng , quá nhiều yêu cầu dễ bị quá tải .",0,3,chương_trình quá quá nhiều quá_tải
+642,nên biên soạn tài liệu tiếng việt đi kèm .,0,1, tài_liệu tiếng việt đi kèm
+643,yêu cầu môn học thì mập mờ và thiếu thực tế .,0,1,yêu_cầu_môn_học mập_mờ NOT
+644,thầy dạy đủ buổi .,1,0,thầy dạy
+645,"thầy dạy nhiệt tình , có sự tương tác giữa người dạy và học trong suốt quá trình học tập .",2,0,thầy dạy nhiệt_tình tương_tác dạy học suốt học_tập
+646,"thầy tâm lý , vui tính .",2,0,thầy tâm_lý vui_tính
+647,"các mục được đánh "" không ý kiến "" có nghĩa là em đồng ý với điều được hỏi , không ý kiến gì .",1,3,mục  NOT ý_kiến   NOT ý_kiến
+648,phòng quá nóng và chói làm máy chiếu bị mờ .,0,2,phòng quá nóng  máy_chiếu mờ
+649,sử dụng giờ lên lớp chưa hợp lý .,0,0,giờ lên_lớp NOT hợp_lý
+650,thầy dạy hay cho nhiều bài tập .,2,0,thầy dạy hay nhiều bài_tập
+651,"tận tình , giảng rõ ràng .",2,0,tận_tình giảng rõ_ràng
+652,thầy rất tích cực trong quá trình giảng dạy .,2,0,thầy tích_cực giảng_dạy
+653,khó tiếp cận nội dung vì slide toàn tiếng anh .,0,1,khó tiếp_cận nội_dung slide toàn tiếng
+654,thầy vui tính nhiệt tình .,2,0,thầy vui_tính nhiệt_tình
+655,chưa giảng chi tiết những bài tập sinh viên không làm được .,0,0,NOT giảng chi_tiết bài_tập sinh_viên NOT
+656,"giảng viên nhiệt tình , giảng dễ hiểu .",2,0,giảng_viên nhiệt_tình giảng hiểu
+657,"nội dung thực hành còn sơ sài , giảng viên chưa hướng dẫn , thông báo trước hay giảng giải về nội dung thực hành .",0,0,nội_dung thực_hành sơ_sài giảng_viên NOT hướng_dẫn thông_báo hay giảng_giải nội_dung thực_hành
+658,"thầy rất thương sinh viên , sẵn sàng nói lại kiến thức lý thuyết khi sinh viên chưa hiểu .",2,0,thầy thương sinh_viên sẵn_sàng nói kiến_thức lý_thuyết sinh_viên NOT hiểu
+659,"nhiệt tình , truyền đạt tốt , hiệu quả .",2,0,nhiệt_tình truyền_đạt hiệu_quả
+660,"có thể ta sẽ tìm thấy được một phương pháp lập trình cho bài toán đó tối ưu hơn , hay hơn .",2,1, một phương_pháp lập_trình   hay
+661,em rất thích cách dạy này !,2,0,dạy
+662,"phòng lab kém , buổi đầu tiên không cài visual , buổi thứ 2 cũng không cài , buổi thứ 3 cũng vậy sinh viên không đi thực hành !",0,2,phòng lab NOT NOT cài visual hai NOT cài ba sinh_viên NOT đi thực_hành
+663,rất dễ hiểu .,2,0,hiểu
+664,"thầy dạy có tâm , nhiệt tình , chấm điểm công bằng .",2,0,thầy dạy tâm nhiệt_tình chấm công_bằng
+665,"thầy dạy thêm nhiều kiến thức hay , chia sẻ cho lớp nhiều kinh nghiệm đã từng học và đi làm của thầy , em thấy rất hứng thú .",2,0,thầy dạy nhiều kiến_thức hay lớp nhiều kinh_nghiệm học đi thầy hứng_thú
+666,"không gian học thoải mái , giảng viên tận tâm , không tạo nhiều áp lực cho sinh viên .",2,0, học thoải_mái giảng_viên tận_tâm NOT nhiều áp_lực sinh_viên
+667,cần nhắc nhở giáo viên này và khiển trách nhiều .,0,0,cần  giáo_viên  nhiều
+668,"giảng viên nhiệt tình , giảng dạy rõ ràng .",2,0,giảng_viên nhiệt_tình giảng_dạy rõ_ràng
+669,"giáo viên dạy dễ hiểu , thực hành tốt , kích thích tư duy sinh viên .",2,0,giáo_viên dạy hiểu thực_hành kích_thích  sinh_viên
+670,"giảng viên dạy quá nhanh , ít sửa bài tập .",0,0,giảng_viên dạy quá nhanh sửa bài_tập
+671,chấm bài tập hoặc đồ án hơi gắt .,0,0,chấm bài_tập đồ_án hơi 
+672,"cách dạy thuyết phục sinh viên , phù hợp với sinh viên .",2,0,dạy  sinh_viên sinh_viên
+673,"quy định rõ sinh viên phải học và làm gì ngay từ đầu học kỳ , tránh đầu học kỳ yêu cầu một kiểu , giữa kỳ lại đổi làm sinh viên khó theo kịp yêu cầu môn học .",0,0,quy_định sinh_viên học đầu học_kỳ đầu học_kỳ một kỳ đổi sinh_viên khó kịp yêu_cầu_môn_học
+674,thầy có phong cách giảng bài gần gũi với sinh viên .,2,0,thầy  giảng gần_gũi sinh_viên
+675,giảng viên cho quá nhiều bài tập .,0,0,giảng_viên quá nhiều bài_tập
+676,"dạy nhanh , giải bài tập nhanh , làm em không theo kịp .",0,0,dạy nhanh giải bài_tập nhanh NOT kịp
+677,giáo viên nhiệt huyết .,2,0,giáo_viên nhiệt_huyết
+678,"nhiệt tình , tận tâm , vui tính .",2,0,nhiệt_tình tận_tâm vui_tính
+679,"cần đưa ra các ứng dụng thực tiễn của môn học , giúp cho sinh viên có thể định hình được họ có thể làm được những gì khi kết thúc môn học , đồng thời có thể áp dụng kiến thức môn học để đáp ứng yêu cầu của thị trường lao động .",0,1,cần ứng_dụng thực_tiễn môn_học giúp sinh_viên   môn_học áp_dụng kiến_thức môn_học đáp_ứng  
+680,phòng học quá bé và thời lượng học quá ít .,0,2,phòng học quá  thời_lượng học quá
+681,"giảng viên dễ thương , truyền đạt kiến thức tốt , dễ hiểu .",2,0,giảng_viên dễ_thương truyền_đạt kiến_thức hiểu
+682,cô chấm kỹ quá .,0,0,cô chấm kỹ quá
+683,dạy quá số giờ quy định .,0,0,dạy quá giờ quy_định
+684,cô dạy rất tận tâm và dễ hiểu .,2,0,cô dạy tận_tâm hiểu
+685,chưa tận tụy .,0,0,NOT tận_tụy
+686,thu hút em học .,2,3,thu_hút học
+687,"nên cho nhiều ví dụ và bài tập về nhà , cung cấp tài liệu thêm cho các sinh viên muốn tìm hiểu thêm .",0,1,nhiều ví_dụ bài_tập cung_cấp tài_liệu sinh_viên
+688,thời gian trên lớp không hiệu quả .,2,1,lớp NOT hiệu_quả
+689,"giáo viên không có khả năng đứng lớp , bài giảng dở tệ .",0,0,giáo_viên NOT khả_năng đứng lớp giảng 
+690,nên có nhiều buổi kiểm tra trên lớp .,0,1,nhiều kiểm_tra lớp
+691,nên giảm số sinh viên trong 1 lớp .,0,1,sinh_viên một lớp
+692,thầy luôn tích cực trả lời thắc mắc của sinh viên trên moodle .,2,0,thầy tích_cực trả_lời thắc_mắc sinh_viên m dle
+693,thầy có định hướng dạy rất tốt về công nghệ hiện tại .,2,0,thầy định_hướng dạy công_nghệ
+694,giáo viên nói hơi nhỏ .,0,0,giáo_viên nói hơi nhỏ
+695,thầy cần sửa nhiều bài tập hơn nữa .,0,0,thầy cần sửa nhiều bài_tập
+696,thực hành không cần phải lên phòng máy nhiều .,0,1,thực_hành NOT cần phòng máy nhiều
+697,mong thầy yêu thương tất cả học trò của mình !,0,0,mong thầy  
+698,"nhiệt tình , luôn quan tâm các sinh viên trong mỗi buổi dạy .",2,0,nhiệt_tình quan_tâm sinh_viên dạy
+699,"truyền đạt kiến thức còn quá lan man , thiếu ví dụ về hệ thống thực tế bên ngoài , truyền cảm hứng chưa tốt , chưa tạo được niềm vui cho sinh viên đến lớp .",0,0,truyền_đạt kiến_thức quá lan_man NOT ví_dụ hệ_thống truyền_cảm_hứng NOT NOT  vui sinh_viên lớp
+700,"giảng dạy tận tình , không khí học tập thoải mái , vui vẻ .",2,0,giảng_dạy tận_tình không_khí học_tập thoải_mái vui_vẻ
+701,"thầy chỉ đọc trên slide , ít có giảng nội dung ngoài .",2,0,thầy đọc slide giảng nội_dung
+702,nên có nhiều bài tập vận dụng thực tế vào thực hành .,0,1,nhiều bài_tập vận_dụng thực_hành
+703,sau đó mở vào giờ khuya lúc sinh viên đi ngủ .,0,0,giờ  sinh_viên đi ngủ
+704,bài tập chất lượng .,2,1,bài_tập chất_lượng
+705,"tuy có một số phần khó nhưng thầy giảng và làm ví dụ rất dễ hiểu , có một tiết thầy giảng bằng tiếng anh rất hay .",2,0,khó thầy giảng ví_dụ hiểu một tiết thầy giảng tiếng hay
+706,"bài giảng được cung cấp đầy đủ , hữu ích .",2,1,giảng cung_cấp đầy_đủ hữu_ích
+707,"trẻ , có nhiều cái mới , hay .",2,0,trẻ nhiều hay
+708,mong cô tiếp tục dạy như vậy nữa .,2,0,mong cô dạy
+709,giảng viên nên cho bài tập thường xuyên tuần nào cũng phải trả bài .,0,0,giảng_viên bài_tập thường_xuyên tuần
+710,cô dạy hay nhiệt tình và dễ hiểu .,2,0,cô dạy hay nhiệt_tình hiểu
+711,"giảng kỹ , giảng nhiều phần nâng cao .",2,0,giảng kỹ giảng nhiều nâng
+712,giảng viên hướng dẫn sinh động .,2,0,giảng_viên hướng_dẫn sinh_động
+713,nên để ngày học thực hành chung ngày với lý thuyết .,0,1,học thực_hành lý_thuyết
+714,thầy rất nhiệt tình và tận tâm với sinh viên !,2,0,thầy nhiệt_tình tận_tâm sinh_viên
+715,thời khóa biểu thực hành cần sắp xếp hợp lý so với giờ học lý thuyết .,0,1, khóa  thực_hành cần sắp_xếp hợp_lý giờ học lý_thuyết
+716,cô dạy rất nhiệt tình và quan tâm đến sinh viên .,2,0,cô dạy nhiệt_tình quan_tâm sinh_viên
+717,giảng viên giảng tận tình .,2,0,giảng_viên giảng tận_tình
+718,giáo viên không đến lớp bữa nào nên em không biết nhận xét .,1,0,giáo_viên NOT lớp  NOT biết nhận_xét
+719,vô cùng tuyệt vời .,2,3,vô_cùng tuyệt_vời
+720,"thầy dạy hơi nhanh , một vài chỗ lướt hơi nhanh .",0,0,thầy dạy hơi nhanh chỗ lướt hơi nhanh
+721,thầy dạy nhiệt tình dễ hiểu .,2,0,thầy dạy nhiệt_tình hiểu
+722,giáo viên tận tình mặc dù nhiều sinh viên còn lơ là .,2,0,giáo_viên tận_tình mặc_dù nhiều sinh_viên 
+723,môn học khá nhẹ nhàng cho sinh viên .,2,1,môn_học  sinh_viên
+724,máy tính trong phòng thực hành không được tốt cho lắm .,0,2,máy_tính phòng thực_hành NOT lắm
+725,"phòng máy nên đầu tư đồng bộ một chút , tránh hiện tượng các máy là khác nhau .",0,2,phòng máy đầu_tư  một_chút  máy
+726,thầy dạy đủ để thi .,1,0,thầy dạy thi
+727,mong phòng đào tạo xem xét để khóa sau học được chất lượng ạ .,0,1,mong phòng đào_tạo  khóa học chất_lượng
+728,lớp trưởng trách nhiệm kém .,0,3,lớp trưởng trách_nhiệm NOT
+729,"cô dạy rất hay , vui tính và dễ hiểu .",2,0,cô dạy hay vui_tính hiểu
+730,em rất hài lòng về cách dạy của thầy trong môi trường đại học .,2,0,hài_lòng dạy thầy môi_trường đại_học
+731,"thầy tận tâm , nhiệt tình với học sinh .",2,0,thầy tận_tâm nhiệt_tình học_sinh
+732,thầy hướng dẫn thực hành rất không tốt .,0,0,thầy hướng_dẫn thực_hành NOT
+733,"phương pháp giảng dạy phù hợp , giải quyết thắc mắc nhanh chóng .",2,0,phương_pháp giảng_dạy giải_quyết thắc_mắc nhanh_chóng
+734,cần cải thiện tốc độ mạng .,0,2,cần cải_thiện tốc_độ mạng
+735,thầy hơi khó chịu .,0,0,thầy hơi khó_chịu
+736,chưa tổng quát .,0,0,NOT 
+737,"chỉ được thực hành hai buổi thi vì vậy không vận dụng tốt kiến thức đã học , không đảm bảo số buổi như lúc bắt đầu đã thỏa thuận .",0,1,thực_hành hai thi  kiến_thức học NOT 
+738,khuôn khổ bài học chưa truyền được cảm hứng cho sinh viên .,0,0, bài_học NOT  cảm_hứng sinh_viên
+739,đề nghị giảng viên chuẩn bị tốt bài giảng .,0,0,đề_nghị giảng_viên giảng
+740,cô rất nhiệt tình và tận tâm với sinh viên !,2,0,cô nhiệt_tình tận_tâm sinh_viên
+741,"giáo viên nhiệt tình , có trách nhiệm , truyền đạt dễ giểu .",2,0,giáo_viên nhiệt_tình trách_nhiệm truyền_đạt 
+742,được tiếp xúc môi trường thực tế ở các công ty .,2,3, môi_trường công_ty
+743,thầy rất vui tính và dễ gần .,2,0,thầy vui_tính
+744,giảng kỹ và chi tiết .,2,0,giảng kỹ chi_tiết
+745,giáo viên hướng dẫn tận tâm .,2,0,giáo_viên hướng_dẫn tận_tâm
+746,"em thấy giáo viên dạy dễ hiểu , tận tình .",2,3,giáo_viên dạy hiểu tận_tình
+747,giọng nói dễ nghe .,2,0,giọng nói
+748,một số vấn đề còn khó hiểu .,0,1,khó hiểu
+749,giảng viên vui tính nhiệt tình .,2,0,giảng_viên vui_tính nhiệt_tình
+750,"thầy giảng hơi khó hiểu , giọng đều đều buồn ngủ .",0,0,thầy giảng hơi khó hiểu giọng buồn_ngủ
+751,cần định hướng tạo điều kiện cho sinh viên giao lưu các doanh nghiệp để biết được yêu cầu của họ về một người kỹ sư .,0,1,cần định_hướng sinh_viên giao_lưu  biết một 
+752,"giàu kinh nghiệm , dễ hiểu , dẫn chứng cụ thể .",2,0, kinh_nghiệm hiểu 
+753,em nhớ nhất câu phải có sự đấu tranh mới phát triển .,2,3,câu  phát_triển
+754,"không kiểm soát được lớp , không tận tâm chuẩn bị trước khi lên lớp .",0,0,NOT kiểm_soát lớp NOT tận_tâm lên_lớp
+755,giáo viên đúng giờ .,2,0,giáo_viên đúng giờ
+756,cô dạy nhiệt tình nhưng hơi nhanh .,0,0,cô dạy nhiệt_tình hơi nhanh
+757,em nghĩ thầy nên cho nhiều bài tập về nhà hơn .,0,0,thầy nhiều bài_tập
+758,"bám không sát đề thi , lan man .",2,1,bám NOT sát đề thi lan_man
+759,không có đề cương trên khoá học .,0,3,NOT đề_cương  học
+760,giảng viên nên thông báo hình thức ra đề đề mở hay đề đóng để sinh viên biết và chuẩn bị tài liệu để bài kiểm tra có kết quả tốt hơn .,0,0,giảng_viên thông_báo hình_thức đề đề hay đề  sinh_viên biết tài_liệu kiểm_tra kết_quả
+761,đặc biệt là tránh để thời gian chết .,0,3,
+762,giảng viên hơi khó tính .,0,0,giảng_viên hơi khó_tính
+763,"thầy dạy tận tâm , nhiệt tình , truyển đạt dễ hiểu .",2,0,thầy dạy tận_tâm nhiệt_tình  hiểu
+764,"thầy dạy rất kỹ và chi tiết , rất quan tâm đến học sinh .",2,0,thầy dạy kỹ chi_tiết quan_tâm học_sinh
+765,ít cho học sinh luyện kỹ năng nghe nói .,0,1,học_sinh luyện kỹ_năng nói
+766,giảng viên nên giảng chậm lại và phân tích trọng tâm từng đề mục của bài học .,0,0,giảng_viên giảng chậm phân_tích trọng_tâm  bài_học
+767,funny .,2,3,
+768,quá nhiều lý thuyết khiến sinh viên không tiếp thu kịp vào không biết cách vận dụng .,0,1,quá nhiều lý_thuyết sinh_viên NOT tiếp_thu kịp NOT biết vận_dụng
+769,mong thầy đổi phương pháp dạy và cách phản biện với sinh viên .,0,0,mong thầy đổi phương_pháp dạy  sinh_viên
+770,em nghĩ là nhà trường không nên tổ chức học thực hành .,0,1,nhà_trường NOT tổ_chức học thực_hành
+771,sự cố này kéo dài hơn một tháng mới chấm dứt .,0,3,sự_cố kéo_dài một 
+772,"cô giáo rất tích cực trong giảng dạy , truyền đạt kiến thức tới sinh viên rất hay .",2,0,cô_giáo tích_cực giảng_dạy truyền_đạt kiến_thức sinh_viên hay
+773,cần thực hành thêm nhiều bài tập .,0,1,cần thực_hành nhiều bài_tập
+774,giúp cho sinh viên tập trung vào thiết kế mạng phù hợp với mục đích môn học .,2,0,giúp sinh_viên  mạng mục_đích môn_học
+775,giảng viên giải đáp các thắc mắc tại lớp tận tình .,2,0,giảng_viên giải_đáp thắc_mắc lớp tận_tình
+776,thay vì cho làm kiểm tra wecode thì cho làm trên lớp thuận tiện hơn .,0,1,thay_vì kiểm_tra  lớp 
+777,"nói to , rõ .",2,0,nói to
+778,thiếu sự giảng dạy và khả năng truyền đạt không hiệu quả .,0,0,NOT giảng_dạy khả_năng truyền_đạt NOT hiệu_quả
+779,"hướng dẫn làm đồ án còn chưa rõ ràng , chưa hướng dẫn cho sinh viên một cách cụ thể về các kỹ năng đứng trước đám đông .",0,0,hướng_dẫn đồ_án NOT rõ_ràng NOT hướng_dẫn sinh_viên kỹ_năng đứng  đông
+780,"các bài giảng khó tiếp thu , hiểu được .",0,1,giảng khó tiếp_thu hiểu
+781,thầy dạy vui tính .,2,0,thầy dạy vui_tính
+782,thầy dạy được .,2,0,thầy dạy
+783,nhà trường nên giúp đỡ thầy trong việc giảng dạy vì môn này không đúng chuyên môn của thầy .,0,1,nhà_trường giúp_đỡ thầy giảng_dạy môn NOT đúng chuyên_môn thầy
+784,cung cấp nhiều kiến thức mở rộng hữu ích .,2,0,cung_cấp nhiều kiến_thức mở_rộng hữu_ích
+785,"giảng viên rất nhiệt tình , tạo mọi điều kiện cho sinh viên hoàn thành tốt môn học .",2,0,giảng_viên nhiệt_tình sinh_viên hoàn_thành môn_học
+786,thầy rất nhiệt tình trong việc giảng dạy và hướng dẫn sinh viên .,2,0,thầy nhiệt_tình giảng_dạy hướng_dẫn sinh_viên
+787,cách truyền đạt của cô khá khó hiểu .,0,0,truyền_đạt cô khó hiểu
+788,"nhiệt tình , giảng dạy chi tiết cụ thể .",2,0,nhiệt_tình giảng_dạy chi_tiết
+789,"thầy biết sâu rộng và có nhiều chủ đề giảng mang tính thực tiễn , thực tế bên cạnh việc giảng dạy môn giải tích .",2,0,thầy biết sâu_rộng nhiều chủ_đề giảng thực_tiễn cạnh giảng_dạy môn giải_tích
+790,"giảng viên không hướng dẫn thực hành , vào phòng thực hành làm các bài lab và nộp , không có sự hướng dẫn , sinh viên nào chưa hiểu giảng viên yêu cầu đến lớp lý thuyết để hỏi vào phòng thực hành , giảng viên ngồi trên máy tính , sinh viên bên dưới làm gì tùy thích , đến hạn nộp lab xem như hoàn thành !",0,0,giảng_viên NOT hướng_dẫn thực_hành phòng thực_hành lab nộp NOT hướng_dẫn sinh_viên NOT hiểu giảng_viên lớp lý_thuyết phòng thực_hành giảng_viên máy_tính sinh_viên   nộp lab hoàn_thành
+791,thầy dạy dễ hiểu và dễ tiếp thu .,2,0,thầy dạy hiểu tiếp_thu
+792,em mong muốn thầy phân bổ thời gian dạy hợp lý hơn .,0,0,mong_muốn thầy phân_bổ dạy hợp_lý
+793,nên thu nhỏ lớp học lại .,0,2,thu nhỏ lớp_học
+794,thường xuyên cho bài tập về nhà .,2,0,thường_xuyên bài_tập
+795,"giáo viên nên liên hệ với giáo viên lý thuyết , để có nội dung thực hành sát với nội dung giảng dạy trên lớp .",0,0,giáo_viên liên_hệ giáo_viên lý_thuyết nội_dung thực_hành sát nội_dung giảng_dạy lớp
+796,thầy dạy nhiệt tình bài tập và slide hay .,2,0,thầy dạy nhiệt_tình bài_tập slide hay
+797,thực tiễn .,1,1,thực_tiễn
+798,"thầy giáo nhiệt tình , tận tâm .",2,0,thầy_giáo nhiệt_tình tận_tâm
+799,mong phòng đào tạo không sắp cho thầy dạy lớp em nữa .,0,0,mong phòng đào_tạo NOT thầy dạy lớp
+800,"giảng viên nhiệt tình giảng dạy , giúp đỡ sinh viên rất nhiều .",2,0,giảng_viên nhiệt_tình giảng_dạy giúp_đỡ sinh_viên nhiều
+801,"tận tâm , kỹ lưỡng .",2,0,tận_tâm kỹ_lưỡng
+802,"lên báo cáo thì "" đuổi về "" , thái độ với sinh viên quá là tệ .",0,0,báo_cáo  thái_độ sinh_viên quá tệ
+803,mong thầy cô xem lại mức độ ra bài tập hoặc đưa ra hướng dẫn cụ thể hơn dành cho sinh viên .,0,0,mong thầy cô  bài_tập hướng_dẫn sinh_viên
+804,nên điều chỉnh môn này thời gian nhiều hơn .,0,1,điều_chỉnh môn nhiều
+805,nội dung dạy không hấp dẫn !,0,0,nội_dung dạy NOT hấp_dẫn
+806,rất hay và quá hay .,2,3,hay quá hay
+807,thầy nên giảng chậm lại để học sinh dễ hiểu hơn và cho nhiều bài tập để học sinh có thể áp dụng được .,0,0,thầy giảng chậm học_sinh hiểu nhiều bài_tập học_sinh áp_dụng
+808,học patin vui .,2,3,học  vui
+809,"cách trình bày , diễn đạt kiến thức chưa được tốt .",0,0,trình_bày diễn_đạt kiến_thức NOT
+810,cải thiện tốc dộ mạng .,0,2,cải_thiện   mạng
+811,"giảng viên dạy dễ tiếp thu , nhiệt tình .",2,0,giảng_viên dạy tiếp_thu nhiệt_tình
+812,"thầy giảng bài rất tận tâm , dễ hiểu , nhưng tiết dạy kéo dài rất ngắn .",0,0,thầy giảng tận_tâm hiểu tiết dạy kéo_dài ngắn
+813,"giảng dạy dễ hiểu , cuốn hút sinh viên !",2,0,giảng_dạy hiểu  sinh_viên
+814,"giảng viên dạy nhiệt tình , chu đáo , tận tâm , tạo mọi điều kiện cho sinh viên phát triển kỹ năng suy luận .",2,0,giảng_viên dạy nhiệt_tình chu_đáo tận_tâm sinh_viên phát_triển kỹ_năng suy_luận
+815,giảng nhanh .,0,0,giảng nhanh
+816,"hiểu được sơ lược về một hệ điều hành , biết được một số thuật toán cần thiết của môn học .",2,1,hiểu  một   biết  cần_thiết môn_học
+817,cho làm bài tập nhiều hơn nữa .,0,0,bài_tập nhiều
+818,cô giáo dạy hay .,2,0,cô_giáo dạy hay
+819,cách dạy khoa học .,2,0,dạy khoa_học
+820,dạy vui vẻ va nhiệt tình .,2,0,dạy vui_vẻ  nhiệt_tình
+821,"giảng viên nhiệt tình , tận tình giải thích khi sinh viên thắc mắc .",2,0,giảng_viên nhiệt_tình tận_tình giải_thích sinh_viên thắc_mắc
+822,chưa đảm bảo thời gian lên lớp .,0,0,NOT lên_lớp
+823,cần tài liệu chính thức cho phần lý thuyết hơn nữa .,0,1,cần tài_liệu  lý_thuyết
+824,"cô dạy kiến thức còn sư phạm , khó áp dụng thực tế .",0,0,cô dạy kiến_thức sư_phạm khó áp_dụng
+825,cần trang bị thêm các rèm che cho các phòng học ở dãy nhà c nhằm tránh tình trạng không thấy rõ máy chiếu .,0,2,cần trang_bị  che phòng học dãy c NOT máy_chiếu
+826,hỗ trợ nhiều bài tập giúp nâng cao trình độ .,0,1,nhiều bài_tập giúp nâng 
+827,"gần gũi , hoà đồng , vui tính .",2,0,gần_gũi hoà_đồng vui_tính
+828,đây là môn đầu tiên học thầy và cũng nghe mọi người nói thầy dạy và chấm điểm khó .,0,0,môn học thầy nói thầy dạy chấm khó
+829,dễ tính .,2,1,dễ_tính
+830,"có một nhóm seminar và mỗi tuần có một nhóm thực hiện thuyết trình , bên cạnh đó khoảng 2 - 3 tuần đầu học kỳ là giáo viên nghỉ dạy , thế nên hầu như là tuần nào cũng có seminar và cách giảng dạy của giảng viên là như trên .",0,0,một seminar tuần một thuyết_trình cạnh hai ba tuần đầu học_kỳ giáo_viên nghỉ dạy hầu_như tuần seminar giảng_dạy giảng_viên
+831,nên tăng cường các kỹ năng nghe và nói cho sinh viên .,0,1,tăng_cường kỹ_năng nói sinh_viên
+832,"giảng viên tận tâm , nhiệt tình với sinh viên .",2,0,giảng_viên tận_tâm nhiệt_tình sinh_viên
+833,"thầy dạy tận tình , khá rõ ràng .",2,0,thầy dạy tận_tình rõ_ràng
+834,đảm bảo giờ lên lớp .,2,1,giờ lên_lớp
+835,nhiệt tình tận tâm .,2,0,nhiệt_tình tận_tâm
+836,giảng viên dạy được .,1,0,giảng_viên dạy
+837,em cảm ơn thầy nhiều ạ .,1,0,cảm_ơn thầy nhiều
+838,giáo viên thân thiện .,2,0,giáo_viên thân_thiện
+839,môn học nên có thêm phần ví dụ về áp dụng thực tiễn .,0,1,môn_học ví_dụ áp_dụng thực_tiễn
+840,"học tập thoải mái , không áp lực .",2,0,học_tập thoải_mái NOT áp_lực
+841,"nâng cao trang thiết bị phòng học doubledot máy chiếu , quạt , ổ điện .",0,2,nâng trang thiết_bị phòng học doubledot máy_chiếu quạt  
+842,"thầy giảng dạy nhiệt tình , hiệu quả .",2,0,thầy giảng_dạy nhiệt_tình hiệu_quả
+843,em xin đóng góp là giáo viên dạy thực hành và giáo viên dạy lý thuyết cần có sự trao đổi với nhau để có sự thống nhất trong nội dung bài học cho sinh viên .,0,0, giáo_viên dạy thực_hành giáo_viên dạy lý_thuyết cần trao_đổi thống_nhất nội_dung bài_học sinh_viên
+844,"hay đi trễ , giảng buồn ngủ .",0,0,hay đi trễ giảng buồn_ngủ
+845,"bài tập thầy cho quá dễ và không có tính bắt buộc nên sinh viên hay "" ngó lơ "" , lần sau thầy cứ trừ điểm quá trình là mấy bạn tự khắc làm liền à colonbigsmile .",0,0,bài_tập thầy quá NOT  sinh_viên hay   thầy trừ mấy   
+846,"cách giảng bài khó hiểu , vòng vèo , không theo chủ đề .",0,0,giảng khó hiểu  NOT chủ_đề
+847,phần speaking rất dễ hiểu .,2,1,speaking hiểu
+848,tiếng anh chuẩn .,2,0,tiếng chuẩn
+849,phương pháp giảng dạy hay .,2,0,phương_pháp giảng_dạy hay
+850,"tận tình với sinh viên , dạy tốt .",2,0,tận_tình sinh_viên dạy
+851,"cô dạy rất nhiệt tình , bài giải đầy đủ !",2,0,cô dạy nhiệt_tình giải đầy_đủ
+852,thầy biết lắng nghe ý kiến từ học sinh .,2,0,thầy biết lắng_nghe ý_kiến 
+853,giảng viên cần có tâm hơn .,0,0,giảng_viên cần tâm
+854,truyền đạt khó hiểu .,0,0,truyền_đạt khó hiểu
+855,nhanh .,1,3,nhanh
+856,thầy dạy thiếu nhiệt tình .,0,0,thầy dạy NOT nhiệt_tình
+857,không up tài liệu lên courses .,0,0,NOT up tài_liệu courses
+858,"thầy nhiệt tình tận tâm , đề cập thực tế và các phương pháp học dễ hiểu .",2,0,thầy nhiệt_tình tận_tâm đề_cập phương_pháp học hiểu
+859,ví dụ không thực tiễn .,0,1,ví_dụ NOT thực_tiễn
+860,"thầy giảng rất dễ hiểu , hay , có tài liệu rõ ràng , đồng thời có kèm theo bài tập để luyện tập .",2,0,thầy giảng hiểu hay tài_liệu rõ_ràng kèm bài_tập 
+861,cái này là bức xúc với cách xếp lịch học chứ không hề có vấn đề gì với giảng viên .,0,1, xếp lịch học NOT giảng_viên
+862,môn học rất là hữu ích .,2,1,môn_học hữu_ích
+863,tma qua dạy làm cho thầy thiếu thời gian nhưng hầu như thầy dậy rất kỹ .,2,0, dạy thầy  hầu_như thầy dậy kỹ
+864,"giảng dễ hiểu , thu hút , hấp dẫn .",2,0,giảng hiểu thu_hút hấp_dẫn
+865,giảng viên giảng nhanh .,0,0,giảng_viên giảng nhanh
+866,nên dùng giáo trình tập trung kỹ năng nghe nói nhiều hơn .,0,1,giáo_trình kỹ_năng nói nhiều
+867,"dạy có tâm huyết với sinh viên , giảng và hướng dẫn làm bài tập tốt .",2,0,dạy tâm_huyết sinh_viên giảng hướng_dẫn bài_tập
+868,"thầy tận tâm , vui tính .",2,0,thầy tận_tâm vui_tính
+869,thầy cần xem rõ cách dạy trên lớp .,0,0,thầy cần dạy lớp
+870,thầy đưa ra những tinh huống thực tế rất hay .,2,0,thầy tinh  hay
+871,"thiết bị phòng lab cũ , chưa đáp ứng được yêu cầu thực hành .",0,2,thiết_bị phòng lab cũ NOT đáp_ứng thực_hành
+872,"phòng thực hành kém chật lượng , quá nhỏ , nhiều bạn thực hành phải làm bài tập bên ngoài hành lang rồi mới vào trong chấm được .",0,2,phòng thực_hành NOT  quá nhỏ nhiều thực_hành bài_tập  chấm
+873,"thầy rất vui , cực kỳ nhiệt tình .",2,0,thầy vui cực_kỳ nhiệt_tình
+874,thầy thường hay cho nghỉ .,0,0,thầy hay nghỉ
+875,kiến thức môn học nhàm chán .,0,1,kiến_thức môn_học nhàm_chán
+876,thầy nghiêm khắc và nhiệt tình .,2,0,thầy nghiêm_khắc nhiệt_tình
+877,chữ viết khá nhỏ .,0,3, nhỏ
+878,đôi lúc nói nhanh nghe không kịp .,0,0,đôi nói nhanh NOT kịp
+879,"giảng viên vui tính , có tâm huyết .",2,0,giảng_viên vui_tính tâm_huyết
+880,điểm danh quá nhiều .,0,0,điểm_danh quá nhiều
+881,nâng cao thiết bị giảng dạy .,0,2,nâng thiết_bị giảng_dạy
+882,buổi thực hành giáo viên không đi buổi nào .,0,0,thực_hành giáo_viên NOT đi
+883,nhiều hoạt động giao lưu với học sinh .,2,0,nhiều hoạt_động giao_lưu học_sinh
+884,giảng viên giảng dạy khá nhanh khiền nhiều sinh viên không theo kịp đặc biệt là phần lý thuyết .,0,0,giảng_viên giảng_dạy nhanh  nhiều sinh_viên NOT kịp lý_thuyết
+885,em không học giáo viên này ạ !,1,0,NOT học giáo_viên
+886,"tóm lại , đồ án cuối kỳ không nên đánh giá phần nội dung vì đề bài đã không thiết thực thì không thể nào bắt sinh viên làm đạt yêu cầu được .",0,1,tóm đồ_án kỳ NOT nội_dung  NOT thiết_thực không_thể_nào bắt sinh_viên
+887,"thời gian thực hành quá ít , phân bổ không phù hợp .",0,1,thực_hành quá phân_bổ NOT
+888,"giáo viên tận tình , giảng bài dễ hiểu dễ tiếp thu .",2,0,giáo_viên tận_tình giảng hiểu tiếp_thu
+889,chỉ dẫn làm bài chưa hiệu quả cho sinh viên .,0,0,chỉ_dẫn NOT hiệu_quả sinh_viên
+890,"thông báo học quá trễ , qua kỳ thi giữa kỳ 2 - 3 tuần mới có thông báo học buổi học thực hành đầu tiên .",0,1,thông_báo học quá trễ kỳ thi kỳ hai ba tuần thông_báo học học thực_hành
+891,"không ý kiến , môn học rất tốt .",2,1,NOT ý_kiến môn_học
+892,đề nghị nhà trường nâng cấp .,0,3,đề_nghị nhà_trường nâng_cấp
+893,hơi đi sâu vấn đề khác ( lạc đề ) .,0,0,hơi đi_sâu 
+894,có các bài tập hay bài kiểm tra đánh giá kiến thức theo từng tuần .,2,1,bài_tập hay kiểm_tra kiến_thức tuần
+895,"thầy cho nghỉ thường xuyên , nhưng không báo trên hệ thống của trường mà toàn thông báo trên facebook của thầy .",0,0,thầy nghỉ thường_xuyên NOT báo hệ_thống trường toàn thông_báo   thầy
+896,"phòng học quá nóng , xin nhà trường trang bị thêm quạt cho các phòng học dãy c .",0,2,phòng học quá nóng nhà_trường trang_bị quạt phòng học dãy c
+897,thầy đến lớp trễ và nghỉ nhưng không báo trước .,0,0,thầy lớp trễ nghỉ NOT báo
+898,sửa và giảng bài khá nhanh .,0,0,sửa giảng nhanh
+899,giáo viên thực hành và lý thuyết nên liên hệ với nhau để hỗ trợ sinh viên tốt hơn trong việc học .,0,0,giáo_viên thực_hành lý_thuyết liên_hệ sinh_viên học
+900,thầy nói tiếng anh sinh viên cũng khó hình dung được câu nói ( phát âm ) .,0,0,thầy nói tiếng sinh_viên khó hình_dung câu nói phát_âm
+901,"giảng quá nhanh và quá phức tạp trong một buổi học , không giải bài tập hoặc ví dụ mẫu bao giờ , nên sinh viên khó lòng làm được các hình thức bài tập mới và khó .",0,0,giảng quá nhanh quá phức_tạp một học NOT giải bài_tập ví_dụ mẫu sinh_viên  hình_thức bài_tập khó
+902,"thầy rất nhiệt tình hay , thầy đưa nhiều ví dụ mẫu cho sinh viên dễ hiểu và luôn có đề mẫu làm thử khi gần thi giữa kỳ và cuối kỳ .",2,0,thầy nhiệt_tình hay thầy nhiều ví_dụ mẫu sinh_viên hiểu đề mẫu thử thi kỳ kỳ
+903,"lôi cuốn , thú vị , biết thêm nhiều kiến thức lạ , có tính áp dụng cao .",2,0, thú_vị biết nhiều kiến_thức  áp_dụng
+904,đề nghị giảng viên nên sử dụng hệ thống moodle nhiều hơn !,0,0,đề_nghị giảng_viên hệ_thống m dle nhiều
+905,thầy dạy chưa đúng giờ .,0,0,thầy dạy NOT đúng giờ
+906,nên lắng nghe ý kiến của sinh viên nhiều hơn .,0,0,lắng_nghe ý_kiến sinh_viên nhiều
+907,tận tâm và nhiệt huyết .,2,0,tận_tâm nhiệt_huyết
+908,có chuyên môn cao .,2,0,chuyên_môn
+909,"giảng dạy nhiệt tình , đảm bảo kiến thức chuyên sâu .",2,0,giảng_dạy nhiệt_tình kiến_thức chuyên_sâu
+910,"thầy dạy không nhiệt tình , cứ chiếu slide rồi cho sinh viên chép .",0,0,thầy dạy NOT nhiệt_tình chiếu slide sinh_viên chép
+911,cô giảng quá nhanh .,0,0,cô giảng quá nhanh
+912,sự nhiệt tình của giáo viên .,2,0,nhiệt_tình giáo_viên
+913,thầy hiểu học sinh cần đạt được kiến thức gì trong học kỳ đầu và tạo điều kiện để học sinh học tập .,2,0,thầy hiểu học_sinh cần kiến_thức học_kỳ đầu 
+914,"nhiệt tình , vui tính !",2,0,nhiệt_tình vui_tính
+915,giáo viên giúp đỡ học sinh rất nhiều .,2,0,giáo_viên giúp_đỡ học_sinh nhiều
+916,"nhiệt tình , tâm huyết với học sinh .",2,0,nhiệt_tình tâm_huyết học_sinh
+917,lịch học phân trùng thời gian sinh viên không thể tham gia học thực hành .,0,1,lịch học  trùng sinh_viên tham_gia học thực_hành
+918,đó là hệ thống máy thực hành còn kém .,0,2,hệ_thống máy thực_hành NOT
+919,giáo trình tiếng anh .,0,0,giáo_trình tiếng
+920,"thầy dạy rất hay , nhiệt tình , dễ hiểu .",2,0,thầy dạy hay nhiệt_tình hiểu
+921,"thầy rất tận tình , cho bài tập rất nhiều , mở rộng nhiều kiến thức cho sinh viên .",2,0,thầy tận_tình bài_tập nhiều mở_rộng nhiều kiến_thức sinh_viên
+922,thầy có liên hệ với thực tế khiến bài học dễ tiếp thu hơn .,2,0,thầy liên_hệ bài_học tiếp_thu
+923,"chương trình dạy hơi khó hiểu , khó tiếp thu và hơi ít bài tập để ôn luyện cho học sinh .",0,0,chương_trình dạy hơi khó hiểu khó tiếp_thu hơi bài_tập  học_sinh
+924,em cảm thấy hứng thú trong tiết học của thầy .,2,0,hứng_thú tiết học thầy
+925,"không khí thoải mái , không bị gò bó về vấn đề bài tập , không bị áp lực .",2,1,không_khí thoải_mái NOT gò_bó  NOT áp_lực
+926,đôi khi dạy hơi nhanh khiến học sinh hơi hoang mang .,0,3,đôi_khi dạy hơi nhanh học_sinh hơi hoang_mang
+927,"hơi lan man , không đi vào trọng tâm .",0,0,hơi lan_man NOT đi trọng_tâm
+928,cần có biện pháp để có thể đánh giá phù hợp với thực lực của sinh viên hơn .,0,3,cần biện_pháp thực_lực sinh_viên
+929,"giảng viên truyền đạt tốt , liên hệ nhiều kiến thức bên ngoài .",2,0,giảng_viên truyền_đạt liên_hệ nhiều kiến_thức
+930,"cô rất nhiệt tình , vui tính .",2,0,cô nhiệt_tình vui_tính
+931,"thầy giảng dạy nhiệt tình , và dễ hiểu .",2,0,thầy giảng_dạy nhiệt_tình hiểu
+932,lượng kiến thức cho phần kiểm tra đánh giá kết quả học tập tràn lan .,0,1,kiến_thức kiểm_tra kết_quả học_tập tràn_lan
+933,giảng viên phân tích rõ một vài vấn đề giúp hiểu rõ hơn về các ngành fraction khoa .,2,0,giảng_viên phân_tích giúp hiểu ngành 
+934,"giảng viên dạy đầy đủ , đúng giờ .",2,0,giảng_viên dạy đầy_đủ đúng giờ
+935,giảng viên luyện nói rất hiệu quả .,2,0,giảng_viên luyện nói hiệu_quả
+936,cần chuẩn bị thêm trang thiết bị để hỗ trợ kịp thời trong học tập và thực hành .,0,2,cần trang thiết_bị kịp_thời học_tập thực_hành
+937,bài tập hay và cụ thể .,2,1,bài_tập hay
+938,"môn tốt nghiệp mà thấy chỉ cho các nhóm thuyết trình xong điểm danh , thầy còn không ý kiến về cả bài thuyết trình .",0,1,môn  thuyết_trình xong điểm_danh thầy NOT ý_kiến thuyết_trình
+939,"cô dạy rất nhiệt tình , tận tâm và chu đáo .",0,0,cô dạy nhiệt_tình tận_tâm chu_đáo
+940,"mơ hồ , không chi tiết .",0,0,mơ_hồ NOT chi_tiết
+941,nói chung again 10 fraction 10 .,2,3, mười fraction mười
+942,thời gian .,1,3,
+943,thầy dạy chưa đúng với thời gian biểu .,0,0,thầy dạy NOT đúng 
+944,"cần có giáo trình với nhiều ví dụ rõ ràng hơn , hiện tại quá ít ví dụ để sinh viên tự học theo .",0,1,cần giáo_trình nhiều ví_dụ rõ_ràng quá ví_dụ sinh_viên học
+945,"slide bài giảng , bài tập đầy đủ .",2,1,slide giảng bài_tập đầy_đủ
+946,nhưng lại ra đề rất khó .,0,1,đề khó
+947,thầy hơi nóng tính .,0,0,thầy hơi 
+948,phương pháp giảng dạy gây nhàm chán .,0,0,phương_pháp giảng_dạy nhàm_chán
+949,"giảng viên lên lớp đúng giờ , chấm điểm công bằng , có những hình thức để khuyến khích sinh viên đến lớp .",2,0,giảng_viên lên_lớp đúng giờ chấm công_bằng hình_thức khuyến_khích sinh_viên lớp
+950,"giảng viên nhiệt tình , tận tâm với công việc , slide dễ hiểu .",2,0,giảng_viên nhiệt_tình tận_tâm công_việc slide hiểu
+951,ít bài tập ôn tập .,0,1,bài_tập ôn_tập
+952,ít trao đổi với lớp .,0,0,trao_đổi lớp
+953,hoạt động seminar chưa tốt .,0,0,hoạt_động seminar NOT
+954,không có tài liệu cụ thể .,0,0,NOT tài_liệu
+955,thầy dễ thương !,2,0,thầy dễ_thương
+956,quá trình giảng dạy rất dễ hiểu .,2,0,giảng_dạy hiểu
+957,dạy nghiêm túc .,2,0,dạy nghiêm_túc
+958,cô giảng dễ hiểu .,2,0,cô giảng hiểu
+959,tổng quan môn học này không đúc kết được gì nhiều dù cho giảng viên có kiến thức tốt .,0,1, môn_học NOT  nhiều giảng_viên kiến_thức
+960,giảng viên không đảm bảo giờ lên lớp .,0,0,giảng_viên NOT giờ lên_lớp
+961,"thầy giảng rất hay , rất tận tâm , luôn dạy quá tiết , luôn trả lời thắc mắc của sinh viên .",2,0,thầy giảng hay tận_tâm dạy quá tiết trả_lời thắc_mắc sinh_viên
+962,chú trọng giao tiếp .,1,1,chú_trọng giao_tiếp
+963,giảng viên giảng dạy tận tâm nhiệt tình và chu đáo .,2,0,giảng_viên giảng_dạy tận_tâm nhiệt_tình chu_đáo
+964,thầy nên cho làm nhiều bài tập hơn .,0,0,thầy nhiều bài_tập
+965,giang viên quá cứng nhắc .,0,0,giang viên quá 
+966,trong khi đề thi lại có 50% bài tập .,1,1,đề thi mươi bài_tập
+967,thầy cung cấp đủ các tài liệu giảng dạy .,2,0,thầy cung_cấp tài_liệu giảng_dạy
+968,"mọi thứ đều tốt , mong thầy chia sẻ thật nhiều kinh nghiệm hơn nữa cho tụi em .",2,0,mong thầy nhiều kinh_nghiệm tụi
+969,"học tập bằng việc ghi trên bảng , khá thú vị .",2,0,học_tập ghi bảng thú_vị
+970,đảm báo giờ lên lớp và kiến thức .,2,0, báo giờ lên_lớp kiến_thức
+971,thầy giảng dạy hay và dễ hiểu .,2,0,thầy giảng_dạy hay hiểu
+972,thêm các ví dụ minh họa để sinh viên dễ hiểu hơn về môn học .,0,1,ví_dụ minh_họa sinh_viên hiểu môn_học
+973,"phòng học quá gần khu thi công , ồn ào , mất tập trung .",0,2,phòng học quá  thi_công ồn_ào NOT
+974,tận tình giúp đỡ các bạn sinh viên .,2,0,tận_tình giúp_đỡ sinh_viên
+975,"thầy dạy rất tận tình , dễ hiểu .",2,0,thầy dạy tận_tình hiểu
+976,"cô vui tính , dạy nhiệt tình .",2,0,cô vui_tính dạy nhiệt_tình
+977,ví dụ trường hợp có hai lớp thực hành cách nhau một tuần nhưng lại cho ra một deadline bài tập cùng một thời điểm .,0,1,ví_dụ trường_hợp hai lớp thực_hành một tuần một deadline bài_tập một
+978,nên dạy lý thuyết trước rồi thực hành sau .,0,1,dạy lý_thuyết thực_hành
+979,thấy dạy rất hay nhiệt tình .,2,0,dạy hay nhiệt_tình
+980,bài tập .,1,1,bài_tập
+981,cô nhiệt tình giải bài tập để sinh viên hiểu lý thuyết kỹ hơn .,2,0,cô nhiệt_tình giải bài_tập sinh_viên hiểu lý_thuyết kỹ
+982,sĩ số sinh viên trong lớp quá đông với lại nhiều sinh viên nhiều ngành khác nhau học nên chất lượng buổi học không tốt .,0,1, sinh_viên lớp quá đông nhiều sinh_viên nhiều ngành học chất_lượng học NOT
+983,dạy cách học hiểu vấn đề chứ không học vẹt .,0,0,dạy học hiểu NOT 
+984,thầy dạy hay và tốt với em .,2,0,thầy dạy hay
+985,sự nhiệt tình của cô .,1,0,nhiệt_tình cô
+986,giảng dạy vui vẻ .,2,0,giảng_dạy vui_vẻ
+987,rất tận tâm .,2,0,tận_tâm
+988,"nhìn cô dễ thương , giọng cô nghe rất ngọt .",2,0,cô dễ_thương giọng cô
+989,"cô vui , nhiệt tình , hướng dẫn tận tâm , thân thiện .",2,0,cô vui nhiệt_tình hướng_dẫn tận_tâm thân_thiện
+990,bài tập cực kỳ khó .,0,1,bài_tập cực_kỳ khó
+991,"vui tính , dạy dễ hiểu , đảm bảo tiết học lý thuyết và làm bài tập trên lớp .",2,0,vui_tính dạy hiểu tiết học lý_thuyết bài_tập lớp
+992,"các bài giảng của giáo viên dễ hiểu và dễ tiếp thu , phương pháp dạy vui vẻ và nhiệt tình .",2,1,giảng giáo_viên hiểu tiếp_thu phương_pháp dạy vui_vẻ nhiệt_tình
+993,"tổng hợp ôn tập tốt , cô giáo nhiệt tinh .",2,0, ôn_tập cô_giáo nhiệt tinh
+994,"thầy dạy rất tốt , đầy đủ về nội dung .",2,0,thầy dạy đầy_đủ nội_dung
+995,rất hài lòng về tất cả hoạt động giảng dạy .,2,0,hài_lòng hoạt_động giảng_dạy
+996,thầy dạy rất tận tâm và thương sinh viên .,2,0,thầy dạy tận_tâm thương sinh_viên
+997,"giờ giấc giảng dạy không đảm bảo , giảng viên hay vắng mặt không báo trước , không up tài liệu giảng dạy lên moodle .",0,0,giờ_giấc giảng_dạy NOT giảng_viên hay  NOT báo NOT up tài_liệu giảng_dạy m dle
+998,"dạy dễ hiểu , dễ gần .",2,0,dạy hiểu
+999,ngoài ra còn nói về một số kiến thức thực tế liên quan đến môn học .,2,1,nói kiến_thức môn_học
+1000,"thầy giảng bài rất dễ hiểu , bên cạnh đó còn có các câu chuyện của cuộc sống rất ý nghĩa , mong được học nhiều môn thầy dạy !",2,0,thầy giảng hiểu cạnh câu_chuyện cuộc_sống ý_nghĩa mong học nhiều môn thầy dạy
+1001,khó tiếp thu .,0,3,khó tiếp_thu
+1002,"giảng viên dạy tương đối dễ hiểu , có nhiều ví dụ minh họa cụ thể .",2,0,giảng_viên dạy tương_đối hiểu nhiều ví_dụ minh_họa
+1003,"bài giảng của cô khá trừu tượng , nếu cô có thêm vài ví dụ rõ ràng hơn , thì chúng em sẽ hiểu bài hơn .",0,1,giảng cô trừu_tượng cô ví_dụ rõ_ràng hiểu
+1004,"thầy dạy khá sát thực tiễn , bài tập nhiều , hay .",2,0,thầy dạy sát thực_tiễn bài_tập nhiều hay
+1005,"phương pháp giảng dạy hiệu quả , giúp cho sinh viên hiểu rõ được vấn đề .",2,0,phương_pháp giảng_dạy hiệu_quả giúp sinh_viên hiểu
+1006,em nghĩ môn học không cần thiết ạ !,0,1,môn_học NOT cần_thiết
+1007,cần có thêm nhiều tiết bài tập .,0,1,cần nhiều tiết bài_tập
+1008,bài tập thực hành khá nặng so với lý thuyết tại cùng một thời điểm .,0,1,bài_tập thực_hành lý_thuyết một
+1009,"không nên chia giờ học kiểu 2 tiết 1 buổi , như vậy thời lượng học mỗi buổi quá ít , gây gián đoạn cho việc giảng dạy .",0,1,NOT chia giờ học hai tiết một thời_lượng học quá gián_đoạn giảng_dạy
+1010,"giảng bài dễ hiểu , dễ tiếp thu .",2,0,giảng hiểu tiếp_thu
+1011,không có gì để không hài lòng .,1,3,NOT NOT hài_lòng
+1012,chương trình nên cập nhật thường xuyên để phù hợp hơn với thực tế .,0,1,chương_trình cập_nhật thường_xuyên
+1013,"giáo viên vui vẻ , thân thiện .",2,0,giáo_viên vui_vẻ thân_thiện
+1014,"tận tâm , nhiệt tình và hay liên hệ thực tiễn .",2,0,tận_tâm nhiệt_tình hay liên_hệ thực_tiễn
+1015,"cô dạy rất dễ hiểu , tận tình hướng dẫn học sinh .",2,0,cô dạy hiểu tận_tình hướng_dẫn học_sinh
+1016,lớp em học thì máy hay có sự cố .,0,2,lớp học máy hay sự_cố
+1017,"cô vui vẻ , nhiệt tình , hòa đồng .",2,0,cô vui_vẻ nhiệt_tình hòa đồng
+1018,thầy cần có nhiều phương pháp giảng dạy hay hơn !,0,0,thầy cần nhiều phương_pháp giảng_dạy hay
+1019,"cô dạy tốt tận tình , tài liệu đầy đủ .",2,0,cô dạy tận_tình tài_liệu đầy_đủ
+1020,"thầy vui tính , nhiệt tình với sinh viên .",2,0,thầy vui_tính nhiệt_tình sinh_viên
+1021,giảng viên cần nói nhiều hơn khi dạy .,0,0,giảng_viên cần nói nhiều dạy
+1022,nên có hướng dẫn chi tiết .,0,0,hướng_dẫn chi_tiết
+1023,"giảng viên nhiệt tình , kỹ năng truyền đạt tốt .",2,0,giảng_viên nhiệt_tình kỹ_năng truyền_đạt
+1024,"đầu tư vật chất , có nhiều hoạt đông thú vị .",2,0,đầu_tư vật_chất nhiều  đông thú_vị
+1025,nên giảng dạy phương pháp làm bài trước khi đưa ra bài tập .,0,0,giảng_dạy phương_pháp bài_tập
+1026,"khoa wzjwz10 với số lượng sinh viên khá đông mà đôi khi lại có thêm những bạn từ khoa khác vào học , nên giảng đường 2 trở nên đông kín .",0,1,khoa số_lượng sinh_viên đông đôi_khi khoa học  hai  đông 
+1027,với lại môn học này dạy quá chán .,0,1,môn_học dạy quá chán
+1028,"thầy vui tính , giảng bài hấp dẫn , mới mẻ .",2,0,thầy vui_tính giảng hấp_dẫn 
+1029,"khi báo cáo đồ án cuối kỳ , thì do sự phân công , và trong một nhóm thì ai cũng có điểm yếu và điểm mạnh nên mới tạo thành một nhóm để giúp đỡ nhau , nhưng thầy làm khó các thành viên .",0,1,báo_cáo đồ_án kỳ phân_công một  thành một giúp_đỡ thầy  
+1030,giảng viên tận tình giúp đỡ sinh viên .,2,0,giảng_viên tận_tình giúp_đỡ sinh_viên
+1031,thầy rất quan tâm sinh viên luôn cho điểm đúng thực lực .,2,0,thầy quan_tâm sinh_viên đúng thực_lực
+1032,nhưng em nghĩ thời gian và phòng học nên cố định hơn và được thông báo rõ ràng .,0,1,phòng học cố_định thông_báo rõ_ràng
+1033,"vui vẻ , nhiệt tình , tận tụy .",2,0,vui_vẻ nhiệt_tình tận_tụy
+1034,giải đáp thắc mắc của sinh viên nhanh chóng .,2,0,giải_đáp thắc_mắc sinh_viên nhanh_chóng
+1035,bài giảng mang tính thực tiễn và ứng dụng cao .,2,1,giảng thực_tiễn ứng_dụng
+1036,"đưa ra ít ví dụ về những trường hợp đặc biệt cần phải lưu ý , nên dành nhiều thời gian cho những phần quan trọng , đưa ra ví dụ song song với việc demo trực tiếp trên máy tính trong lúc giảng dạy như vậy hiệu quả giảng dạy sẽ tốt hơn .",0,0,ví_dụ trường_hợp cần  nhiều ví_dụ  demo máy_tính giảng_dạy hiệu_quả giảng_dạy
+1037,dạy học .,1,0,dạy_học
+1038,em rất mong phòng đào tạo cho em biết được tên giảng viên khi đăng ký môn học để sau nay em còn đc học thầy wzjwz155 .,0,0,mong phòng đào_tạo biết giảng_viên  môn_học  học thầy
+1039,"cô vui tính , tận tình và cách giảng giải dễ hiểu .",2,0,cô vui_tính tận_tình giảng_giải hiểu
+1040,"đúng giờ , giảng bài kỹ .",2,0,đúng giờ giảng kỹ
+1041,chưa giới thiệu cụ thể các tài liệu cho sinh viên đọc thêm .,0,0,NOT giới_thiệu tài_liệu sinh_viên đọc
+1042,ứng dụng thực tế vô giảng dạy .,2,1,ứng_dụng vô giảng_dạy
+1043,"dạy sát chương trình thi , nhiệt tình .",2,0,dạy sát chương_trình thi nhiệt_tình
+1044,tổ chức quá nhiều hoạt động thừa trên lớp không phù hợp với trình độ của sinh viên .,0,0,tổ_chức quá nhiều hoạt_động  lớp NOT trình_độ sinh_viên
+1045,thầy cho thuyết trình làm đồ án theo nhóm nên giúp em có khả nang truyền đạt kỹ năng work group nâng cao .,2,0,thầy thuyết_trình đồ_án giúp  truyền_đạt kỹ_năng   nâng
+1046,"thầy dạy nhiệt tình , cho làm nhiều bài tập để hiểu sâu và có khả năng vận dụng được kiến thức .",2,0,thầy dạy nhiệt_tình nhiều bài_tập hiểu sâu khả_năng vận_dụng kiến_thức
+1047,giáo viên giảng dạy dễ hiểu .,2,0,giáo_viên giảng_dạy hiểu
+1048,em có góp ý với thầy ở vấn đề thuyết trình lấy điểm giữa kỳ doubledot một số bạn trình bày về công nghệ hay kỹ thuật rất hay nhưng do cách trình bày nên các bạn ở dưới chưa hiểu lắm .,0,0,góp_ý thầy thuyết_trình kỳ doubledot trình_bày công_nghệ hay kỹ_thuật hay trình_bày NOT hiểu lắm
+1049,"thầy wzjwz184 dạy hay , dễ hiểu , truyền đạ nhiều kiến thức chuyên môn lẫn kiến thức cuộc sống , đi làm cho sinh viên , có nhiều lời khuyên .",2,0,thầy dạy hay hiểu   nhiều kiến_thức chuyên_môn lẫn kiến_thức cuộc_sống đi sinh_viên nhiều 
+1050,"môn lập trình mạng căn bản sử dụng ngôn ngữ csharp nhưng trước đó nhà trường không đề xuất cho sinh viên học môn này trước , gây nhiều khó khăn cho sinh viên khi học môn mới .",0,1,môn lập_trình mạng  ngôn_ngữ  nhà_trường NOT  sinh_viên học môn nhiều khó_khăn sinh_viên học môn
+1051,cô nên thêm nhiều bài tập áp dụng lý thuyết hơn .,0,0,cô nhiều bài_tập áp_dụng lý_thuyết
+1052,còn nhiều slide .,0,0,nhiều slide
+1053,tăng chất lượng các thiết bị phục vụ giảng dạy .,0,2,chất_lượng thiết_bị phục_vụ giảng_dạy
+1054,đôi lúc đi trễ tầm 30 phút .,0,0,đôi đi trễ tầm ba mươi phút
+1055,"giảng viên thực hành nên hướng dẫn sinh viên thực hành một cách cụ thể , không nên ngồi làm việc riêng rồi khi sinh viên gọi hỏi thì lại tỏ thái độ khó chịu .",0,0,giảng_viên thực_hành hướng_dẫn sinh_viên thực_hành NOT làm_việc sinh_viên gọi  thái_độ khó_chịu
+1056,"thầy đưa ra những dạng bài hay , bao quát kiến thức cho sinh viên .",2,0,thầy dạng hay bao_quát kiến_thức sinh_viên
+1057,sau khi qua môn này chắc sẽ không học thầy nữa .,0,3,môn NOT học thầy
+1058,"giữa kỳ cộng max là 4 điểm , rồi lại cộng tiếp cho quá trình , giờ thì lại điểm quá trình tính trong 1 bài , không làm được , ít điểm cộng thì đành chịu .",0,0,kỳ cộng  bốn cộng tiếp giờ một NOT cộng 
+1059,nâng cao trang thiết bị phòng học doubledot quạt .,0,2,nâng trang thiết_bị phòng học doubledot quạt
+1060,điều này tạo cho sinh viên sự chủ động trong học tập .,1,1,sinh_viên chủ_động học_tập
+1061,nhưng có một vấn đề mà em chưa thích đó là đi sâu vào lý thuyết quá nhiều chưa có giảng dạy cho chúng em nhiều về cách cấu thành sản phẩm .,0,1,một NOT đi_sâu lý_thuyết quá nhiều NOT giảng_dạy nhiều  
+1062,thầy giảng rất ít .,0,0,thầy giảng
+1063,thầy dạy đôi khi hơi chán cần thay đổi phương pháp giảng dạy .,0,0,thầy dạy đôi_khi hơi chán cần phương_pháp giảng_dạy
+1064,cô rất nhiệt tình và vui tính .,2,0,cô nhiệt_tình vui_tính
+1065,mong thầy cô xem lại cách giảng dạy môn này .,0,0,mong thầy cô giảng_dạy môn
+1066,"giảng viên rất nhiệt tình thậm chí dạy lố giờ , dư buổi nhưng vẫn không đảm bảo đủ số bài của chương trình học , không giảng giải bài học một cách rõ ràng , khi dạy chỉ mở slide và đọc tất cả những gì trên slide bài giảng nhưng không giảng thêm gì nhiều hoặc nếu có giảng thêm thì cũng khá khó hiểu , khi sinh viên hỏi lại thì thường chỉ nói lại những gì đã nói lần trước mà không giảng thêm để sinh viên có thể hiểu được bài , slide bài giảng được chuẩn bị sơ sài và có nhiều sai sót , giảng viên thường xuyên ra ngoài nghe điện thoại , ăn , hút thuốc trong giờ dạy , thường xuyên dạy các kiến thức nâng cao trong khi sinh viên chưa hiểu hết kiến thức cơ bản , thường hay nói chuyện nặng lời với sinh viên trong lớp .",0,0,giảng_viên nhiệt_tình dạy lố giờ  NOT chương_trình học NOT giảng_giải bài_học rõ_ràng dạy slide đọc slide giảng NOT giảng nhiều giảng khó hiểu sinh_viên nói nói NOT giảng sinh_viên hiểu slide giảng sơ_sài nhiều sai_sót giảng_viên thường_xuyên điện_thoại   giờ dạy thường_xuyên dạy kiến_thức nâng sinh_viên NOT hiểu kiến_thức cơ_bản hay nói_chuyện  sinh_viên lớp
+1067,"bài giảng và bài tập trọng tâm , chi tiết .",2,1,giảng bài_tập trọng_tâm chi_tiết
+1068,"phân chia chương trình hợp lý hơn , chia nhỏ lượng kiến thức cần đạt được .",2,1, chương_trình hợp_lý chia nhỏ kiến_thức cần
+1069,cô nhiệt tình giải đáp thắc mắc cho sinh viên .,2,0,cô nhiệt_tình giải_đáp thắc_mắc sinh_viên
+1070,"thầy hướng dẫn thực hành tốt , nhiệt tình .",2,0,thầy hướng_dẫn thực_hành nhiệt_tình
+1071,"cô wzjwz228 rất nhiệt tình với sinh viên trong giờ lên lớp , rất hay khuyến khích sinh viên đặt câu hỏi , hay tự đặt những câu hỏi xây dựng khuyến khích sinh viên tìm hiểu trả lời .",2,0,cô nhiệt_tình sinh_viên giờ lên_lớp hay khuyến_khích sinh_viên câu hay câu xây_dựng khuyến_khích sinh_viên trả_lời
+1072,dạy cho sinh viên biết nhiều về thực tế .,2,0,dạy sinh_viên biết nhiều
+1073,cô than hoài à .,0,0,cô  
+1074,"nội dung môn học không phù hợp , quá nhiều lý thuyết , lý thuyết quá rườm rà và không phù hợp với truyền thống việt nam .",0,1,nội_dung môn_học NOT quá nhiều  quá  NOT  việt_nam
+1075,cô vui vẻ và nhiệt tình .,2,0,cô vui_vẻ nhiệt_tình
+1076,"phương pháp giảng dạy tốt , dễ hiểu .",2,0,phương_pháp giảng_dạy hiểu
+1077,"cô nhiệt tình , thân thiện với sinh viên .",2,0,cô nhiệt_tình thân_thiện sinh_viên
+1078,vấn đề nghe từ thiết bị không tốt lắm .,0,2,thiết_bị NOT lắm
+1079,giảng viên hay đến muộn .,0,0,giảng_viên hay muộn
+1080,cách giảng cô rất phức tạp vẫn chưa ngắn gọn xúc tích gây khó hiểu ở các công thức tính toán .,2,0,giảng cô phức_tạp NOT ngắn_gọn xúc tích khó hiểu công_thức 
+1081,cách dạy học tăng khả năng tự vận động của học sinh .,2,0,dạy_học khả_năng  học_sinh
+1082,đây là môn học khó và cần phải có nền tảng kiến thức từ những môn học cơ bản hơn nó nhưng chương trình k6 thì không có môn nào cơ bản về tín hiệu trước môn xử lý tín hiệu số .,0,1,môn_học khó cần nền_tảng kiến_thức môn_học cơ_bản chương_trình  NOT môn cơ_bản  môn 
+1083,"giáo viên nhiệt tình , truyền đạt kiến thức tận tâm .",2,0,giáo_viên nhiệt_tình truyền_đạt kiến_thức tận_tâm
+1084,thầy dạy còn khá khó về thời lượng .,0,0,thầy dạy khó thời_lượng
+1085,hướng dẫn chi tiết nhiệt tình .,2,0,hướng_dẫn chi_tiết nhiệt_tình
+1086,em rất thích .,2,3,
+1087,có tinh thần trách nhiệm .,2,0, trách_nhiệm
+1088,các dụng cụ còn hư nhiều .,0,2,dụng_cụ hư nhiều
+1089,"cô nói hơi dài dòng , đôi chỗ hơi khó hiểu .",0,3,cô nói hơi dài_dòng đôi chỗ hơi khó hiểu
+1090,thầy thường chạy trước chương trình học lý thuyết .,0,0,thầy chạy chương_trình học lý_thuyết
+1091,"thêm nhiều ví dụ cụ thể , dễ hiểu cho sinh viên vì năm đầu tiên ở trường học môn nhập môn lập trình có nhiều bạn còn bỡ ngỡ , khó hiểu được những kiến thức có thể chưa bao giờ gặp qua này .",0,1,nhiều ví_dụ hiểu sinh_viên  môn nhập_môn lập_trình nhiều  khó hiểu kiến_thức NOT
+1092,cho các nhóm tự nghiên cứu và thuyết trình .,1,0,nghiên_cứu thuyết_trình
+1093,"số lượng sinh viên lớp nên tối đa là 30 , vì đây là môn học cá biệt cần sự tương tác thực tế .",0,1,số_lượng sinh_viên lớp  ba mươi môn_học  cần tương_tác
+1094,giảng viên thường đến lớp trễ .,0,0,giảng_viên lớp trễ
+1095,"phiền thầy chỉ giới thiệu nhanh chóng , không cần dành quá nhiều thời gian cho nó , em nghĩ mọi người đã biết từ trước những nội dung cơ bản như vậy ( ít nhất là những người em quen ) .",0,0, thầy giới_thiệu nhanh_chóng NOT cần quá nhiều biết nội_dung cơ_bản quen
+1096,thầy vô cùng hài hước tạo không khí lớp học vui vẻ cho sinh viên .,2,0,thầy vô_cùng hài_hước không_khí lớp_học vui_vẻ sinh_viên
+1097,cô dạy rất tốt và rất nhiệt tình .,2,0,cô dạy nhiệt_tình
+1098,"giảng viên giảng chưa được thu hút , gây nhàm chán .",0,0,giảng_viên giảng NOT thu_hút nhàm_chán
+1099,nên cần giúp sinh viên thực hành nói nhiều hơn và phương pháp trau dồi từ vựng sáng tạo .,0,1,cần giúp sinh_viên thực_hành nói nhiều phương_pháp trau_dồi  sáng_tạo
+1100,"cần nâng cấp phòng học , máy chiếu .",0,2,cần nâng_cấp phòng học máy_chiếu
+1101,"có slide bài giảng , giảng kỹ bài .",2,0,slide giảng giảng kỹ
+1102,"cô dạy hay , nhiệt tình , cung cấp đầy đủ kiến thức của bộ môn .",2,0,cô dạy hay nhiệt_tình cung_cấp đầy_đủ kiến_thức bộ_môn
+1103,bài giảng hay .,2,1,giảng hay
+1104,giảng viên tận tình .,2,0,giảng_viên tận_tình
+1105,"giảng viên vui tính , hòa đồng .",2,0,giảng_viên vui_tính hòa đồng
+1106,bằng chứng là thầy wzjwz56 dạy thay thầy wzjwz57 ở lớp wzjwz58 .,1,3, thầy dạy thay thầy lớp
+1107,giáo viên trao đổi với sinh viên hoàn toàn bằng tiếng anh .,1,0,giáo_viên trao_đổi sinh_viên tiếng
+1108,cần thêm tài liệu thực hành .,0,1,cần tài_liệu thực_hành
+1109,tận tình chỉ dạy .,2,0,tận_tình dạy
+1110,cách ứng dụng lý thuyết vào thực tế .,1,0,ứng_dụng lý_thuyết
+1111,"đúng giờ , sát chương trình .",2,0,đúng giờ sát chương_trình
+1112,"phòng học còn nóng và bụi bặm , máy chiếu tuy nhìn được nhưng như vậy vẫn là mờ , nếu ngồi xa hay hôm nào sáng quá sẽ khó thấy .",0,2,phòng học nóng  máy_chiếu mờ hay hôm quá khó
+1113,"thầy dạy rất hay , nhiệt tình với sinh viên .",2,0,thầy dạy hay nhiệt_tình sinh_viên
+1114,hầu hết em và các bạn đều không đi thực hành .,0,3,NOT đi thực_hành
+1115,giảng viên nên tương tác với sinh viên nhiều hơn nữa .,0,0,giảng_viên tương_tác sinh_viên nhiều
+1116,thầy rất thân thiện !,2,0,thầy thân_thiện
+1117,không có gì .,1,3,NOT
+1118,rất bổ ích và thú vị .,2,3,bổ_ích thú_vị
+1119,cải tiến trang thiết bị thường xuyên hơn .,0,2,cải_tiến trang thiết_bị thường_xuyên
+1120,thầy giảng dễ hiểu .,2,0,thầy giảng hiểu
+1121,"ngoài ra , các mặt còn lại em không có ý kiến .",1,3,mặt NOT ý_kiến
+1122,"giảng viên truyền đạt tốt , khơi gợi cho sinh viên tự tìm hiểu kiến thức .",2,0,giảng_viên truyền_đạt  sinh_viên kiến_thức
+1123,"thầy truyền đạt kiến thức rất hay , và dễ hiểu .",2,0,thầy truyền_đạt kiến_thức hay hiểu
+1124,môn học rất hay và bổ ích .,2,1,môn_học hay bổ_ích
+1125,không có điều nào không hài lòng .,1,3,NOT NOT hài_lòng
+1126,nên rèn kỹ năng nghe và nói nhiều hơn cho sinh viên .,0,1, kỹ_năng nói nhiều sinh_viên
+1127,thầy có kiến thức chuyên môn sâu .,2,0,thầy kiến_thức chuyên_môn sâu
+1128,cách thầy giảng rất hấp dẫn và dễ hiểu .,2,0,thầy giảng hấp_dẫn hiểu
+1129,"giảng dạy tận tình , đi đúng giờ .",2,0,giảng_dạy tận_tình đi đúng giờ
+1130,"cô dạy quá nhanh , lý thuyết dạy quá nhanh và quá nhiều mà cũng không cần thiết lắm .",0,0,cô dạy quá nhanh lý_thuyết dạy quá nhanh quá nhiều NOT cần_thiết lắm
+1131,khá ổn .,2,3,ổn
+1132,thầy giảng hơi khó hiểu hay tại bài học khó hiểu ?,0,0,thầy giảng hơi khó hiểu hay bài_học khó hiểu
+1133,"giảng viên vui vẻ , nhiệt tình .",2,0,giảng_viên vui_vẻ nhiệt_tình
+1134,nên để giảng viên dạy lý thuyết cả thực hành sẽ logic hơn .,0,1,giảng_viên dạy lý_thuyết thực_hành logic
+1135,sinh viên tìm tòi cách khác để có được kết quả giống nhưng không chấp nhận .,0,1,sinh_viên  kết_quả NOT 
+1136,"giảng viên thân thiện , hòa đồng với sinh viên .",2,0,giảng_viên thân_thiện hòa đồng sinh_viên
+1137,"thầy rất tận tâm , tận tình với học sinh .",2,0,thầy tận_tâm tận_tình học_sinh
+1138,dạy hơi khó hiểu .,0,0,dạy hơi khó hiểu
+1139,cô giảng hay .,2,0,cô giảng hay
+1140,giang dạy quá nhiệt tình và tâm huyết truyền đạt cho học sinh kiến thức của cô .,2,0,giang dạy quá nhiệt_tình tâm_huyết truyền_đạt học_sinh kiến_thức cô
+1141,"thầy tận tâm , nhiệt tình , dạy kỹ bài , hướng dẫn giải bài cụ thể .",2,0,thầy tận_tâm nhiệt_tình dạy kỹ hướng_dẫn_giải
+1142,giảng viên tận tâm nhiệt tình .,2,0,giảng_viên tận_tâm nhiệt_tình
+1143,"giảng viên nhiệt tình , tương tác tích cực với sinh viên .",2,0,giảng_viên nhiệt_tình tương_tác tích_cực sinh_viên
+1144,giảng viên nhiệt tình giảng giải những thắc mắc của sinh viên .,2,0,giảng_viên nhiệt_tình giảng_giải thắc_mắc sinh_viên
+1145,thầy tạo điều kiện cho sinh viên có thê hoàn thành tất cả các bài lab .,2,0,thầy sinh_viên  hoàn_thành lab
+1146,nên cải tiến phòng thực hành .,0,2,cải_tiến phòng thực_hành
+1147,thầy chấm điểm hơi mắc .,0,0,thầy chấm hơi 
+1148,có dạy thêm ngôn ngữ trung rất thú vị .,2,0,dạy ngôn_ngữ  thú_vị
+1149,"cách giảng dạy của giảng viên dễ tiếp thu , dễ hiểu .",2,0,giảng_dạy giảng_viên tiếp_thu hiểu
+1150,"thường xuyên đi trễ , giảng dạy không nhiệt tình , dạy khá lang mang , không đảm bảo đúng tiến độ học tập .",0,0,thường_xuyên đi trễ giảng_dạy NOT nhiệt_tình dạy  NOT đúng tiến_độ học_tập
+1151,cô dễ thương quá coloncc .,2,0,cô dễ_thương quá 
+1152,nêu lên những ví dụ rất hay giúp sinh viên dễ nắm bắt kiến thức .,2,1,nêu ví_dụ hay giúp sinh_viên nắm_bắt kiến_thức
+1153,giảng viên thường xuyên đi trễ vào những buổi gần cuối .,0,0,giảng_viên thường_xuyên đi trễ
+1154,giảng viên giảng dạy khó tiếp thu .,0,0,giảng_viên giảng_dạy khó tiếp_thu
+1155,"giảng viên dạy hay , nhiệt tình .",2,0,giảng_viên dạy hay nhiệt_tình
+1156,"rất hài lòng , cô dạy rất vui vẻ .",2,0,hài_lòng cô dạy vui_vẻ
+1157,"cô nói nhanh và nhiều khiến em bị "" quá tải "" .",0,0,cô nói nhanh nhiều quá_tải
+1158,"bổ sung nhiều kiến thức thực hay , nâng cao cho sinh viên .",2,1,bổ_sung nhiều kiến_thức thực hay nâng sinh_viên
+1159,đảm bảo số giờ lên lớp .,2,0,giờ lên_lớp
+1160,thầy chỉ dạy một buổi nên không đánh giá được .,0,0,thầy dạy một NOT
+1161,"cô rất nhiệt tình , cô còn có phương pháp giảng dạy gây hứng thú cho người học .",2,0,cô nhiệt_tình cô phương_pháp giảng_dạy hứng_thú học
+1162,cần có lập trình thực nghiệm các bước và xem rõ cách hoạt động chương trình demo .,0,1,cần lập_trình  hoạt_động chương_trình demo
+1163,"cần có các bài lab thực hành để trực quan hơn , sát với thực tế làm việc ở các công ty phần cứng .",0,1,cần lab thực_hành trực_quan sát làm_việc công_ty 
+1164,"giảng viên vui tính , nhiệt tình .",2,0,giảng_viên vui_tính nhiệt_tình
+1165,chưa truyền đạt được kiến thức .,0,0,NOT truyền_đạt kiến_thức
+1166,cần thêm tài liệu .,0,1,cần tài_liệu
+1167,thầy giúp học sinh giải nhiều bài tập .,2,0,thầy giúp học_sinh giải nhiều bài_tập
+1168,"nhiệt tình , bài giảng tạo cảm hứng cho sinh viên học tập .",2,0,nhiệt_tình giảng cảm_hứng sinh_viên học_tập
+1169,chỉ nhìn mỗi khía cạnh làm slide lý thuyết mà đánh giá cả đồ án của sinh viên một cách rất hời hợt .,0,1, slide lý_thuyết  đồ_án sinh_viên 
+1170,tóm lại em rất hài lòng .,2,3,tóm hài_lòng
+1171,"giảng viên giảng bài còn mơ hồ , phức tạp .",0,0,giảng_viên giảng mơ_hồ phức_tạp
+1172,"cô dạy rất nhiệt tình và vui vẻ , dạy chi tiết từng tí một .",2,0,cô dạy nhiệt_tình vui_vẻ dạy chi_tiết tí một
+1173,mong thầy sử dụng micro .,0,0,mong thầy micro
+1174,"cô đến lớp đúng giờ , giảng dễ hiểu .",2,0,cô lớp đúng giờ giảng hiểu
+1175,"giảng viên tạo áp lực quá lớn cho sinh viên trong khi đây là môn học đòi hỏi sự năng động , sáng tạo .",0,0,giảng_viên áp_lực quá sinh_viên  năng_động sáng_tạo
+1176,"cô dạy rất hay và kỹ , dành nhiều thời gian sửa bài tập .",2,0,cô dạy hay kỹ nhiều sửa bài_tập
+1177,cho bài tập nhiều giúp học sinh có bài tập về nhà làm .,2,0,bài_tập nhiều giúp học_sinh bài_tập
+1178,giáo viên truyền đạt kiến thức mập mờ cho sinh viên .,0,0,giáo_viên truyền_đạt kiến_thức mập_mờ sinh_viên
+1179,"có cảm giác hà khắc , khá khó chịu .",0,0,cảm_giác  khó_chịu
+1180,nói chung là em không thể tiếp thu bài trên lớp .,0,1,tiếp_thu lớp
+1181,"thầy chăm lên lớp giảng dạy , tận tình .",2,0,thầy  lên_lớp giảng_dạy tận_tình
+1182,"dạy nhiệt tình , hiệu quả .",2,0,dạy nhiệt_tình hiệu_quả
+1183,"cô điểm danh mình em lúc đầu giờ , cuối giờ mới điểm danh mấy bạn kia colonsadcolon .",0,0,cô điểm_danh đầu giờ giờ điểm_danh mấy  
+1184,giải tích 2 .,1,3,giải_tích hai
+1185,slide bài giảng hay .,2,1,slide giảng hay
+1186,"nên có một số buổi ngoại khóa bên ngoài , tiếp cận thực tiễn , giao tiếp với người nước ngoài .",0,1, khóa tiếp_cận thực_tiễn giao_tiếp nước_ngoài
+1187,giảm tảibỏ những phần không thật sự cần thiết .,0,1, NOT cần_thiết
+1188,thiếu hiệu quả không phù hợp với môn học .,0,1,NOT hiệu_quả NOT môn_học
+1189,dạy lý thuyết tốt .,2,0,dạy lý_thuyết
+1190,"không khí học tập sôi nổi , dễ tiếp thu kiến thức .",2,0,không_khí học_tập sôi_nổi tiếp_thu kiến_thức
+1191,dạy rất dễ hiểu .,2,0,dạy hiểu
+1192,"thầy hiền , nhiệt tình .",2,0,thầy hiền nhiệt_tình
+1193,kiến thức thực cần tế hơn .,0,1,kiến_thức thực cần tế
+1194,"nhiệt tình truyền đạt kiến thức , hài hước .",2,0,nhiệt_tình truyền_đạt kiến_thức hài_hước
+1195,đôi lúc thầy giảng hơi nhanh .,0,0,đôi thầy giảng hơi nhanh
+1196,đầu tư thêm máy móc hiện đại .,0,0,đầu_tư  
+1197,"thầy dạy những nội dung cần thiết , ngắn gọn và dễ hiểu .",2,0,thầy dạy nội_dung cần_thiết ngắn_gọn hiểu
+1198,giúp đỡ sát sao khi sinh viên gặp vấn đề khó trong thực hành .,2,0,giúp_đỡ  sinh_viên khó thực_hành
+1199,đa số sinh viên tự học và không liên hệ đến giảng viên thực hành .,0,3,đa_số sinh_viên học NOT liên_hệ giảng_viên thực_hành
+1200,phân bổ thời gian hoàn thành môn học hợp lý hơn nữa .,0,1,phân_bổ hoàn_thành môn_học hợp_lý
+1201,thầy dạy rất nhiệt tình và sẵn sàng giải đáp .,2,0,thầy dạy nhiệt_tình sẵn_sàng giải_đáp
+1202,thầy rất quan tâm đến điểm số của sinh viên .,2,0,thầy quan_tâm sinh_viên
+1203,"nhiệt tình , giảng hiểu bài .",2,0,nhiệt_tình giảng hiểu
+1204,"cô dạy hấp dẫn , thú vị !",2,0,cô dạy hấp_dẫn thú_vị
+1205,quan tâm sinh viên .,2,0,quan_tâm sinh_viên
+1206,giảng bài hay !,2,0,giảng hay
+1207,"đây làm môn học cần thực hành nhiều , cần tăng thêm số buổi thực hành .",0,1,môn_học cần thực_hành nhiều cần thực_hành
+1208,"giảng dạy dễ hiểu , nhiệt tình với sinh viên .",2,0,giảng_dạy hiểu nhiệt_tình sinh_viên
+1209,"giảng viên dạy nhiệt tình , dễ hiểu !",2,0,giảng_viên dạy nhiệt_tình hiểu
+1210,thầy hiền dễ tính .,2,0,thầy hiền dễ_tính
+1211,nên để đồ án cuối kỳ các sinh viên được phép làm nhóm .,0,0,đồ_án kỳ sinh_viên 
+1212,"giảng viên không bao giờ đi dạy , toàn nhờ sinh viên dạy thay , không có trách nhiệm , môn học này chẳng giúp ích được gì , thanks .",0,0,giảng_viên NOT đi dạy toàn sinh_viên dạy thay NOT trách_nhiệm môn_học NOT giúp_ích 
+1213,"giáo trình anh văn dường như không giúp ích cho công nghệ thông tin cũng như những khả năng giao tiếp của sinh viên , sinh viên trung bình khó có thể đạt 5 điểm ở các chương trình anh văn .",0,1,giáo_trình văn  NOT giúp_ích công_nghệ thông_tin khả_năng giao_tiếp sinh_viên sinh_viên  khó chương_trình văn
+1214,giáo viên rất nhiệt tình trong việc giải đáp thắc mắc cho sinh viên .,2,0,giáo_viên nhiệt_tình giải_đáp thắc_mắc sinh_viên
+1215,nhiệt tình và quan tâm học sinh .,2,0,nhiệt_tình quan_tâm học_sinh
+1216,diễn đạt trong giảng dạy không được tốt lắm .,0,0,diễn_đạt giảng_dạy NOT lắm
+1217,thầy chưa hỗ trợ lớp trong việc giải đáp các câu hỏi cũng như tạo điều kiện cho sinh viên học hỏi .,0,0,thầy NOT lớp giải_đáp câu sinh_viên học_hỏi
+1218,giới thiệu những kiến thức mới cho sinh viên .,2,0,giới_thiệu kiến_thức sinh_viên
+1219,"vui , hay .",2,3,vui hay
+1220,không biết thầy wzjwz260 là thầy nào ?,0,3,NOT biết thầy thầy
+1221,nên có nhiều bài tập cho sinh viên tham khảo .,0,1,nhiều bài_tập sinh_viên tham_khảo
+1222,hầu như giảng viên không giảng mà chỉ dịch slide do slide viết bằng tiếng anh .,0,0,hầu_như giảng_viên NOT giảng dịch slide slide viết tiếng
+1223,"giảng viên giảng kỹ , dễ hiểu .",2,0,giảng_viên giảng kỹ hiểu
+1224,luôn giải thích chi tiết vấn đề thắc mắc của sinh viên .,2,0,giải_thích chi_tiết thắc_mắc sinh_viên
+1225,cho ít đồ án thôi .,0,0,đồ_án
+1226,thầy cho chép quá nhiều .,0,0,thầy chép quá nhiều
+1227,"trang thiết bị phục vụ còn hạn chế , không có nhiều thời gian trực tiếp thực hành .",0,2,trang thiết_bị phục_vụ hạn_chế NOT nhiều thực_hành
+1228,giáo viên dạy rất tệ .,0,0,giáo_viên dạy tệ
+1229,giáo viên cần bổ sung thêm các bài tập liên quan nhiều hơn để các bạn sính viên nắm rõ hơn .,0,0,giáo_viên cần bổ_sung bài_tập nhiều  viên nắm
+1230,"môn học này có định hướng thiên về lý thuyết logic nên em nghĩ nên học theo hình thức trao đổi và tham khảo , không nên đặt nặng đồ án và bài tập .",0,1,môn_học định_hướng  lý_thuyết logic học hình_thức trao_đổi tham_khảo NOT đồ_án bài_tập
+1231,"dạy dễ hiểu , tạo cảm giác thân thiện với học sinh !",2,0,dạy hiểu cảm_giác thân_thiện học_sinh
+1232,giảng viên dạy tận tâm .,2,0,giảng_viên dạy tận_tâm
+1233,đồ án lớn không có trong phần giảng dạy khiến sinh viên khó khăn trong việc thực hiện .,0,1,đồ_án NOT giảng_dạy sinh_viên khó_khăn
+1234,thầy đi vào trễ nhưng lại về muộn .,0,0,thầy đi trễ muộn
+1235,thầy nên sử dụng micro để giảng .,0,0,thầy micro giảng
+1236,tốc độ dạy khá nhanh khiến việc tiếp thu không hiệu quả .,0,0,tốc_độ dạy nhanh tiếp_thu NOT hiệu_quả
+1237,dạy sát với chương trình .,2,0,dạy sát chương_trình
+1238,"vui vẻ , nhiệt tình , giảng dễ hiểu .",2,0,vui_vẻ nhiệt_tình giảng hiểu
+1239,thời gian nộp bài thực hành quá ngắn .,0,1,nộp thực_hành quá ngắn
+1240,cô dạy dễ hiểu và thân thiện .,2,0,cô dạy hiểu thân_thiện
+1241,"thầy có kiến thức rất rộng , có thể giải thích mọi thắc mắc của sinh viên .",2,0,thầy kiến_thức rộng giải_thích thắc_mắc sinh_viên
+1242,"rèn luyện cho sinh viên kỹ năng làm việc nhóm , nâng cao tính chủ động của sinh viên .",2,0,rèn_luyện sinh_viên kỹ_năng làm_việc nâng chủ_động sinh_viên
+1243,"cô có ôn tập , sửa bài đầy đủ .",2,0,cô ôn_tập sửa đầy_đủ
+1244,nghiêm khắc nhưng rất tận tình .,2,0,nghiêm_khắc tận_tình
+1245,"giảng viên lý thuyết nên cải thiện kỹ năng truyền đạt , và chuẩn bị bài giảng tốt hơn .",0,0,giảng_viên lý_thuyết cải_thiện kỹ_năng truyền_đạt giảng
+1246,quá ít thiết bị cho sinh viên thực hành .,0,2,quá thiết_bị sinh_viên thực_hành
+1247,không có ý kiến gì .,1,3,NOT ý_kiến
+1248,thời gian lên lớp ít nhưng tiếp thu nhiều .,2,0,lên_lớp tiếp_thu nhiều
+1249,tài liệu giảng dạy đầy đủ .,2,1,tài_liệu giảng_dạy đầy_đủ
+1250,luôn luôn đúng giờ .,2,0,đúng giờ
+1251,"cô giảng dạy rất chăm chú , tận tình giải đáp thắc mắc của sinh viên .",2,0,cô giảng_dạy  tận_tình giải_đáp thắc_mắc sinh_viên
+1252,thầy rất tận tâm và thương yêu sinh viên .,2,0,thầy tận_tâm  sinh_viên
+1253,nhiều kinh nghiệm .,2,0,nhiều kinh_nghiệm
+1254,thầy có kiến thức nhiều .,1,0,thầy kiến_thức nhiều
+1255,"ngoài việc giảng dạy , do môn này là môn nhập môn máy học , nếu thầy có thể giới thiệu về các tài liệu về các loại máy học , áp dụng , hơn đơn thuần cưỡi ngựa xem hoa .",0,0,giảng_dạy môn môn nhập_môn máy học thầy giới_thiệu tài_liệu máy học áp_dụng    
+1256,"thầy có slide , nhưng làm mất thời gian vì quá trình viết bảng .",0,0,thầy slide NOT viết bảng
+1257,thầy giảng còn hơi khó hiểu .,0,0,thầy giảng hơi khó hiểu
+1258,"cô bớt xinh lại giúp em một tí , làm em hơi mất tập trung mỗi lần nhìn cô giảng .",0,0,cô NOT xinh giúp  hơi NOT cô giảng
+1259,"cô vui tính , dễ gần , nhiệt tình .",2,0,cô vui_tính nhiệt_tình
+1260,bài tập quá nhiều .,0,1,bài_tập quá nhiều
+1261,"thầy dạy tốt , có tâm huyết với an toàn thông tin .",2,0,thầy dạy tâm_huyết  thông_tin
+1262,"chưa tạo động lực học cho học sinh , chưa hướng dẫn rõ ràng cho sinh viên làm đồ án .",0,0,NOT  học_sinh NOT hướng_dẫn rõ_ràng sinh_viên đồ_án
+1263,cô dạy rất có tâm và quan tâm đến sinh viên .,2,0,cô dạy tâm quan_tâm sinh_viên
+1264,đó là nội dung chương trình học rất tốt .,0,1,nội_dung chương_trình học
+1265,nên đi sâu vào vấn đề .,0,1,đi_sâu
+1266,"cô nhiệt tình với học sinh , bài giảng dễ hiểu .",2,0,cô nhiệt_tình học_sinh giảng hiểu
+1267,"cần nâng cấp các phòng học thực hành , phòng máy quá tệ để thực hành , các phiên bản phần mềm cũ .",0,2,cần nâng_cấp phòng học thực_hành phòng máy quá tệ thực_hành phiên_bản phần_mềm cũ
+1268,những nội dung mà cô muốn truyền đạt đều rất có ích cho quá trình làm việc sau này của sinh viên !,2,0,nội_dung cô truyền_đạt có_ích làm_việc sinh_viên
+1269,thầy tận tâm nhiệt huyết .,2,0,thầy tận_tâm nhiệt_huyết
+1270,"giảng viên không sử dụng course gây khó khăn cho sinh viên , hay chém gió , giọng giảng không rõ ràng .",0,0,giảng_viên NOT course khó_khăn sinh_viên hay chém gió giọng giảng NOT rõ_ràng
+1271,trong lúc giảng thầy thường xuyên viết & vẽ lên bảng .,2,0,giảng thầy thường_xuyên viết  bảng
+1272,đi dạy đầy đủ .,2,1,đi dạy đầy_đủ
+1273,thầy lo giảng quên cả giờ giấc .,2,0,thầy lo giảng quên giờ_giấc
+1274,cô rất nhiệt tình trong việc giảng dạy .,2,3,cô nhiệt_tình giảng_dạy
+1275,giảng viên khá vui tính .,2,0,giảng_viên vui_tính
+1276,"giảng viên tận tâm , nhiệt tình , quan tâm sinh viên .",2,0,giảng_viên tận_tâm nhiệt_tình quan_tâm sinh_viên
+1277,"nói chuyện rất nhỏ , cách truyền đạt chưa đến với sinh viên .",0,0,nói_chuyện nhỏ truyền_đạt NOT sinh_viên
+1278,"thầy dạy khá hay nhưng cho bài tập đột xuất , đôi khi thầy nói các vấn đề hơi nhanh .",0,0,thầy dạy hay bài_tập  đôi thầy nói hơi nhanh
+1279,"thầy là người rất hài hước , nhiệt huyết và cách truyền đạt rất hay .",2,0,thầy hài_hước nhiệt_huyết truyền_đạt hay
+1280,cảm ơn thầy rất nhiều .,1,0,cảm_ơn thầy nhiều
+1281,"đề thi sử dụng google dịch , nửa tiếng anh nửa tiếng việt .",0,1,đề thi g   tiếng nửa tiếng việt
+1282,"thuyết trình nhiều như thế chưa có hiệu quả lắm , hi vọng cô sẽ cải thiện hình thức dạy và học .",0,0,thuyết_trình nhiều NOT hiệu_quả lắm  cô cải_thiện hình_thức dạy học
+1283,"năm ngoái học đã có bao nhiêu bạn bị rớt và suýt bị rớt vì môn này , nhưng năm nay cô không rút kinh nghiệm cách dạy thậm chí còn khó hơn năm ngoái .",0,0,năm_ngoái học rớt rớt môn cô NOT  kinh_nghiệm dạy khó năm_ngoái
+1284,"tận tâm nhiệt tình , lắng nghe sinh viên .",2,0,tận_tâm nhiệt_tình lắng_nghe sinh_viên
+1285,"cách dạy về môn học chưa được hợp lý , nên dạy cơ bản trước khi dạy nâng cao .",0,0,dạy môn_học NOT hợp_lý dạy cơ_bản dạy nâng
+1286,em nghĩ cần tăng thêm thời gian học thực hành .,0,1,cần học thực_hành
+1287,tuyệt vời .,2,3,tuyệt_vời
+1288,em nghĩ giảng viên nên cho bài và sửa bài tập nhiều hơn .,0,0,giảng_viên sửa bài_tập nhiều
+1289,"giảng viên vui tính , tận tâm , nhiệt tình !",2,0,giảng_viên vui_tính tận_tâm nhiệt_tình
+1290,phòng máy cũ cần nâng cấp .,0,2,phòng máy cũ cần nâng_cấp
+1291,"thầy nên có đề mẫu , bài mẫu .",0,0,thầy đề mẫu mẫu
+1292,cô không tập trung trong giờ giảng .,0,0,cô NOT giờ giảng
+1293,"thầy rất nhiệt tình , giúp đỡ sinh viên rất nhiều trong quá trình hoàn thành đồ án .",2,0,thầy nhiệt_tình giúp_đỡ sinh_viên nhiều hoàn_thành đồ_án
+1294,"và chuột máy tính trong phòng lab cũng hư khá nhiều , đề nghị nhà trường thay thế để có nhiều máy tính phục vụ học tập cho sinh viên .",0,2,chuột máy_tính phòng lab hư nhiều đề_nghị nhà_trường  nhiều máy_tính phục_vụ học_tập sinh_viên
+1295,"giáo viên giảng dạy tận tâm , dễ hiểu , truyền đạt và liên hệ thực tiễn .",2,0,giáo_viên giảng_dạy tận_tâm hiểu truyền_đạt liên_hệ thực_tiễn
+1296,giảng viên tận tụy có tâm huyết đối với sinh viên .,2,0,giảng_viên tận_tụy tâm_huyết sinh_viên
+1297,"giảng viên dạy rất nhiệt tình , tuy nhiên việc dạy quá giờ lên lớp sẽ khiến nhiều sinh viên gặp khó khăn trong việc học , giảng viên dạy vượt qua tiết 4 và 5 khiến nhiều sinh viên phải sang học tiết khác và bỏ qua rất nhiều bài giảng dẫn đến việc học không hiệu quả .",0,0,giảng_viên dạy nhiệt_tình dạy quá giờ lên_lớp nhiều sinh_viên khó_khăn học giảng_viên dạy tiết bốn nhiều sinh_viên học tiết bỏ_qua nhiều giảng học NOT hiệu_quả
+1298,em có suy nghĩ là thầy không tin các bài tập do chính các bạn nữ làm .,0,0,suy_nghĩ thầy NOT bài_tập 
+1299,tạo thêm nhiều ví dụ ngoài thực tiễn .,0,1,nhiều ví_dụ thực_tiễn
+1300,"giảng viên giảng dạy nhiệt tình , phương pháp dạy hay , chỉ dẫn hiệu quả .",2,0,giảng_viên giảng_dạy nhiệt_tình phương_pháp dạy hay chỉ_dẫn hiệu_quả
+1301,không hài lòng điểm gì cả !,0,3,NOT hài_lòng
+1302,"cần có các bài lab thực hành , để sinh viên thành thạo cũng như các thao tác ứng dụng .",0,1,cần lab thực_hành sinh_viên thành_thạo  ứng_dụng
+1303,cách dạy của thầy wzjwz170 vô cùng chán đối với môn học kỹ năng như thế này .,2,0,dạy thầy vô_cùng chán môn_học kỹ_năng
+1304,"thầy luôn hướng dẫn sinh viên giải bài tập bằng nhiều cách , suy luận logic .",2,0,thầy hướng_dẫn sinh_viên giải bài_tập nhiều suy_luận logic
+1305,sự nhiệt tình thầy dạy dễ hiểu vui vẻ .,2,0,nhiệt_tình thầy dạy hiểu vui_vẻ
+1306,cần tạo điều kiện cho sinh viên tăng vốn ngoại ngữ giao tiếp .,0,1,cần sinh_viên vốn ngoại_ngữ giao_tiếp
+1307,"thầy dạy dễ hiểu , dễ tiếp thu .",2,0,thầy dạy hiểu tiếp_thu
+1308,thầy hay đến lớp muộn sao với sinh viên .,0,0,thầy hay lớp muộn sinh_viên
+1309,giảng dạy nhiệt tình hơn .,0,0,giảng_dạy nhiệt_tình
+1310,thầy sáng tạo .,2,0,thầy sáng_tạo
+1311,cô rất vui tính giảng bài rất hay .,2,0,cô vui_tính giảng hay
+1312,cho nhiều bài nghe hay .,2,0,nhiều hay
+1313,nhiệt tình và tận tâm với sinh viên .,2,0,nhiệt_tình tận_tâm sinh_viên
+1314,giảng viên giảng bài rất dễ hiểu .,2,0,giảng_viên giảng hiểu
+1315,tìa liệu hướng dẫn thực hành nên cụ thể hơn đối với những lab khó .,0,1,  hướng_dẫn thực_hành lab khó
+1316,có liên hệ những ví dụ thực tế để giảng dạy .,2,0,liên_hệ ví_dụ giảng_dạy
+1317,"giảng bài hơi nhanh , tài liệu không rõ ràng , không dùng moodle .",0,0,giảng hơi nhanh tài_liệu NOT rõ_ràng NOT m dle
+1318,phương pháp dạy không hợp lý .,0,0,phương_pháp dạy NOT hợp_lý
+1319,"cô dạy hay , rất nhiệt tình , luôn giúp đỡ , giải đáp các thắc mắc của sinh viên .",2,0,cô dạy hay nhiệt_tình giúp_đỡ giải_đáp thắc_mắc sinh_viên
+1320,"tận tâm , nhiệt tình , cách giảng dạy hiệu quả .",2,0,tận_tâm nhiệt_tình giảng_dạy hiệu_quả
+1321,không muốn hỏi bài thầy vì thầy giải đáp không hiểu .,0,0,NOT thầy thầy giải_đáp NOT hiểu
+1322,gây lãng phí .,0,3,
+1323,nên nhiều khi em thấy không thể hiểu .,0,3,nhiều hiểu
+1324,nên có giáo trình rõ ràng và cơ bản hơn .,0,1,giáo_trình rõ_ràng cơ_bản
+1325,nâng cấp trang thiết bị của phòng thực hành .,0,2,nâng_cấp trang thiết_bị phòng thực_hành
+1326,"thầy còn nhiều lúc giảng chưa kỹ lướt qua quá nhanh chưa kịp đọc bài , chỉ dẫn chưa rõ ràng .",0,0,thầy nhiều giảng NOT kỹ lướt quá nhanh NOT kịp đọc chỉ_dẫn NOT rõ_ràng
+1327,"có vài chỗ cô giảng còn khó hiểu , những chỗ code khó , dài và rối em mong cô giảng kỹ và nhiều hơn .",0,0,chỗ cô giảng khó hiểu chỗ code khó  mong cô giảng kỹ nhiều
+1328,thầy dạy rất nhiệt tình và vui vẻ .,2,0,thầy dạy nhiệt_tình vui_vẻ
+1329,giảng viên tận tình với sinh viên .,2,0,giảng_viên tận_tình sinh_viên
+1330,"nên phân công giảng viên ít công việc ngoài , phân bố thời gian nghỉ lễ hợp lý .",0,1,phân_công giảng_viên công_việc phân_bố nghỉ  hợp_lý
+1331,"dù có tìm hiểu nhưng em không thể hiểu hết và nắm bắt hoàn toàn nội dung bài lab , nhưng khi hỏi giảng viên thì em cũng không thu được thông tin gì thêm cả .",0,0,hiểu nắm_bắt nội_dung lab giảng_viên NOT thu thông_tin
+1332,cần phải có phương pháp giảng dạy linh hoạt và sáng tạo hơn .,0,0,cần phương_pháp giảng_dạy  sáng_tạo
+1333,"điểm danh quá nhiều colonsurprise , silde bài giảng cần phải đầu tư nhiều hơn .",0,1,điểm_danh quá nhiều   giảng cần đầu_tư nhiều
+1334,giảng dạy rõ ràng .,2,0,giảng_dạy rõ_ràng
+1335,"thầy dạy giỏi , vui tính .",2,0,thầy dạy giỏi vui_tính
+1336,có liên hệ thực tế qua bài giảng giúp sinh viên nhanh tiếp thu kiến thức .,2,0,liên_hệ giảng giúp sinh_viên nhanh tiếp_thu kiến_thức
+1337,"thầy dạy hay , vui vẻ .",2,0,thầy dạy hay vui_vẻ
+1338,kiến thức dạy cần được lên kế hoạch kỹ càng chương trình giảng dạy .,0,1,kiến_thức dạy cần kế_hoạch kỹ_càng chương_trình giảng_dạy
+1339,giảng viên ít có giải thích các phần bài tập mà chỉ chiếu kết quả trên phần mềm outcomes và lướt lướt cho nhanh để hết tiết .,0,0,giảng_viên giải_thích bài_tập chiếu kết_quả phần_mềm  lướt lướt nhanh tiết
+1340,bám sát nội dung môn học .,2,1,bám sát nội_dung môn_học
+1341,thầy có cho bài tập về nhà nhưng chưa hướng dẫn và giải chi tiết vào hôm sau .,0,0,thầy bài_tập NOT hướng_dẫn giải chi_tiết hôm
+1342,"giảng viên nhiệt tình giúp đỡ , tận tâm với công việc .",2,0,giảng_viên nhiệt_tình giúp_đỡ tận_tâm công_việc
+1343,giảng dạy tốt !,2,0,giảng_dạy
+1344,thầy dậy quá nhanh và không sâu nên không nắm chắc được kiến thức .,0,0,thầy dậy quá nhanh NOT sâu NOT nắm kiến_thức
+1345,"vui hiền , dạy hay sinh động , perfect .",2,0,vui hiền dạy hay sinh_động 
+1346,"tận tâm , nhiệt tình trong giảng dạy .",2,0,tận_tâm nhiệt_tình giảng_dạy
+1347,"chém gió , nói chuyện quá nhiều , hướng dẫn giải bài tập một cách quá sơ sài .",0,0,chém gió nói_chuyện quá nhiều hướng_dẫn_giải bài_tập quá sơ_sài
+1348,"thầy dạy rất tốt , cung cấp kiến thức sâu , đủ với khả năng sinh viên .",2,0,thầy dạy cung_cấp kiến_thức sâu khả_năng sinh_viên
+1349,"chưa đề cập đến nhiều nội dung như đồ họa , tệp , liên kết .",0,1,NOT đề_cập nhiều nội_dung   liên_kết
+1350,"giảng viên nhiệt tình giải đáp câu hỏi , thắc mắc .",2,0,giảng_viên nhiệt_tình giải_đáp câu thắc_mắc
+1351,không có ý kiến với giáo viên .,1,3,NOT ý_kiến giáo_viên
+1352,"giảng viên giảng lý thuyết kỹ trước khi cho làm thực hành , đánh giá điểm hợp lý .",2,0,giảng_viên giảng lý_thuyết kỹ thực_hành hợp_lý
+1353,bài giảng chi tiết .,2,0,giảng chi_tiết
+1354,không nên sử dụng slide bằng tiếng anh tí nào .,0,1,NOT slide tiếng tí
+1355,cô cho rất nhiều ví dụ nên rất dễ hiểu được bài .,2,0,cô nhiều ví_dụ hiểu
+1356,thầy vui tính giảng dạy dễ hiểu ân cần .,2,0,thầy vui_tính giảng_dạy hiểu 
+1357,tăng tính thực tế trong các đồ án hơn một chút là tuyệt vời .,1,0,đồ_án một_chút tuyệt_vời
+1358,"dạy khá nhanh , nên chậm lại tí là ok .",0,0,dạy nhanh chậm tí ok
+1359,chất lượng đào tạo tốt .,2,1,chất_lượng đào_tạo
+1360,quá trình thầy giảng dạy thì hầu hết bọn em chỉ lên nghe thầy nói kiểu nước đổ đầu vịt .,0,0,thầy giảng_dạy  thầy nói  đầu 
+1361,"kiến thức bao quát quá rộng lớn , khó tiếp cận cho người tự học .",0,1,kiến_thức bao_quát quá  khó tiếp_cận học
+1362,"thầy dạy vui tính , dễ hiểu , dễ thương !",2,0,thầy dạy vui_tính hiểu dễ_thương
+1363,làm kiểm tra thường xuyên .,1,3,kiểm_tra thường_xuyên
+1364,khả năng diễn đạt bằng tiếng anh thực sự không tốt lắm .,0,0,khả_năng diễn_đạt tiếng NOT lắm
+1365,quá chú trọng vào phần listening .,0,0,quá chú_trọng listening
+1366,"môn học đề cao tính ứng dụng , vì vậy nên trang bị nhiều cơ sở vật chất và tài liệu nghiên cứu làm ý tưởng cho sinh viên làm đồ án môn học .",0,2,môn_học  ứng_dụng trang_bị nhiều cơ_sở vật_chất tài_liệu nghiên_cứu  sinh_viên đồ_án môn_học
+1367,áp dụng thực tiễn .,2,1,áp_dụng thực_tiễn
+1368,"áp dụng được các hình ảnh , video clip vào trong quá trình giảng dạy .",2,0,áp_dụng  video  giảng_dạy
+1369,"kết quả thực hành , đánh giá chưa quy chuẩn , còn qua loa .",0,0, NOT  qua_loa
+1370,"giảng viên thường giảng dạy quá thời gian của tiết học , nói nhiều và cách nói không thu hút sinh viên .",0,0,giảng_viên giảng_dạy quá tiết học nói nhiều nói NOT thu_hút sinh_viên
+1371,giảng viên chưa cung cấp kiến thức đầy đủ cho sinh viên .,0,0,giảng_viên NOT cung_cấp kiến_thức đầy_đủ sinh_viên
+1372,"giảng viên rất nhiệt tình , tâm lý , dễ thương , luôn luôn tạo nhiều cơ hội ghi điểm cho sinh viên và tạo mọi điều kiện để sinh viên trao đổi , thảo luận về bài giảng trên lớp cũng như kiến thức liên quan đến môn học .",2,0,giảng_viên nhiệt_tình tâm_lý dễ_thương nhiều  sinh_viên sinh_viên trao_đổi thảo_luận giảng lớp kiến_thức môn_học
+1373,"các máy tính tại phòng thực hành lab khoa wzjwz42 đa phần đều hư hỏng không có chuột , chuột không dùng được , máy bị virus rất nặng .",0,2,máy_tính phòng thực_hành lab khoa đa_phần hư_hỏng NOT chuột chuột NOT máy 
+1374,không thật sự công bằng và đúng theo yêu cầu .,0,0,NOT công_bằng đúng
+1375,"giảng viên nhiệt tình , cho bài tập đầy đủ , sử dụng giờ lên lớp hiệu quả và đúng giờ .",2,0,giảng_viên nhiệt_tình bài_tập đầy_đủ giờ lên_lớp hiệu_quả đúng giờ
+1376,môn này hay .,2,1,môn hay
+1377,"cô rất vui vẻ , tâm huyết nhiệt tình .",2,0,cô vui_vẻ tâm_huyết nhiệt_tình
+1378,"thầy giảng bài vô cùng thu hút , dễ hiểu , không bị nhàm chán .",2,0,thầy giảng vô_cùng thu_hút hiểu NOT nhàm_chán
+1379,giảng viên có thể giải nhiều bài tập và giảng kỹ ở mỗi dạng để sinh viên nắm được bài .,2,0,giảng_viên giải nhiều bài_tập giảng kỹ dạng sinh_viên nắm
+1380,"không tổ chức thi cuối kỳ môn học , vì lý do làm đồ án đã mất rất nhiều thời gian .",0,1,NOT tổ_chức thi kỳ môn_học đồ_án NOT nhiều
+1381,giờ thực hành quá ít .,0,1,giờ thực_hành quá
+1382,"nói lúc to lúc nhỏ , nghe mệt tai .",0,0,nói to nhỏ mệt 
+1383,"vui , nhiệt tình .",2,0,vui nhiệt_tình
+1384,"thầy dạy tận tình , vui tính , dễ trao đổi , kiến thức được thầy truyền đạt rất kỹ càng .",2,0,thầy dạy tận_tình vui_tính trao_đổi kiến_thức thầy truyền_đạt kỹ_càng
+1385,"vui tính , tận tâm !",2,0,vui_tính tận_tâm
+1386,không có tài liệu học tập .,0,1,NOT tài_liệu học_tập
+1387,"giảng nhiệt tình , rèn luyện sinh viên kỹ năng làm việc nhóm , chủ động trong học tập .",2,0,giảng nhiệt_tình rèn_luyện sinh_viên kỹ_năng làm_việc chủ_động học_tập
+1388,"thực hành hay , tuy nhiên cần tìm hiểu thời gian nhiều sinh viên rảnh nhất không thì sẽ có bạn mất bài của môn .",0,1,thực_hành hay cần nhiều sinh_viên  NOT NOT môn
+1389,kết hợp thực tế trong giảng dạy .,2,0, giảng_dạy
+1390,"nội dung môn học không hay , khá nhàm chán , không xác định được mục tiêu của môn học .",0,1,nội_dung môn_học NOT hay nhàm_chán NOT xác_định mục_tiêu môn_học
+1391,"cô wzjwz20 rất nhiệt tình và tận tâm , nhưng cách cô giảng bài làm nhiều sinh viên khó tiếp thu , tất cả đều có trong slide , cô chủ yếu chỉ nói trong slide , rất khó hiểu .",2,0,cô nhiệt_tình tận_tâm cô giảng  nhiều sinh_viên khó tiếp_thu slide cô chủ_yếu nói slide khó hiểu
+1392,cho điểm khó .,0,0,khó
+1393,thời gian học không đúng theo lịch .,0,1,học NOT đúng lịch
+1394,"cung cấp đầy đủ hơn về tài liệu và những gì sinh viên cần biết , nên có kênh thông tin để sinh viên giao tiếp với giảng viên .",0,0,cung_cấp đầy_đủ tài_liệu sinh_viên cần biết  thông_tin sinh_viên giao_tiếp giảng_viên
+1395,"giải đáp thắc mắc , cập nhật kiến thức thực tế .",2,0,giải_đáp thắc_mắc cập_nhật kiến_thức
+1396,nếu như 5 tiết đó để cho sinh viên làm các dạng bài tập khác nhau do thầy chiếu trên slide thì hay hơn là dùng 5 tiết để ghi tràn lan lý thuyết và số lượng lớn bài tập trùng dạng trên bảng .,0,0,tiết sinh_viên dạng bài_tập thầy chiếu slide hay tiết ghi tràn_lan lý_thuyết số_lượng bài_tập trùng dạng bảng
+1397,nhà trường cần có giáo trình dùng chung cho tất cả các lớp và có một chương trình dạy cụ thể vì mỗi lớp có một kế hoạch học tập riêng mà lại thi chung nên rất khó cho sinh viên .,0,1,nhà_trường cần giáo_trình lớp một chương_trình dạy lớp một kế_hoạch học_tập thi khó sinh_viên
+1398,"thầy nhiệt tình , luôn cập nhật những công nghệ mới cho sinh viên , giúp sinh viên hứng thú hơn trong việc học .",2,0,thầy nhiệt_tình cập_nhật công_nghệ sinh_viên giúp sinh_viên hứng_thú học
+1399,bên cạnh đó lại đòi hỏi chuẩn quá cao trong khi việc truyền đạt thì vô cùng không hiệu quả .,0,0,cạnh  chuẩn quá truyền_đạt vô_cùng NOT hiệu_quả
+1400,em không có ý kiến .,1,3,NOT ý_kiến
+1401,giáo viên giải đáp thắc mắc nhiệt tình .,2,0,giáo_viên giải_đáp thắc_mắc nhiệt_tình
+1402,cô dạy hay và rất nhiệt tình .,2,0,cô dạy hay nhiệt_tình
+1403,"cô wzjwz266 nghiêm túc với công việc giảng dạy , dạy tiết nào đáng tiết đó , cung cấp kiến thức đầy đủ cho sinh viên .",2,0,cô nghiêm_túc công_việc giảng_dạy dạy tiết tiết cung_cấp kiến_thức đầy_đủ sinh_viên
+1404,"vui tính , luôn giúp đỡ sinh viên khi sinh viên gặp khó khăn .",2,0,vui_tính giúp_đỡ sinh_viên sinh_viên khó_khăn
+1405,"giáo trình , bài giảng và tài liệu phục vụ môn học được cung cấp đầy đủ và cập nhật trên hệ thống moodle .",2,0,giáo_trình giảng tài_liệu phục_vụ môn_học cung_cấp đầy_đủ cập_nhật hệ_thống m dle
+1406,thầy rất rất chi là nhiệt tình .,2,0,thầy  nhiệt_tình
+1407,đề nghị sắp xếp thời gian thực hành nhiều hơn .,0,1,đề_nghị sắp_xếp thực_hành nhiều
+1408,giảng viên tận tình chỉ dạy .,2,0,giảng_viên tận_tình dạy
+1409,áp dụng một vài phương pháp học trao đổi mới trên internet thay vì dựa vào lý thuyết trên sách vở nhiều .,1,0,áp_dụng phương_pháp học   thay_vì dựa lý_thuyết  nhiều
+1410,cô hiền coloncontemn .,2,0,cô hiền 
+1411,"giảng viên trẻ , nhiệt huyết , vui tính , năng động và dễ thương !",2,0,giảng_viên trẻ nhiệt_huyết  dễ_thương
+1412,thường xuyên trễ 15 - 30 phút .,0,0,thường_xuyên trễ mười lăm ba mươi phút
+1413,"thầy giảng dạy nhiệt tình , truyền đạt kiến thức tốt .",2,0,thầy giảng_dạy nhiệt_tình truyền_đạt kiến_thức
+1414,mong nhà trường sớm thay máy mới !,0,2,mong nhà_trường thay máy
+1415,không nên nhiệt tình quá nên xúc tích vào những nội dung cần thiết .,0,1,NOT nhiệt_tình quá xúc tích nội_dung cần_thiết
+1416,"giảng viên năng động , hoạt bát , tạo hứng thú cho sinh viên trong lớp .",2,0,giảng_viên năng_động hoạt_bát hứng_thú sinh_viên lớp
+1417,thiếu sót là chưa có đề cương môn học khiến cho việc tìm tài liệu trên mạng rất tràn lan và không biết tìm như thế nào cho hiệu quả !,0,0,thiếu_sót NOT đề_cương môn_học tài_liệu mạng tràn_lan NOT biết hiệu_quả
+1418,"cách dạy của cô hết sức tuyệt vời , tạo cảm hứng học tập cho sinh viên .",2,0,dạy cô hết_sức tuyệt_vời cảm_hứng học_tập sinh_viên
+1419,giọng đọc tiếng anh khó nghe .,0,0,giọng đọc tiếng khó
+1420,"thầy dạy nhiệt tình , thầy dạy tốt , tận tâm , gần gũi với sinh viên .",2,0,thầy dạy nhiệt_tình thầy dạy tận_tâm gần_gũi sinh_viên
+1421,"hệ thống âm thanh sử dụng cho phần "" listening "" chưa thực sự tốt .",0,2,hệ_thống  listening NOT
+1422,giảng bài thú vị và sinh động .,2,0,giảng thú_vị sinh_động
+1423,xảy ra tai nạn đáng tiếc .,0,3,  
+1424,khả năng truyền đạt chưa tốt lắm .,0,0,khả_năng truyền_đạt NOT lắm
+1425,thầy rất tốt và rất tận tâm .,2,0,thầy tận_tâm
+1426,do là hình thức thực hành 2 .,0,1,hình_thức thực_hành hai
+1427,em thích nhất là phần dạy lý thuyết của thầy .,2,0,dạy lý_thuyết thầy
+1428,"khi đưa ra ví dụ , cô có thể gợi ý hướng giải để chúng em dễ hiểu bài hơn .",0,0,ví_dụ cô  hướng giải hiểu
+1429,cho học sinh nói nhiều hơn .,0,3,học_sinh nói nhiều
+1430,"giảng viên giảng dạy rất nhiệt tình , dễ tiếp thu kiến thức .",2,0,giảng_viên giảng_dạy nhiệt_tình tiếp_thu kiến_thức
+1431,"cô dạy rất dễ tiếp thu , tận tình , giải thích rất rõ ràng .",2,0,cô dạy tiếp_thu tận_tình giải_thích rõ_ràng
+1432,kiến thức truyền đạt khá ít .,0,0,kiến_thức truyền_đạt
+1433,thầy dạy vui he he .,2,0,thầy dạy vui he he
+1434,"cô rất tận tâm , nhiệt tình trong công tác giảng dạy , cô giảng bài rất chi tiết , có các ví dụ cụ thể để minh họa cho từng phần mà cô giảng .",2,0,cô tận_tâm nhiệt_tình  giảng_dạy cô giảng chi_tiết ví_dụ minh_họa cô giảng
+1435,"thầy dạy tận tình , dễ hiểu , luôn quan tâm giúp đỡ sinh viên .",2,0,thầy dạy tận_tình hiểu quan_tâm giúp_đỡ sinh_viên
+1436,"không có gì không hài lòng , có góp ý xíu là sau này thầy có thể cho tự chọn mcu luôn , lần này thầy chọn sẵn nên đôi khi mất đi một xíu sự thú vị , cho sinh viên chọn luôn mới hay ho , sinh viên sẽ phải tìm hiểu nhiều hơn nữa , xem con chip nào phù hợp nhất .",0,0,NOT NOT hài_lòng góp_ý xíu thầy  thầy  đôi_khi NOT đi một xíu thú_vị sinh_viên  sinh_viên nhiều  
+1437,"giúp giảng viên chủ động truyền đạt các kiến thức đã học một cách cụ thể cho sinh viên bởi thực tế hiện nay sinh viên thường làm các đồ án trong đó không thể hiện được rõ các kiến thức đã học trên lớp , nó thiên về sử dụng kỹ thuật nhiều hơn .",0,1,giúp giảng_viên chủ_động truyền_đạt kiến_thức học sinh_viên sinh_viên đồ_án  kiến_thức học lớp  kỹ_thuật nhiều
+1438,"thầy dạy ổn , đúng với lý thuyết .",2,0,thầy dạy ổn đúng lý_thuyết
+1439,"giảng viên tận tâm , nhiệt tình , dễ thương .",2,0,giảng_viên tận_tâm nhiệt_tình dễ_thương
+1440,tận tình luôn muốn sinh viên hiểu bài .,2,0,tận_tình sinh_viên hiểu
+1441,"các slide bài tập hàng tuần rất đầy đủ , kể cả về nội dung thực hành .",2,0,slide bài_tập hàng tuần đầy_đủ nội_dung thực_hành
+1442,"chi tiết , dễ hiểu .",2,3,chi_tiết hiểu
+1443,áp lực nặng .,0,0,áp_lực
+1444,"cảm ơn thầy , thầy rất nhiệt tình !",2,0,cảm_ơn thầy thầy nhiệt_tình
+1445,giảng viên dạy hơi quá thời gian .,0,0,giảng_viên dạy hơi quá
+1446,thầy rất nhiệt tình hướng dẫn sinn viên đặc biệt là sửa lỗi sai hay giải bài tập trên lớp .,2,0,thầy nhiệt_tình hướng_dẫn  viên sửa lỗi sai hay giải bài_tập lớp
+1447,thầy hay đi trễ .,0,0,thầy hay đi trễ
+1448,đánh giá đúng năng lực của sinh viên .,2,1,đúng năng_lực sinh_viên
+1449,"không nhấn vào trọng tâm , giảng bài hơi khó tiếp thu .",0,0,NOT  trọng_tâm giảng hơi khó tiếp_thu
+1450,giờ lên dạy .,1,0,giờ dạy
+1451,hay đi trễ .,0,0,hay đi trễ
+1452,tập trung vào nghiên cứu phần kiến thức trọng tâm .,2,1,nghiên_cứu kiến_thức trọng_tâm
+1453,cô có tính cách năng động hòa đồng với học sinh .,2,0,cô năng_động hòa đồng học_sinh
+1454,số bài thực hành quá nhiều đối với một môn thực hành hình thức 2 .,0,1,thực_hành quá nhiều một môn thực_hành hình_thức hai
+1455,"giảng dạy nhiệt tình , tận tâm với sinh viên , giảng dễ hiểu , tài liệu cung cấp luôn đầy đủ .",2,0,giảng_dạy nhiệt_tình tận_tâm sinh_viên giảng hiểu tài_liệu cung_cấp đầy_đủ
+1456,có bài tập thực hành hợp lý cho từng tuần và phù hợp với lý thuyết vừa học xong .,2,0,bài_tập thực_hành hợp_lý tuần lý_thuyết học xong
+1457,"thân thiện , nhiệt tình , hòa đồng , vui tính , đẹp trai .",2,0,thân_thiện nhiệt_tình hòa đồng vui_tính đẹp_trai
+1458,thầy dạy rất thoải mái .,2,0,thầy dạy thoải_mái
+1459,"cô rất tận tâm , hết mình với sinh viên .",2,0,cô tận_tâm  sinh_viên
+1460,"nhiệt tình , chia sẻ kinh nghiệm học tập .",2,0,nhiệt_tình kinh_nghiệm học_tập
+1461,có kiến thức cao .,2,0,kiến_thức
+1462,"giảng viên tận tâm , thân thiện gần gũi .",2,0,giảng_viên tận_tâm thân_thiện gần_gũi
+1463,"cô nói nhanh , liên tục nhiều khi em không thể nghe kịp .",0,0,cô nói nhanh  nhiều kịp
+1464,không nên cho thi môn này .,0,1,NOT thi môn
+1465,dạy gì thi đó .,1,0,dạy thi
+1466,thầy rất nhiệt tâm .,2,0,thầy nhiệt_tâm
+1467,"giảng viên luôn cố gắng liên hệ thực tế nhiều nhất có thể , giúp sinh viên hiểu hơn về thực tiễn hơn là chỉ tập trung vào lý thuyết của bài học .",2,0,giảng_viên cố_gắng liên_hệ nhiều giúp sinh_viên hiểu thực_tiễn lý_thuyết bài_học
+1468,giảng viên rất nhiệt tình trong giảng dạy cũng như giải đáp thắc mắc của sinh viên .,2,0,giảng_viên nhiệt_tình giảng_dạy giải_đáp thắc_mắc sinh_viên
+1469,phòng học gần tòa nhà đang xây gây ảnh hưởng đến các bài nghe của môn học này .,0,2,phòng học   ảnh_hưởng môn_học
+1470,"thầy dạy rất dễ hiểu , đơn giản sát với thực tế .",2,0,thầy dạy hiểu đơn_giản sát
+1471,giảng viên nói rõ ràng .,2,0,giảng_viên nói rõ_ràng
+1472,"thầy dạy rất chất , em chưa thấy thầy nào dạy chính trị hay hơn thầy .",2,0,thầy dạy  NOT thầy dạy  hay thầy
+1473,"dạy nhiệt tình , thân thiện .",2,0,dạy nhiệt_tình thân_thiện
+1474,dãy bàn chính giữa không có quạt .,0,2,dãy bàn NOT quạt
+1475,thời gian học không đảm bảo .,0,1,học NOT
+1476,"có nhiều hoạt động theo nhóm , tăng tính đoàn kết .",2,0,nhiều hoạt_động 
+1477,"thêm các phần ứng dụng của danh sách liên kết stack , queue và bảng băm .",0,1,ứng_dụng danh_sách liên_kết   bảng 
+1478,"vui vẻ , nhiệt tình , tạo cơ hội cho sinh viên được gắn kết cũng như trau dồi kỹ năng nói tiếng anh nhiều hơn .",2,0,vui_vẻ nhiệt_tình sinh_viên  trau_dồi kỹ_năng nói tiếng nhiều
+1479,"em học không tốt , em nghỉ nhiều buổi thực hành , còn lý thuyết thì em khá vững .",0,3,học NOT nghỉ nhiều thực_hành lý_thuyết vững
+1480,dạy vui vẻ .,2,0,dạy vui_vẻ
+1481,thầy nhiệt tình giảng dễ hiểu không nhàm chán .,2,0,thầy nhiệt_tình giảng hiểu NOT nhàm_chán
+1482,thầy dạy ngắn gọn dễ hiểu .,2,0,thầy dạy ngắn_gọn hiểu
+1483,thầy đi bài giảng hơi nhanh .,0,0,thầy đi giảng hơi nhanh
+1484,không tận tâm .,0,0,NOT tận_tâm
+1485,tạm ổn .,1,3,tạm ổn
+1486,"thầy vui tính , nhiệt tình , trả lời mọi thắc mắc của sinh viên .",2,0,thầy vui_tính nhiệt_tình trả_lời thắc_mắc sinh_viên
+1487,cách dạy của thầy em rất thích .,2,0,dạy thầy
+1488,chưa kiểm soát được thời gian .,0,0,NOT kiểm_soát
+1489,dạy chú trọng đến người học .,2,0,dạy chú_trọng học
+1490,nên cung cấp tài liệu giải trắc nghiệm anh văn .,0,1,cung_cấp tài_liệu giải trắc_nghiệm văn
+1491,nếu làm chung với nhóm khác thì sẽ dẫn tới khác đề nên không hợp tác được .,0,1,đề NOT 
+1492,đôi khi kẹt xe thầy lại trễ giờ .,0,0,đôi_khi   thầy trễ giờ
+1493,"sự tận tâm , nhiệt tình trong giảng dạy của giảng viên .",2,0,tận_tâm nhiệt_tình giảng_dạy giảng_viên
+1494,"giáo viên giảng bài hay , thu hút .",2,0,giáo_viên giảng hay thu_hút
+1495,giảng viên truyền đạt hiệu quả .,2,0,giảng_viên truyền_đạt hiệu_quả
+1496,rất thực tế và cụ thể .,2,0,
+1497,em rất hài lòng về phương pháp dạy này .,2,0,hài_lòng phương_pháp dạy
+1498,"thầy cần giảng giải cách làm đối với từng dạng bài nhiều hơn , rồi sau đó hãy cho nhiều bài tập .",0,0,thầy cần giảng_giải dạng nhiều nhiều bài_tập
+1499,"em nghĩ thầy nên nhiều bài tập hơn và gửi bài giảng qua courses , lập nhóm làm bài để chấm điểm như các lớp khác .",0,0,thầy nhiều bài_tập gửi giảng courses  chấm lớp
+1500,quạt trong phòng học chưa đáp ứng tốt .,0,2,quạt phòng học NOT đáp_ứng
+1501,thầy dạy hay và nhiệt tình .,2,0,thầy dạy hay nhiệt_tình
+1502,"thầy dạy rất kỹ , rất chi tiết .",2,0,thầy dạy kỹ chi_tiết
+1503,"cô dạy nhiệt tình , dễ hiểu , đảm bảo cho sinh viên hiểu rõ lý thuyết .",2,0,cô dạy nhiệt_tình hiểu sinh_viên hiểu lý_thuyết
+1504,không triển khai slide bài giảng trên moodle .,0,0,NOT  slide giảng m dle
+1505,"giảng viên giảng dạy nhiệt tình , tạo ra hoạt động vui nhộn .",2,0,giảng_viên giảng_dạy nhiệt_tình hoạt_động 
+1506,phản hồi nhanh các thắc mắc của sinh viên .,2,0, nhanh thắc_mắc sinh_viên
+1507,có lẽ cô nên ra nhiều bài tập về nhà hơn cho các bạn trong lớp .,0,0,có_lẽ cô nhiều bài_tập lớp
+1508,"em thấy có một số buổi học kéo dài , có buổi kéo dài tới gần 12h .",0,0,học kéo_dài kéo_dài 
+1509,"thầy nói lan man khá nhiều , khiến sinh viên không biết đâu là phần nội dung chính .",0,0,thầy nói lan_man nhiều sinh_viên NOT nội_dung
+1510,"dạy tận tâm , nhiệt tình .",2,0,dạy tận_tâm nhiệt_tình
+1511,cho bài khó .,0,0,khó
+1512,"cô dạy rất hay , chậm và kỹ càng , giúp chúng em hiểu sâu hơn về bài giảng .",2,0,cô dạy hay chậm kỹ_càng giúp hiểu sâu giảng
+1513,buổi dạy của thầy hay bị gián đoạn .,0,0,dạy thầy hay gián_đoạn
+1514,bên cạnh việc giảng dạy thầy còn rất kể nhiều câu chuyện những chiêm nghiệm trong cuộc sống cho sinh viên nghe .,2,0,cạnh giảng_dạy thầy nhiều câu_chuyện  cuộc_sống sinh_viên
+1515,mong nhà trường sẽ có nhiều biện pháp để tăng cường thêm các trang thiết bị và cơ sở vật chất để phục vụ tốt hơn cho việc học tiếng anh của sinh viên .,0,2,mong nhà_trường nhiều biện_pháp tăng_cường trang thiết_bị cơ_sở vật_chất phục_vụ học tiếng sinh_viên
+1516,giáo viên giảng dễ hiểu .,2,0,giáo_viên giảng hiểu
+1517,"giảng viên rất nhiệt tình , các kiến thức đều được đưa ra hợp lý dễ hiểu và nắm bắt .",2,0,giảng_viên nhiệt_tình kiến_thức hợp_lý hiểu nắm_bắt
+1518,bản thân sinh viên chưa từng gặp giảng viên này một lần nào trong khóa học .,0,0, NOT giảng_viên một khóa học
+1519,"thầy sử dụng tốt hệ thống moodle để trao đổi với sinh viên và những giảng giải mang tính dễ hiểu , gần gũi với sinh viên .",2,0,thầy hệ_thống m dle trao_đổi sinh_viên giảng_giải hiểu gần_gũi sinh_viên
+1520,phương pháp dạy giúp sinh viên tiếp thu dễ hơn .,2,0,phương_pháp dạy giúp sinh_viên tiếp_thu
+1521,cần tăng cường thêm nhiều bài tập vào nhiều tiết thực hành .,0,1,cần tăng_cường nhiều bài_tập nhiều tiết thực_hành
+1522,cô dạy rất tận tình dễ hiểu .,2,0,cô dạy tận_tình hiểu
+1523,nhiều lúc thầy nói hơi nhanh .,0,0,nhiều thầy nói hơi nhanh
+1524,"giáo viên dạy kỹ càng , dễ hiểu .",2,0,giáo_viên dạy kỹ_càng hiểu
+1525,trang bị phòng thí nghiệm để hiểu rõ hơn về thực tế .,0,2,trang_bị phòng  hiểu
+1526,"dạy hay , vui vẻ và gần gũi với sinh viên .",2,0,dạy hay vui_vẻ gần_gũi sinh_viên
+1527,"có nhiều vấn đề còn khó hiểu , khó tiếp cận .",0,0,nhiều khó hiểu khó tiếp_cận
+1528,giảng viên chưa thực sự chuẩn bị bài giảng chu đáo trong một số buổi học .,0,0,giảng_viên NOT giảng chu_đáo học
+1529,giờ học chưa đảm bảo .,0,0,giờ học NOT
+1530,phòng có máy điều hòa .,1,2,phòng máy hòa
+1531,cô không cho đề trước khi thi .,0,0,cô NOT đề thi
+1532,"cô dạy rất nhiệt tình , luôn trao đổi trên lớp và trên website môn học .",2,0,cô dạy nhiệt_tình trao_đổi lớp website môn_học
+1533,phương pháp giảng dạy không nên phụ thuộc hoàn toàn vào việc thuyết trình của sinh viên .,0,0,phương_pháp giảng_dạy NOT  thuyết_trình sinh_viên
+1534,"giảng viên tận tình , dạy minh họa dễ hiểu .",2,0,giảng_viên tận_tình dạy minh_họa hiểu
+1535,"giáo viên giảng dạy hay , dễ hiểu .",2,0,giáo_viên giảng_dạy hay hiểu
+1536,"ra bài tập thì thầy nên sửa , để chúng em đối chiếu kết quả .",0,0,bài_tập thầy sửa  kết_quả
+1537,cách giảng của thầy chưa thực sự hay và có nhiều sự chuẩn bị cho bài giảng bằng những tình huống thực tế .,0,0,giảng thầy NOT hay nhiều giảng 
+1538,"thầy dạy rất có tâm , chấm điểm rất chính xác .",2,0,thầy dạy tâm chấm 
+1539,"đưa slide , bài tập lên moodle để sinh viên tham khảo .",1,0,slide bài_tập m dle sinh_viên tham_khảo
+1540,"giảng rất nhiệt tình , cố gắng quan sát sinh viên .",2,0,giảng nhiệt_tình cố_gắng 
+1541,"nên cho bài tập theo hình thức file , thay vì chép bảng ( chỉ nên chép bảng bài học thôi ) .",0,1,bài_tập hình_thức  thay_vì chép bảng chép bảng bài_học
+1542,giọng thầy hơi khó nghe .,0,0,giọng thầy hơi khó
+1543,"chương trình dạy quá cũ , chưa hợp lý .",0,0,chương_trình dạy quá cũ NOT hợp_lý
+1544,em quen ngồi máy tính tìm hiểu hơn là học môn này buồn ngủ .,0,0,quen máy_tính học môn buồn_ngủ
+1545,"điều này thật là "" ảo "" vì không sinh viên nào làm điều đó .",0,3, NOT sinh_viên
+1546,cô là giáo viên tận tâm nhất trong những người tận tâm nhất .,2,0,cô giáo_viên tận_tâm tận_tâm
+1547,tăng cường kỹ năng nói nhiều hơn nữa .,0,1,tăng_cường kỹ_năng nói nhiều
+1548,"trang bị máy chiếu mới , loa và micro của phòng học , máy tính mới cho phòng lab .",0,2,trang_bị máy_chiếu loa micro phòng học máy_tính phòng lab
+1549,giảng bài đôi khi hơi khó hiểu .,0,0,giảng đôi_khi hơi khó hiểu
+1550,cô tận tình giải đáp thắc mắc .,2,0,cô tận_tình giải_đáp thắc_mắc
+1551,"giảng dạy tận tình , bài tập hay .",2,0,giảng_dạy tận_tình bài_tập hay
+1552,các máy tính trong phòng lab nên cài đặt thêm phần mềm android studio để phục vụ việc thực hành môn này .,0,2,máy_tính phòng lab cài_đặt phần_mềm  studio  thực_hành môn
+1553,"nhiệt tình giải đáp những thắc mắc trên lớp , và qua trang web sinh viên .",2,0,nhiệt_tình giải_đáp thắc_mắc lớp  sinh_viên
+1554,cho làm nhiều bài kiểm tra hơn .,0,0,nhiều kiểm_tra
+1555,thầy tương đối khó trong việc nộp bài lab .,0,0,thầy tương_đối khó nộp lab
+1556,tài liệu đầy đủ .,2,1,tài_liệu đầy_đủ
+1557,chỉ dẫn tận tình cho sinh viên .,2,0,chỉ_dẫn tận_tình sinh_viên
+1558,tích cực giúp đỡ sinh viên .,2,0,tích_cực giúp_đỡ sinh_viên
+1559,"giảng viên nhiệt tình , vui tính , có tâm .",2,0,giảng_viên nhiệt_tình vui_tính tâm
+1560,cô phát âm kém và sai .,0,0,cô phát_âm NOT sai
+1561,"giảng viên nghỉ dạy khá nhiều , không đảm bảo giờ lên lớp .",0,0,giảng_viên nghỉ dạy nhiều NOT giờ lên_lớp
+1562,cung cấp nhiều kiến thức hữu ích liên quan đến ngành .,2,0,cung_cấp nhiều kiến_thức hữu_ích ngành
+1563,chu đáo .,2,0,chu_đáo
+1564,trân trọng .,1,3,
+1565,cô rất dễ .,2,0,cô
+1566,"giáo trình cấu trúc dữ liệu và giải thuật còn khá nhiều sai sót , mong nhà trường chỉnh sửa và bổ sung lại .",0,1,giáo_trình cấu_trúc  giải_thuật nhiều sai_sót mong nhà_trường  bổ_sung
+1567,thầy chưa giải đáp thật chi tiết thắc mắc của sinh viên .,0,0,thầy NOT giải_đáp chi_tiết thắc_mắc sinh_viên
+1568,"không nên mê gái , nên quan tâm đồng đều tất cả các học sinh .",0,0,NOT   quan_tâm đồng_đều học_sinh
+1569,thầy giảng hay có trọng tâm dễ hiểu .,2,0,thầy giảng hay trọng_tâm hiểu
+1570,trong nửa đầu của học kỳ không có giáo viên hướng dẫn thực hành .,2,0,nửa đầu học_kỳ NOT giáo_viên hướng_dẫn thực_hành
+1571,thầy dạy hay dễ hiểu cho làm nhiều bài tập thực hành oop nhờ thầy em học tốt hơn .,2,0,thầy dạy hay hiểu nhiều bài_tập thực_hành  thầy học
+1572,giáo viên nhiệt tình và vui tính .,2,0,giáo_viên nhiệt_tình vui_tính
+1573,"phòng học quá nóng phòng wzjwz96 , lớp em có nhiều sinh viên nhưng chỉ có 2 cái quạt , học anh văn vào buổi chiều bị nắng chiếu mà còn nóng thì em tiếp thu bài rất kém ạ !",0,2,phòng học quá nóng phòng lớp nhiều sinh_viên hai quạt học văn   chiếu nóng tiếp_thu NOT
+1574,"nhiệt tình , phương pháp giảng dạy hiệu quả .",2,0,nhiệt_tình phương_pháp giảng_dạy hiệu_quả
+1575,môn thực hành nên cho những giảng viên có kinh nghiệm giảng dạy để giúp sinh viên có nền tảng về lập trình vì học ngành này thực hành là rất quan trọng .,0,1,môn thực_hành giảng_viên kinh_nghiệm giảng_dạy giúp sinh_viên nền_tảng lập_trình học ngành thực_hành
+1576,"phòng thực hành không đảm bảo phục vụ cho môn học , các phần mềm , chương trình không còn phù hợp nữa .",0,2,phòng thực_hành NOT phục_vụ môn_học phần_mềm chương_trình NOT
+1577,có hướng dẫn đầy đủ dễ hiểu .,2,0,hướng_dẫn đầy_đủ hiểu
+1578,hướng dẫn lab mơ hồ .,0,0,hướng_dẫn lab mơ_hồ
+1579,"thầy cho chúng em những bài tập mang tính thực hành , thực tiễn cao và em thực sự rất hài lòng .",2,0,thầy bài_tập thực_hành thực_tiễn hài_lòng
+1580,thầy không dạy nhiều chủ yếu cho sinh viên tự tìm hiểu .,0,0,thầy NOT dạy nhiều chủ_yếu sinh_viên
+1581,em muốn đổi tên môn học vì tên môn là lập trình c fraction cplusplus nhưng lại học thiên về csharp .,0,1,đổi môn_học môn lập_trình c fraction  học  
+1582,thầy vừa dạy vừa chat hoặc gọi điện thoại thường xuyên .,0,0,thầy dạy  gọi điện_thoại thường_xuyên
