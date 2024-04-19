@@ -1117,7 +1117,6 @@ quay_bước
 quay_lại
 quay_số
 quay_đi
-quá
 quá_bán
 quá_bộ
 quá_giờ
