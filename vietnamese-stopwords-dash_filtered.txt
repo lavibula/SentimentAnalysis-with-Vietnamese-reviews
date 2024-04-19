@@ -884,7 +884,6 @@ nhanh_lên
 nhanh_tay
 nhau
 nhiên_hậu
-nhiều
 nhiều_ít
 nhiệt_liệt
 nhung_nhăng
@@ -1124,7 +1123,6 @@ quá_bộ
 quá_giờ
 quá_lời
 quá_mức
-quá_nhiều
 quá_tay
 quá_thì
 quá_tin
