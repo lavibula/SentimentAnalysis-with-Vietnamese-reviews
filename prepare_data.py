@@ -7,7 +7,7 @@ TRAIN_DATA_PATH = "Data_preprocessed/Train.csv"
 VAL_DATA_PATH = "Data_preprocessed/Validation.csv"
 
 class SentimentDataset(Dataset):
-    def __init__(self, sentences, sentiment, topic, tokenizer = None, max_length = 256, padding = "longest", truncation=True, tokenized = False):
+    def __init__(self, sentences, sentiment, topic, tokenizer = None, max_length = 256, padding = "max_length", truncation = True, tokenized = False):
         self.logger = logging.getLogger("SentimentDataset")
         self.sentiment = sentiment
         self.topic = topic
@@ -20,7 +20,7 @@ class SentimentDataset(Dataset):
             raise ValueError(f"When {tokenized = }, tokenizer must not be None")
         else:
             self.logger.info("Tokenizing...")
-            self.tokenized = tokenizer(sentences, max_length = max_length, padding = padding, truncation = truncation)
+            self.tokenized = tokenizer(sentences, padding = padding, max_length = max_length, truncation = truncation)
     
     def __len__(self):
         return len(self.topic)
@@ -38,7 +38,7 @@ def load_data(data_path, tokenizer, tokenized = False):
     sentences = df["sentence_dropped"].tolist()
     sentiment = df["sentiment"].tolist()
     topic = df["topic"].tolist()
-    return SentimentDataset(sentences, sentiment, topic, tokenizer, tokenized)
+    return SentimentDataset(sentences, sentiment, topic, tokenizer = tokenizer, max_length = 256, padding = "max_length", truncation = True, tokenized = tokenized)
 
 if __name__ == "__main__":
     from transformers import AutoTokenizer

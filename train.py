@@ -37,8 +37,8 @@ def main():
     training_args = TrainingArguments(
         output_dir = "output",
         num_train_epochs = 30,
-        per_device_train_batch_size = 45,
-        per_device_eval_batch_size = 45,
+        per_device_train_batch_size = 8,
+        per_device_eval_batch_size = 8,
         warmup_steps = 500,
         weight_decay = 0.01,
         logging_dir = "logs",
