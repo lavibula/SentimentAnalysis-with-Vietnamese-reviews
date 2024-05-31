@@ -1,0 +1,128 @@
+{
+    "os": "Linux-5.15.0-107-generic-x86_64-with-glibc2.35",
+    "python": "3.10.14",
+    "heartbeatAt": "2024-05-31T15:06:53.780280",
+    "startedAt": "2024-05-31T15:06:52.676136",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/trickywhitecat/Projects/SentimentAnalysis-with-Vietnamese-reviews/train.py",
+    "codePathLocal": "train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/lavibula/SentimentAnalysis-with-Vietnamese-reviews.git",
+        "commit": "f0b06944d62389faf6c9dc9e03fced574796cb08"
+    },
+    "email": "nmttuan1501@gmail.com",
+    "root": "/home/trickywhitecat/Projects/SentimentAnalysis-with-Vietnamese-reviews",
+    "host": "nmt",
+    "username": "trickywhitecat",
+    "executable": "/home/trickywhitecat/miniconda3/envs/nlp/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2245.299,
+        "min": 1200.0,
+        "max": 3200.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1200.0,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1200.0,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2935.14,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1200.0,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1200.0,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1200.0,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3535.109,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1200.0,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1200.0,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1200.0,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1200.0,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3200.0,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3667.651,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1200.0,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1200.0,
+            "min": 1200.0,
+            "max": 3200.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 162.03795623779297,
+            "used": 126.79276657104492
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 15.024833679199219
+    }
+}
