@@ -6,8 +6,8 @@ import logging
 
 import os
 os.environ["WANDB_PROJECT"]="VietnameseSentimentAnalysis"
-import wandb
-wandb.login(key="3f1b76982c335dfa2a93d09ae7cf4b34a640bc60")
+#import wandb
+#wandb.login(key="3f1b76982c335dfa2a93d09ae7cf4b34a640bc60")
 
 logging.basicConfig(level = logging.INFO)
 
@@ -23,7 +23,7 @@ def compute_metrics(pred, metric):
 
 def main():
     tokenizer = AutoTokenizer.from_pretrained(PRETRAINED_MODEL)
-    config = RobertaConfig(problem_type = "single_label_classification", num_labels = NUM_LABELS)
+    config = RobertaConfig(problem_type = "single_label_classification", num_labels = NUM_LABELS, use_cls = False, classifier_input_length = 256*768, hidden_size=120)
     classifier = RobertaForSequenceClassification(config).classifier
     model = RobertaForSequenceClassification(config).from_pretrained("vinai/phobert-base")
     model.classifier = classifier
@@ -37,20 +37,20 @@ def main():
     training_args = TrainingArguments(
         output_dir = "output",
         num_train_epochs = 30,
-        per_device_train_batch_size = 8,
-        per_device_eval_batch_size = 8,
+        per_device_train_batch_size = 1,
+        per_device_eval_batch_size = 1,
         warmup_steps = 500,
         weight_decay = 0.01,
         logging_dir = "logs",
-        logging_steps = 200,
+        logging_steps = 100,
         eval_strategy = "steps",
         eval_steps = 1000,
         save_steps = 1000,
         save_total_limit = 3,
-        dataloader_num_workers = 8,
+        dataloader_num_workers = 2,
         dataloader_prefetch_factor = 2,
-        report_to="wandb",
-        run_name="phobert-cls"
+        #report_to="wandb",
+        #run_name="phobert-cls"
     )
     
     trainer = Trainer(
