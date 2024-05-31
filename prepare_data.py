@@ -7,7 +7,7 @@ TRAIN_DATA_PATH = "Data_preprocessed/Train.csv"
 VAL_DATA_PATH = "Data_preprocessed/Validation.csv"
 
 class SentimentDataset(Dataset):
-    def __init__(self, sentences, sentiment, topic, tokenizer = None, max_length = 256, padding = "max_length", truncation = True, tokenized = False):
+    def __init__(self, sentences, sentiment, topic, tokenizer = None, max_length = 128, padding = "max_length", truncation = True, tokenized = False):
         self.logger = logging.getLogger("SentimentDataset")
         self.sentiment = sentiment
         self.topic = topic
@@ -33,12 +33,12 @@ class SentimentDataset(Dataset):
         token['label'] = torch.tensor(gt)
         return token
     
-def load_data(data_path, tokenizer, tokenized = False):
+def load_data(data_path, tokenizer, tokenized = False, max_length = 256, padding = "max_length", truncation = True):
     df = pd.read_csv(data_path).dropna()
     sentences = df["sentence_dropped"].tolist()
     sentiment = df["sentiment"].tolist()
     topic = df["topic"].tolist()
-    return SentimentDataset(sentences, sentiment, topic, tokenizer = tokenizer, max_length = 256, padding = "max_length", truncation = True, tokenized = tokenized)
+    return SentimentDataset(sentences, sentiment, topic, tokenizer = tokenizer, max_length = max_length, padding = padding, truncation = truncation, tokenized = tokenized)
 
 if __name__ == "__main__":
     from transformers import AutoTokenizer
