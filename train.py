@@ -21,7 +21,7 @@ def get_config(path):
     return config
 
 def main():
-    ymlconfig = get_config("config.yml")
+    ymlconfig = get_config("./config.yml")
 
     import wandb
     wandb.login(key=ymlconfig['wandb']['key'])
