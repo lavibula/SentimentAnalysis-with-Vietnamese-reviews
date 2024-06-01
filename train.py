@@ -5,53 +5,48 @@ from prepare_data import load_data
 import logging
 
 import os
-os.environ["WANDB_PROJECT"]="VietnameseSentimentAnalysis"
-#import wandb
-#wandb.login(key="3f1b76982c335dfa2a93d09ae7cf4b34a640bc60")
 
 logging.basicConfig(level = logging.INFO)
-
-TRAIN_DATA_PATH = "Data_preprocessed/Train.csv"
-VAL_DATA_PATH = "Data_preprocessed/Validation.csv"
-PRETRAINED_MODEL = "vinai/phobert-base"
-NUM_LABELS = 16
 
 def compute_metrics(pred, metric):
     logits, labels = pred
     predictions = logits.argmax(-1)
     return metric.compute(predictions = predictions, references = labels)
 
+def get_config(path):
+    """Load the config from a yml file"""
+    import yaml
+    with open(path, "r") as file:
+        config = yaml.safe_load(file)
+    return config
+
 def main():
+    ymlconfig = get_config("config.yml")
+
+    import wandb
+    wandb.login(key=ymlconfig['wandb']['key'])
+    os.environ["WANDB_PROJECT"]=ymlconfig['wandb']['project']
+
+    TRAIN_DATA_PATH = ymlconfig['data']['train_path']
+    VAL_DATA_PATH = ymlconfig['data']['val_path']
+    NUM_LABELS = ymlconfig['data']['num_labels']
+
+    MODEL_CONFIG = ymlconfig['model']
+    PRETRAINED_MODEL = MODEL_CONFIG['pretrain']
+
     tokenizer = AutoTokenizer.from_pretrained(PRETRAINED_MODEL)
-    config = RobertaConfig(problem_type = "single_label_classification", num_labels = NUM_LABELS, use_cls = False, classifier_input_length = 256*768, hidden_size=120)
+    config = RobertaConfig(**MODEL_CONFIG['config'])
     classifier = RobertaForSequenceClassification(config).classifier
-    model = RobertaForSequenceClassification(config).from_pretrained("vinai/phobert-base")
+    model = RobertaForSequenceClassification(config).from_pretrained(PRETRAINED_MODEL)
     model.classifier = classifier
     model.num_labels = NUM_LABELS
     train_dataset = load_data(TRAIN_DATA_PATH, tokenizer)
     val_dataset = load_data(VAL_DATA_PATH, tokenizer)
 
-    metric = evaluate.load("accuracy")
+    metric = evaluate.load(ymlconfig['eval']['metric'])
     compute_metric = lambda pred: compute_metrics(pred, metric)
     
-    training_args = TrainingArguments(
-        output_dir = "output",
-        num_train_epochs = 30,
-        per_device_train_batch_size = 1,
-        per_device_eval_batch_size = 1,
-        warmup_steps = 500,
-        weight_decay = 0.01,
-        logging_dir = "logs",
-        logging_steps = 100,
-        eval_strategy = "steps",
-        eval_steps = 1000,
-        save_steps = 1000,
-        save_total_limit = 3,
-        dataloader_num_workers = 2,
-        dataloader_prefetch_factor = 2,
-        #report_to="wandb",
-        #run_name="phobert-cls"
-    )
+    training_args = TrainingArguments(**ymlconfig['train'])
     
     trainer = Trainer(
         model = model,
