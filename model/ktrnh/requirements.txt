@@ -1,0 +1,9 @@
+transformers
+evaluate
+huggingface_hub
+datasets
+wandb
+underthesea
+streamlit
+pyvi
+pyyaml
