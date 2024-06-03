@@ -1,26 +1,27 @@
 wandb:
-    key: 
+    key: 3f1b76982c335dfa2a93d09ae7cf4b34a640bc60
     project: "VietnameseSentimentAnalysis"
 data:
     train_path: Data_preprocessed/Train.csv
-    val_path: Data_preprocessed/Validation.csv
-    num_labels: 16
+    val_path: Data_preprocessed/Test.csv
+    num_labels: 12
 model:
-    pretrain: vinai/phobert-base
+    pretrain: vinai/phobert-base-v2
     config:
         problem_type: single_label_classification
-        num_labels: 16
+        num_labels: 12
         use_cls: False
         classifier_input_length: 196608 # 256 (sequence length) * 768 (bert output size)
         hidden_size: 120
+        classifier_dropout: 0.3
 train:
     output_dir: "output"
-    num_train_epochs: 30
+    num_train_epochs: 15
     per_device_train_batch_size: 4
     gradient_accumulation_steps: 16
     per_device_eval_batch_size: 4
-    learning_rate: 0.0005
-    warmup_steps: 50
+    learning_rate: 0.00005
+    warmup_steps: 200
     weight_decay: 0.01
     logging_dir: "logs"
     logging_steps: 10
@@ -31,7 +32,14 @@ train:
     dataloader_num_workers: 4
     dataloader_prefetch_factor: 2
     report_to: "wandb"
-    run_name: "phobert-cls"
+    run_name: "phobert-cls_sentiments"
     load_best_model_at_end: True
 eval:
-    metric: accuracy
+    metrics:
+        accuracy:
+        precision:
+            average: weighted
+        recall:
+            average: weighted
+        f1:
+            average: weighted

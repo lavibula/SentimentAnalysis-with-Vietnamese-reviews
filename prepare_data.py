@@ -7,7 +7,7 @@ TRAIN_DATA_PATH = "Data_preprocessed/Train.csv"
 VAL_DATA_PATH = "Data_preprocessed/Validation.csv"
 
 class SentimentDataset(Dataset):
-    def __init__(self, sentences, sentiment, topic, tokenizer = None, max_length = 128, padding = "max_length", truncation = True, tokenized = False):
+    def __init__(self, sentences, sentiment, topic = None, tokenizer = None, max_length = 128, padding = "max_length", truncation = True, tokenized = False):
         self.logger = logging.getLogger("SentimentDataset")
         self.sentiment = sentiment
         self.topic = topic
@@ -23,14 +23,14 @@ class SentimentDataset(Dataset):
             self.tokenized = tokenizer(sentences, padding = padding, max_length = max_length, truncation = truncation)
     
     def __len__(self):
-        return len(self.topic)
+        return len(self.sentiment)
     
     def __getitem__(self, idx):
         token = {key: torch.tensor(val[idx]) for key, val in self.tokenized.items()}
         topic = self.topic[idx]
         sentiment = self.sentiment[idx]
         gt = self.num_sentiments * topic + sentiment # Merge topic and sentiment into one label
-        token['label'] = torch.tensor(gt)
+        token['label'] = torch.tensor(gt) # Try sentiment only
         return token
     
 def load_data(data_path, tokenizer, tokenized = False, max_length = 256, padding = "max_length", truncation = True):

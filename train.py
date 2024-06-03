@@ -8,10 +8,17 @@ import os
 
 logging.basicConfig(level = logging.INFO)
 
-def compute_metrics(pred, metric):
+def compute_metrics(pred, metrics):
+    metric_names = [m for m in metrics.keys()]
+    metric_args = [metrics[m] for m in metric_names]
+    for idx, args in enumerate(metric_args):
+        if args is None:
+            metric_args[idx] = {}
+    metrics = [evaluate.load(m) for m in metric_names]
+
     logits, labels = pred
     predictions = logits.argmax(-1)
-    return metric.compute(predictions = predictions, references = labels)
+    return {name: metric.compute(predictions=predictions, references=labels, **args) for name, metric, args in zip(metric_names, metrics, metric_args)}
 
 def get_config(path):
     """Load the config from a yml file"""
@@ -43,8 +50,7 @@ def main():
     train_dataset = load_data(TRAIN_DATA_PATH, tokenizer)
     val_dataset = load_data(VAL_DATA_PATH, tokenizer)
 
-    metric = evaluate.load(ymlconfig['eval']['metric'])
-    compute_metric = lambda pred: compute_metrics(pred, metric)
+    compute_metric = lambda pred: compute_metrics(pred, ymlconfig['eval']['metrics'])
     
     training_args = TrainingArguments(**ymlconfig['train'])
     
